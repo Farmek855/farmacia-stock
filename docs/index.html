@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Farmacia Limache · Stock disponible</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#F5F6F2;
+    --paper:#FFFFFF;
+    --ink:#1C2321;
+    --ink-soft:#5B655F;
+    --ink-faint:#8B948D;
+    --rule:#DCDFD7;
+    --green:#1F6F4A;
+    --green-soft:#E3F0E8;
+    --green-line:#BFDACB;
+    --clay:#9A5A32;
+    --clay-soft:#F3E7DC;
+    --clay-line:#E3C7AE;
+    --focus:#1F6F4A;
+    --radius:3px;
+  }
+
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'Inter',system-ui,sans-serif;
+    line-height:1.45;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  a{color:inherit;}
+
+  /* ---------- Header ---------- */
+  header{
+    border-bottom:1px solid var(--rule);
+    background:var(--paper);
+  }
+  .header-inner{
+    max-width:1180px;
+    margin:0 auto;
+    padding:28px 24px 22px;
+  }
+  .crest{
+    display:flex;
+    align-items:baseline;
+    gap:10px;
+    margin-bottom:4px;
+  }
+  .crest svg{flex:none;}
+  h1{
+    font-family:'Source Serif 4', Georgia, serif;
+    font-weight:700;
+    font-size:1.65rem;
+    margin:0;
+    letter-spacing:-0.01em;
+  }
+  .subtitle{
+    color:var(--ink-soft);
+    font-size:0.94rem;
+    margin:2px 0 0;
+  }
+  .meta-line{
+    margin-top:14px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:6px 18px;
+    font-size:0.82rem;
+    color:var(--ink-faint);
+    border-top:1px solid var(--rule);
+    padding-top:10px;
+  }
+  .meta-line strong{color:var(--ink-soft); font-weight:600;}
+
+  /* ---------- Controls ---------- */
+  .controls{
+    max-width:1180px;
+    margin:0 auto;
+    padding:22px 24px 0;
+  }
+  .search-row{
+    display:flex;
+    gap:12px;
+    flex-wrap:wrap;
+  }
+  .search-box{
+    flex:1 1 320px;
+    position:relative;
+  }
+  .search-box input{
+    width:100%;
+    padding:12px 14px 12px 40px;
+    border:1px solid var(--rule);
+    border-radius:var(--radius);
+    background:var(--paper);
+    font-family:'Inter',sans-serif;
+    font-size:0.98rem;
+    color:var(--ink);
+  }
+  .search-box input:focus{
+    outline:2px solid var(--focus);
+    outline-offset:1px;
+  }
+  .search-box::before{
+    content:"";
+    position:absolute;
+    left:14px; top:50%;
+    width:16px; height:16px;
+    margin-top:-8px;
+    background:no-repeat center/contain;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%235B655F' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cline x1='21' y1='21' x2='16.5' y2='16.5'/%3E%3C/svg%3E");
+  }
+  select{
+    padding:12px 14px;
+    border:1px solid var(--rule);
+    border-radius:var(--radius);
+    background:var(--paper);
+    font-family:'Inter',sans-serif;
+    font-size:0.92rem;
+    color:var(--ink);
+    min-width:180px;
+  }
+  select:focus{outline:2px solid var(--focus); outline-offset:1px;}
+
+  .tabs{
+    display:flex;
+    gap:4px;
+    margin-top:14px;
+    flex-wrap:wrap;
+  }
+  .tab{
+    padding:7px 14px;
+    border-radius:999px;
+    border:1px solid var(--rule);
+    background:var(--paper);
+    color:var(--ink-soft);
+    font-size:0.86rem;
+    font-weight:500;
+    cursor:pointer;
+  }
+  .tab[aria-pressed="true"]{
+    background:var(--ink);
+    color:var(--paper);
+    border-color:var(--ink);
+  }
+  .tab:focus-visible{outline:2px solid var(--focus); outline-offset:2px;}
+
+  .count-line{
+    max-width:1180px;
+    margin:16px auto 0;
+    padding:0 24px;
+    font-size:0.86rem;
+    color:var(--ink-faint);
+  }
+
+  /* ---------- Grid ---------- */
+  main{
+    max-width:1180px;
+    margin:0 auto;
+    padding:14px 24px 60px;
+  }
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(270px, 1fr));
+    gap:14px;
+    margin-top:10px;
+  }
+  .card{
+    background:var(--paper);
+    border:1px solid var(--rule);
+    border-radius:var(--radius);
+    padding:16px 16px 14px;
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+  }
+  .card-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:10px;
+  }
+  .codigo{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.74rem;
+    font-weight:600;
+    color:var(--ink-faint);
+    letter-spacing:0.02em;
+    white-space:nowrap;
+  }
+  .tipo-chip{
+    font-size:0.7rem;
+    font-weight:600;
+    padding:2px 8px;
+    border-radius:999px;
+    white-space:nowrap;
+  }
+  .tipo-chip.medicamento{
+    background:var(--green-soft);
+    color:var(--green);
+    border:1px solid var(--green-line);
+  }
+  .tipo-chip.insumo{
+    background:var(--clay-soft);
+    color:var(--clay);
+    border:1px solid var(--clay-line);
+  }
+  .nombre{
+    font-family:'Source Serif 4', Georgia, serif;
+    font-size:1.12rem;
+    font-weight:600;
+    line-height:1.28;
+    margin:0;
+  }
+  .marca{
+    font-size:0.82rem;
+    color:var(--ink-soft);
+    font-weight:500;
+  }
+  .descriptor{
+    font-size:0.85rem;
+    color:var(--ink-soft);
+    line-height:1.4;
+  }
+  .card-bottom{
+    margin-top:auto;
+    padding-top:8px;
+    border-top:1px solid var(--rule);
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    font-size:0.78rem;
+    color:var(--ink-faint);
+  }
+  .presentacion{
+    font-weight:500;
+  }
+  .categoria{
+    font-style:italic;
+  }
+
+  .empty-state{
+    text-align:center;
+    padding:70px 20px;
+    color:var(--ink-faint);
+  }
+  .empty-state p:first-child{
+    font-family:'Source Serif 4', serif;
+    font-size:1.2rem;
+    color:var(--ink-soft);
+    margin-bottom:6px;
+  }
+
+  footer{
+    max-width:1180px;
+    margin:0 auto;
+    padding:0 24px 40px;
+    font-size:0.78rem;
+    color:var(--ink-faint);
+    border-top:1px solid var(--rule);
+    padding-top:16px;
+  }
+
+  @media (max-width:560px){
+    .header-inner{padding:20px 16px 16px;}
+    .controls{padding:18px 16px 0;}
+    main{padding:14px 16px 50px;}
+    h1{font-size:1.32rem;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="crest">
+      <svg width="26" height="26" viewBox="0 0 26 26" fill="none" aria-hidden="true">
+        <rect x="10.5" y="3" width="5" height="20" rx="1" fill="#1F6F4A"/>
+        <rect x="3" y="10.5" width="20" height="5" rx="1" fill="#1F6F4A"/>
+      </svg>
+      <h1>Stock disponible</h1>
+    </div>
+    <p class="subtitle">Farmacia Limache · CAPREDENA — consulta para personal médico y de enfermería</p>
+    <div class="meta-line">
+      <span>Actualizado: <strong id="meta-fecha">—</strong></span>
+      <span><strong id="meta-total">—</strong> productos con stock</span>
+      <span>Solo referencial: confirmar disponibilidad exacta en farmacia</span>
+    </div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="search-row">
+    <div class="search-box">
+      <input type="text" id="buscador" placeholder="Buscar por nombre, marca o código..." autocomplete="off">
+    </div>
+    <select id="filtro-categoria">
+      <option value="">Todas las categorías</option>
+    </select>
+  </div>
+  <div class="tabs" id="tabs-tipo">
+    <button class="tab" data-tipo="" aria-pressed="true">Todos</button>
+  </div>
+</div>
+
+<p class="count-line" id="linea-conteo"></p>
+
+<main>
+  <div class="grid" id="grid"></div>
+  <div class="empty-state" id="empty" hidden>
+    <p>Sin resultados</p>
+    <p>Prueba con otro nombre, marca o código.</p>
+  </div>
+</main>
+
+<footer>
+  Datos generados automáticamente desde la planilla de inventario. Si un producto no aparece aquí, puede estar sin stock en este momento.
+</footer>
+
+<script>
+async function cargarDatos(){
+  const res = await fetch('data.json', {cache:'no-store'});
+  const payload = await res.json();
+  return payload;
+}
+
+function normaliza(s){
+  return (s || '').toString().toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+}
+
+function tipoClase(tipo){
+  const t = normaliza(tipo);
+  if (t.includes('insumo')) return 'insumo';
+  return 'medicamento';
+}
+
+function tipoEtiqueta(tipo){
+  const t = normaliza(tipo);
+  if (t.includes('insumo')) return 'Insumo';
+  if (t.includes('inyect')) return 'Inyectable';
+  return 'Medicamento';
+}
+
+function renderTarjeta(p){
+  const div = document.createElement('article');
+  div.className = 'card';
+  div.innerHTML = `
+    <div class="card-top">
+      <span class="codigo">${p.codigo || ''}</span>
+      <span class="tipo-chip ${tipoClase(p.tipo)}">${tipoEtiqueta(p.tipo)}</span>
+    </div>
+    <h2 class="nombre">${p.nombre || p.descripcion || 'Sin nombre'}</h2>
+    ${p.marca ? `<div class="marca">${p.marca}</div>` : ''}
+    ${p.descripcion ? `<div class="descriptor">${p.descripcion}</div>` : ''}
+    <div class="card-bottom">
+      <span class="presentacion">${p.presentacion || ''}</span>
+      <span class="categoria">${p.categoria || ''}</span>
+    </div>
+  `;
+  return div;
+}
+
+(async function init(){
+  let payload;
+  try{
+    payload = await cargarDatos();
+  }catch(e){
+    document.getElementById('grid').innerHTML =
+      '<p style="color:#9A5A32">No se pudo cargar data.json. Verifica que el archivo exista junto a index.html.</p>';
+    return;
+  }
+
+  const productos = payload.productos || [];
+  document.getElementById('meta-fecha').textContent = payload.generado || '—';
+  document.getElementById('meta-total').textContent = productos.length;
+
+  // Poblar categorias
+  const categorias = [...new Set(productos.map(p => (p.categoria || '').trim()).filter(Boolean))].sort();
+  const selCat = document.getElementById('filtro-categoria');
+  categorias.forEach(c => {
+    const opt = document.createElement('option');
+    opt.value = c; opt.textContent = c;
+    selCat.appendChild(opt);
+  });
+
+  // Poblar tabs de tipo
+  const tipos = [...new Set(productos.map(p => tipoEtiqueta(p.tipo)))].sort();
+  const tabsWrap = document.getElementById('tabs-tipo');
+  tipos.forEach(t => {
+    const btn = document.createElement('button');
+    btn.className = 'tab';
+    btn.dataset.tipo = t;
+    btn.setAttribute('aria-pressed', 'false');
+    btn.textContent = t;
+    tabsWrap.appendChild(btn);
+  });
+
+  let tipoActivo = '';
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+  const conteo = document.getElementById('linea-conteo');
+  const input = document.getElementById('buscador');
+
+  function aplicarFiltros(){
+    const q = normaliza(input.value);
+    const cat = selCat.value;
+
+    const filtrados = productos.filter(p => {
+      if (tipoActivo && tipoEtiqueta(p.tipo) !== tipoActivo) return false;
+      if (cat && p.categoria !== cat) return false;
+      if (q){
+        const campo = normaliza([p.codigo, p.nombre, p.marca, p.descripcion].join(' '));
+        if (!campo.includes(q)) return false;
+      }
+      return true;
+    });
+
+    grid.innerHTML = '';
+    filtrados.forEach(p => grid.appendChild(renderTarjeta(p)));
+    empty.hidden = filtrados.length !== 0;
+    conteo.textContent = `Mostrando ${filtrados.length} de ${productos.length} productos`;
+  }
+
+  input.addEventListener('input', aplicarFiltros);
+  selCat.addEventListener('change', aplicarFiltros);
+  tabsWrap.addEventListener('click', (e) => {
+    const btn = e.target.closest('.tab');
+    if (!btn) return;
+    tabsWrap.querySelectorAll('.tab').forEach(b => b.setAttribute('aria-pressed','false'));
+    btn.setAttribute('aria-pressed','true');
+    tipoActivo = btn.dataset.tipo;
+    aplicarFiltros();
+  });
+
+  aplicarFiltros();
+})();
+</script>
+
+</body>
+</html>
