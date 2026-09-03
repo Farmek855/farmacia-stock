@@ -1,0 +1,3245 @@
+{
+  "generado": "03-09-2026 18:23",
+  "productos": [
+    {
+      "codigo": "1A467",
+      "nombre": "AC ACETILSALICILICO 100 M",
+      "descripcion": "ACIDO ACETILSALICILICO 100 mg  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIAGREGANTE PLAQUETARIO",
+      "presentacion": "CAPSULAS"
+    },
+    {
+      "codigo": "1A073",
+      "nombre": "AC MEFENAMICO 500 MG 10 C",
+      "descripcion": "ACIDO MEFENAMICO 500 mg  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "AINES",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1A320",
+      "nombre": "AC VALPROICO 250 MG 20 CO",
+      "descripcion": "ACIDO VALPROICO 250 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIEPILEPTICOS",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1A134",
+      "nombre": "ACICLOVIR 400 MG 35 COMP",
+      "descripcion": "ACICLOVIR 400 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIVIRAL",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1A131",
+      "nombre": "ACICLOVIR CREMA 15 GRS",
+      "descripcion": "ACICLOVIR CREMA TÓPICO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIVIRAL",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "1A228",
+      "nombre": "ALFADOXIN 4 MG 30 COMP BE",
+      "descripcion": "DOXAZOSINA 4MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1A129",
+      "nombre": "ALOPURINOL 100 MG COMPRIM",
+      "descripcion": "ALOPURINOL 100 mg  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIGOTOSO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1A117",
+      "nombre": "ALPRAZOLAM 0,50 MG 30 COM",
+      "descripcion": "ALPRAZOLAM 0,5 mg  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "BENZODIAZEPINAS",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1A039",
+      "nombre": "AMIODARONA 200 MG 20 COMP",
+      "descripcion": "AMIODARONA 200 mg comprimidos  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIARRITMICO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1A332",
+      "nombre": "AMLODIPINO 10 MG 30 COMPR",
+      "descripcion": "AMLODIPINO 10 mg  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIHIPERTENSIVOS",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1A331",
+      "nombre": "AMLODIPINO 5 MG 30 COMP",
+      "descripcion": "AMLODIPINO 5 mg  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIHIPERTENSIVOS",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1A470",
+      "nombre": "AMOXI/AC. CLAV 875/125 20",
+      "descripcion": "AMOXICILINA+AC. CLAVULANICO 850/125 mg  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1A067",
+      "nombre": "AMOXICILINA 750 MG 10 COM",
+      "descripcion": "AMOXICILINA 750 MG  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1A101",
+      "nombre": "ARIPIPRAZOL 15 MG 30 COMP",
+      "descripcion": "ARIPIPRAZÓL 15 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIDEPRESIVOS",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1A297",
+      "nombre": "AZITROMICINA 500 MG 6 COM",
+      "descripcion": "AZITROMICINA 500 MG",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "CAJA"
+    },
+    {
+      "codigo": "100A901",
+      "nombre": "AEROCAMARA VALVULADA AD 6",
+      "descripcion": "AEROCAMARA ADULTO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100A501",
+      "nombre": "AEROCAMARA TQT PLUS TRUDE",
+      "descripcion": "AEROCAMARA TQT",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "78A377",
+      "nombre": "AGUA BIDE 10 CC 100 AMP P",
+      "descripcion": "AGUA DESTILADA AMPOLLAS 5,10 o 20 cc",
+      "tipo": "INYECTABLES",
+      "categoria": "AGUA DESTILADA",
+      "presentacion": "AMP PLAS"
+    },
+    {
+      "codigo": "100H058",
+      "nombre": "HUMIDIFICADOR DES 340 -",
+      "descripcion": "AGUA DESTILADA HUMIDIFICADOR",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDA"
+    },
+    {
+      "codigo": "1B236",
+      "nombre": "BACLOFENO 10 MG 20 COMP",
+      "descripcion": "BACLOFENO 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIESPÁSTICO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "135A072",
+      "nombre": "AGUJA NOVOFINE 32 G 4 MM",
+      "descripcion": "AGUJA 32 G  PARA LAPIZ INSULINA",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "131A220",
+      "nombre": "ALARGADOR VEN CON LLAVE Y",
+      "descripcion": "ALARGADOR VENOSO CON LLAVE",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100A274",
+      "nombre": "ALCOHOL 70 250 CC(CJA X 3",
+      "descripcion": "ALCOHOL 70% 250 CC",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "1B082",
+      "nombre": "BETAMETASONA 4 MG 1 CC 10",
+      "descripcion": "BETAMETASONA 4 MG/ML INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "CORTICOTERAPIA",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "1B083",
+      "nombre": "BETAMETASONA CR 15 GRS",
+      "descripcion": "BETAMETASONA CREMA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "CORTICOIDES TÓPICOS",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "100A047",
+      "nombre": "ALGODON PRENSADO 1 KG",
+      "descripcion": "ALGODÓN HIDRÓFILO PRENSADO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "PAQUETE"
+    },
+    {
+      "codigo": "1B001",
+      "nombre": "BISOPROLOL 2.5 MG 30 COMP",
+      "descripcion": "BISOPROLOL 2,5 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIHIPERTENSIVOS",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1B016",
+      "nombre": "BISOPROLOL 5 MG 30 COMP (",
+      "descripcion": "BISOPROLOL  5 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIHIPERTENSIVOS",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C271",
+      "nombre": "CAM 30 COMP",
+      "descripcion": "BETAMETASONA  ; CLORFENAMINA VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIALÉRGICO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C402",
+      "nombre": "CAPTOPRIL 25 MG 30 COMP",
+      "descripcion": "CAPTOPRIL 25 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C017",
+      "nombre": "CARBAMAZEPINA 200 MG 20 C",
+      "descripcion": "CARBAMAZEPINA 200 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C529",
+      "nombre": "CARVEDILOL 12.5 MG 30 COM",
+      "descripcion": "CARVEDILOL 12,5 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C082",
+      "nombre": "CEFADROXILO 500 MG 8 COMP",
+      "descripcion": "CEFADROXILO 500 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C010",
+      "nombre": "CELECOXIB 200 MG 10 CAPS",
+      "descripcion": "CELECOXIB 200 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULAS"
+    },
+    {
+      "codigo": "1C276",
+      "nombre": "CICLOBENZAPRINA 10 MG 20",
+      "descripcion": "CICLOBENZAPRINA 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C003",
+      "nombre": "CILOSVITAE 100 MG 28 COMP",
+      "descripcion": "CILOSTAZOL 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C164",
+      "nombre": "CIPROFLOXACINO 500 MG 6",
+      "descripcion": "CIPROFLOXACINO 500 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "COMPR"
+    },
+    {
+      "codigo": "1C409",
+      "nombre": "CLARITROMICINA 500/14 COM",
+      "descripcion": "CLARITROMICINA 500 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C421",
+      "nombre": "CLOBETASOL CR 25 GRS",
+      "descripcion": "CLOBETASOL 0,05% CREMA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "1C471",
+      "nombre": "CLONAZEPAM 0,5 MG 30 COMP",
+      "descripcion": "CLONAZEPAM 0,5 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C472",
+      "nombre": "CLONAZEPAM 2 MG 30 COMP B",
+      "descripcion": "CLONAZEPAM 2 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C544",
+      "nombre": "CLOPIDOGREL 75 MG 30 COMP",
+      "descripcion": "CLOPIDOGREL 75 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C166",
+      "nombre": "CLOTRIMAZOL CR 20 GRS",
+      "descripcion": "CLOTRIMAZOL 1% CREMA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "1C335",
+      "nombre": "CLOTRIMAZOL-BETAMET CREMA",
+      "descripcion": "CLOTRIMAZOL ; BETAMETASONA CREMA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "1C054",
+      "nombre": "CLOXACILINA 500 MG 12 CAP",
+      "descripcion": "CLOXACILINA 500 MG 12 VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "1C490",
+      "nombre": "CODETOL PM ADULTO 120 ML",
+      "descripcion": "CODEINA; PSEUDOEFEDRINA; CLORFENAMINA JARABE VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1C319",
+      "nombre": "CORTIPREX 20 MG 20 COMP B",
+      "descripcion": "PREDNISONA 20 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1D105",
+      "nombre": "DOMPERIDONA 10 MG 2 CC 10",
+      "descripcion": "DOMPERIDONA 10 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "1D106",
+      "nombre": "DOMPERIDONA 10 MG 20 COMP",
+      "descripcion": "DOMPERIDONA 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100F223",
+      "nombre": "FIBRACOL PLUS 10.2 X 11.1",
+      "descripcion": "APOSITO DE COLAGENO 10 X 11 CMS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "1D600",
+      "nombre": "DULOXETINA 30 MG 30 CAPSU",
+      "descripcion": "DULOXETINA 30 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULAS"
+    },
+    {
+      "codigo": "100A431",
+      "nombre": "APOSITO ESTERIL 10 X 10 X",
+      "descripcion": "APOSITO ESTERIL 10X10 GASA NO TEJIDA",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "APOSITO"
+    },
+    {
+      "codigo": "100G169",
+      "nombre": "GASA PARAFINADA ESTERIL 1",
+      "descripcion": "APOSITO PARAFINADO 10X10 CMS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "1D601",
+      "nombre": "DULOXETINA 60 MG 30 CAPS",
+      "descripcion": "DULOXETINA 30 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": ""
+    },
+    {
+      "codigo": "64T084",
+      "nombre": "TEGADERM 1624 100 UND",
+      "descripcion": "APOSITO TRANSPARENTE 6 X7 CMS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "1E239",
+      "nombre": "ECTIBAN 20 MG 30 COMP BEQ",
+      "descripcion": "ESCITALOPRAN 20 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1E271",
+      "nombre": "ECTIEN XR 150 MG 30 CAPS",
+      "descripcion": "VENLAFAXINA 75MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULAS"
+    },
+    {
+      "codigo": "1E249",
+      "nombre": "ESCITALOPRAM 10 MG 30 COM",
+      "descripcion": "ESCITALOPRAM 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1E261",
+      "nombre": "ESOMEPRAZOL 20 MG 30 CAPS",
+      "descripcion": "ESOMEPRAZOL 20 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULAS"
+    },
+    {
+      "codigo": "1E262",
+      "nombre": "ESOMEPRAZOL 40 MG 30 COMP",
+      "descripcion": "ESOMEPRAZOL 40 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULAS"
+    },
+    {
+      "codigo": "1F250",
+      "nombre": "FERBEX 200 MG 30 CAPS BEQ",
+      "descripcion": "FENOFIBRATO 200 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULAS"
+    },
+    {
+      "codigo": "1F252",
+      "nombre": "FLUCONAZOL 150 MG 2 CAPS",
+      "descripcion": "FLUCONAZOL 150 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "1F041",
+      "nombre": "FLUOXETINA 20 MG 20 COMP",
+      "descripcion": "FLUOXETINA 20 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1G068",
+      "nombre": "GRIFOCLOBAM 10 MG 20 COMP",
+      "descripcion": "CLOBAZAM 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1H024",
+      "nombre": "HALOPERIDOL 0,5 MG 20 COM",
+      "descripcion": "HALOPERIDOL0, 5 MG COMPRIMIDOS VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": ""
+    },
+    {
+      "codigo": "1H026",
+      "nombre": "HALOPERIDOL 5 MG 20 COMP",
+      "descripcion": "HALOPERIDOL 5 MG COMPRIMIDOS VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1H016",
+      "nombre": "HALOPERIDOL 5 MG AMP 1 CC",
+      "descripcion": "HALOPERIDOL 5 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "1H028",
+      "nombre": "HIDROCORTISONA 100 MG F/A",
+      "descripcion": "HIDROCORTISONA 100 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FCO/AMP"
+    },
+    {
+      "codigo": "100B136",
+      "nombre": "BIGOTERA P/OXIGENO ADULTO",
+      "descripcion": "BIGOTERA O CÁNULA NASAL",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "1H098",
+      "nombre": "HIDROCORTISONA 20 MG 20 C",
+      "descripcion": "HIDROCORTISONA 20 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1H089",
+      "nombre": "HIEDRIX JBE 100 CC",
+      "descripcion": "HEDERA HELIX JBE VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": ""
+    },
+    {
+      "codigo": "1H119",
+      "nombre": "HIPOGLUCIN 850 MG 60 COMP",
+      "descripcion": "METFORMINA 850 MG   VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1I005",
+      "nombre": "IBUPROFENO 400 MG 20 COMP",
+      "descripcion": "IBUPROFENO 400 MG 20 VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1I252",
+      "nombre": "IPRATROPIO BROMURO 25 MG",
+      "descripcion": "IPRATROPIO SOLUCION NEBULIZACION",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100B068",
+      "nombre": "BISTURI DESECH CON MANGO",
+      "descripcion": "BISTURI DESECH CON MANGO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "63B050",
+      "nombre": "BOLSA NAT OPACA 70 MM 138",
+      "descripcion": "BOLSA DE COLOSTOMÍA 70 MM",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "140B071",
+      "nombre": "BRANULA 20G 1 1/4\" JELCO",
+      "descripcion": "BRANULA 20G 1 1/4 JELCO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "140B111",
+      "nombre": "BRANULA 24G 3/4\" JELCO",
+      "descripcion": "BRANULA 24 G 3/4 PULGADAS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "140B066",
+      "nombre": "BRANULA 22G 1\" JELCO",
+      "descripcion": "BRANULA 24G 1 PULGADA",
+      "tipo": "insumos",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "1K062",
+      "nombre": "KETOPROFENO 100 MG IV X 1",
+      "descripcion": "KETOPROFENO 100 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLAS"
+    },
+    {
+      "codigo": "1K024",
+      "nombre": "KETOPROFENO 50 MG 20 CAP",
+      "descripcion": "KETOPROFENO 50 MG   VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "1K053",
+      "nombre": "KETOROLACO 10 MG 10 COMP",
+      "descripcion": "KETOROLACO 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1K047",
+      "nombre": "KITADOL 1 GR 18 COMP BEQ",
+      "descripcion": "PARACETAMOL 1000 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1K034",
+      "nombre": "KITADOL 500 MG 24 COMP BE",
+      "descripcion": "PARACETAMOL 500 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1L231",
+      "nombre": "LAMOTRIGINA 100 MG 30 COM",
+      "descripcion": "LAMOTRIGINA 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1L233",
+      "nombre": "LEVETIRACETAM 1 GR 30 COM",
+      "descripcion": "LEVETIRACETAM 1 GR VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1L232",
+      "nombre": "LEVETIRACETAM 500 MG 30 C",
+      "descripcion": "LEVETIRACETAM 500 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1L082",
+      "nombre": "LORATADINA 10 MG 30 COMP",
+      "descripcion": "LORATADINA 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1L008",
+      "nombre": "LORAZEPAM 2 MG 30 COMP BE",
+      "descripcion": "LORAZEPAM 2MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1L188",
+      "nombre": "LOSARTAN 50 MG 30 COMP BE",
+      "descripcion": "LOSARTAN 50 MG   VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1M230",
+      "nombre": "MELOXICAM 15 MG 10 COMP B",
+      "descripcion": "MELOXICAM 15 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": ""
+    },
+    {
+      "codigo": "100C400",
+      "nombre": "CANULA TQT # 8 C/PUERTO S",
+      "descripcion": "CANULA TQT #8 CON PUERTO SUBGLOTICO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "CANULA"
+    },
+    {
+      "codigo": "1M198",
+      "nombre": "METFORMINA 850 MG 30 COMP",
+      "descripcion": "METFORMINA 850 MG   VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100C338",
+      "nombre": "CANULA TRAQ #7,5 C/CAF PO",
+      "descripcion": "CANULA TRAQ # 7.5 C/CAF PO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100C337",
+      "nombre": "CANULA TRAQ #7 C/CAF PORT",
+      "descripcion": "CANULA TRAQUEOSTOMIA # 7",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100C462",
+      "nombre": "CANULA TQT # 8.5 C/CAF PO",
+      "descripcion": "CANULA TRAQUEOSTOMIA # 8.5",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "1M195",
+      "nombre": "METFORMINA XR 1000 MG 30",
+      "descripcion": "METFORMINA 1000 MG XR VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1M189",
+      "nombre": "METRONIDAZOL 500 MG 100 M",
+      "descripcion": "METRONIDAZOL 500 MG/100 ML INY",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "1M401",
+      "nombre": "MUPIROCINA 2% UGTO 15 GRS",
+      "descripcion": "MUPIROCINA 2% CREMA TÓPICA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "1N200",
+      "nombre": "NAPROXENO 550 MG 10 COMP",
+      "descripcion": "NAPROXENO 550 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": ""
+    },
+    {
+      "codigo": "1N178",
+      "nombre": "NASTIFRIN D/N 20 COMP",
+      "descripcion": "PSEUDOEFEDRINA ; CLORFENAMINA; PARACETAMOL VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": ""
+    },
+    {
+      "codigo": "1N195",
+      "nombre": "NEO-ALERTOP 30 COMP",
+      "descripcion": "LEVOCETIRIZINA 5 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": ""
+    },
+    {
+      "codigo": "1O091",
+      "nombre": "OMEPRAZOL 40 MG LIOF FCO/",
+      "descripcion": "OMEPRAZOL 40 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": ""
+    },
+    {
+      "codigo": "1P313",
+      "nombre": "PARACET + TRAMADOL 325/37",
+      "descripcion": "TRAMADOL 37,5 MG; PARACETAMOL 325 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1P051",
+      "nombre": "PARACETAMOL 500 MG 16 COM",
+      "descripcion": "PARACETAMOL 500 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1P901",
+      "nombre": "PREDNISONA 20 MG 20 COMP",
+      "descripcion": "PREDNISONA 20 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1P302",
+      "nombre": "PREGABALINA 150 MG 30 CAP",
+      "descripcion": "PREGABALINA 150 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULAS"
+    },
+    {
+      "codigo": "1Q012",
+      "nombre": "QUETIAPINA 100 MG X 30",
+      "descripcion": "QUETIAPINA 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1Q011",
+      "nombre": "QUETIAPINA 25 MG X 30",
+      "descripcion": "QUETIAPINA 25 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1S094",
+      "nombre": "SALBUTAMOL INH 100 MCG 20",
+      "descripcion": "SALBUTAMOL 200 MCG INHALADOR",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "1S373",
+      "nombre": "SERTRALINA 50 MG 30 COMP",
+      "descripcion": "SERTRALINA 50 MG   VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1S378",
+      "nombre": "SINCRIS 5 MG 30 COMP BEQ",
+      "descripcion": "OLANZAPINA 5 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1T334",
+      "nombre": "TAMSULOSINA 0.4 MG 30 CAP",
+      "descripcion": "TAMSULOSINA 0,4 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": ""
+    },
+    {
+      "codigo": "100T187",
+      "nombre": "TELA PAPEL BLCA 5 X 10(6)",
+      "descripcion": "CINTA MICROPOROSA 5 cm (2\")X 10 CMS",
+      "tipo": "insumos",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "ROLLO"
+    },
+    {
+      "codigo": "1T042",
+      "nombre": "TONARIL 2 MG 100 COMP",
+      "descripcion": "TRIHEXIFENIDILO 2 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1T333",
+      "nombre": "TRAMADOL GOTAS 20 ML",
+      "descripcion": "TRAMADOL 100 MG/ML VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100S101",
+      "nombre": "SONDA ASP CIRCUITO CERRAD",
+      "descripcion": "CIRCUITO CERRADO DE ASPIRACION",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "SONDA"
+    },
+    {
+      "codigo": "1T009",
+      "nombre": "TRIMEBUTINO 100 MG 20 COM",
+      "descripcion": "TRIMEBUTINO 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1T071",
+      "nombre": "TRITTICO 100 MG 20 COMP",
+      "descripcion": "TRAZODONA 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "1Z015",
+      "nombre": "OMEPRAZOL 20 MG 30 CAPS",
+      "descripcion": "OMEPRAZOL 20MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAJA"
+    },
+    {
+      "codigo": "2A002",
+      "nombre": "ACETAZOLAMIDA 250 MG 20 C",
+      "descripcion": "ACETAZOLAMIDA 250 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIGLAUCOMATOSO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "2A083",
+      "nombre": "AMIKACINA 500 MG 2 CC 100",
+      "descripcion": "AMIKACINA 500 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "2A498",
+      "nombre": "AMITRIPTILINA 25 MG 100 C",
+      "descripcion": "AMITRIPTILINA 25 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIDEPRESIVOS",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "2C021",
+      "nombre": "CLORFENAMINA 4 MG 20 COMP",
+      "descripcion": "CLORFENAMINA 4MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "2D002",
+      "nombre": "DIAZEPAM 10 MG 2 CC 100 A",
+      "descripcion": "DIAZEPAM 10 MG EV",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "2D001",
+      "nombre": "DIAZEPAM 10 MG 20 COMP BE",
+      "descripcion": "DIAZEPAM 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "2D015",
+      "nombre": "DIGOXINA 0.25 MG 30 COMP",
+      "descripcion": "DIGOXINA 0,25 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "2D006",
+      "nombre": "DIPIRONA (METAMIZOL) 300",
+      "descripcion": "METAMIZOL SODICO 300 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": ""
+    },
+    {
+      "codigo": "2D010",
+      "nombre": "DIPIRONA 1 GR 2 ML 5 AMP",
+      "descripcion": "METAMIZOL SODICO 1 G INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLAS"
+    },
+    {
+      "codigo": "2D004",
+      "nombre": "DIPIRONA(METAMIZOL) 1 GR",
+      "descripcion": "METAMIZOL SODICO 1 G INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "2E005",
+      "nombre": "ESPIRONOLACTONA 25 MG 20",
+      "descripcion": "ESPIRONOLACTONA 25 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "2F001",
+      "nombre": "FENITOINA SOD 100 MG 30 C",
+      "descripcion": "FENITOINA 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "2F245",
+      "nombre": "FENOTEROL/IPRATROPIO FCO",
+      "descripcion": "FENOTEROL/IPRATROPIO SOL NEBULIZACION",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "2F007",
+      "nombre": "FUROSEMIDA 40 MG 12 COMP",
+      "descripcion": "FUROSEMIDA 40 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "2H001",
+      "nombre": "HIDROCLOROTIAZIDA 50 MG 2",
+      "descripcion": "HIDROCLOROTIAZIDA 50 MG   VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "2L148",
+      "nombre": "LACTULOSA 200 ML (GEN)",
+      "descripcion": "LACTULOSA 65% VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "2L006",
+      "nombre": "LOPERAMIDA 2 MG 6 COMP",
+      "descripcion": "LOPERAMIDA 2MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMP"
+    },
+    {
+      "codigo": "2M004",
+      "nombre": "METOCLOPRAMIDA 10 MG 24 C",
+      "descripcion": "METOCLOPRAMIDA 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "2M005",
+      "nombre": "METRONIDAZOL 500 MG 10 OV",
+      "descripcion": "METRONIDAZOL 500 MG OVULOS VAGINALES",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "OVULOS"
+    },
+    {
+      "codigo": "2P007",
+      "nombre": "POTASIO GLUC JBE 200 ML",
+      "descripcion": "POTASIO GLUC 31,2% SOL ORAL",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "2P023",
+      "nombre": "PREDNISONA 5 MG 20 COMP B",
+      "descripcion": "PREDNISONA 5 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "2P008",
+      "nombre": "PRIMIDONA 250 MG 50 COMP",
+      "descripcion": "PRIMIDONA 250 MG",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "2P015",
+      "nombre": "PROPANOLOL 40 MG 20 COMP",
+      "descripcion": "PROPANOLOL 40 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "3E248",
+      "nombre": "ENSURE NG 850 GRS VAINILL",
+      "descripcion": "SUPLEMENTO ALIMENTICIO",
+      "tipo": "ALIMENTOS",
+      "categoria": "",
+      "presentacion": "TARRO"
+    },
+    {
+      "codigo": "3G235",
+      "nombre": "GLUCERNA TRIPLECARE 850 G",
+      "descripcion": "ALIMENTO",
+      "tipo": "ALIMENTOS",
+      "categoria": "SUPLEMENTO ALIMENTICIO",
+      "presentacion": "TARRO"
+    },
+    {
+      "codigo": "4V016",
+      "nombre": "VANCOMICINA 500 MG 10 ML",
+      "descripcion": "VANCOMICINA 500 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "FCO/AMP"
+    },
+    {
+      "codigo": "102C057",
+      "nombre": "COLECTOR ORINA CAMA CRANB",
+      "descripcion": "COLECTOR DE ORINA 2LT",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "5D314",
+      "nombre": "D VIDAMAX 50.000 UI 4 FRA",
+      "descripcion": "VITAMINA D 50000 UI VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCOS"
+    },
+    {
+      "codigo": "5E270",
+      "nombre": "ELCAL D 500/800 60 COMP",
+      "descripcion": "CALCIO 500 MG; VITAMINA D 800 UI",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "SUPLEMENTO VITAMÍNICO",
+      "presentacion": "CAJA"
+    },
+    {
+      "codigo": "100T231",
+      "nombre": "TUBO NO CONDUCTIVO 6 MM 1",
+      "descripcion": "CONEXIÓN LARGA O TUBO NO CONDUCTIVO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "5E116",
+      "nombre": "ELCAL D F 60 COMP",
+      "descripcion": "CALCIO 450 MG; VITAMINA D 175 UI",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "SUPLEMENTO VITAMÍNICO",
+      "presentacion": "CAJA"
+    },
+    {
+      "codigo": "5F009",
+      "nombre": "FAMIDAL 10 OVULO/VAG",
+      "descripcion": "MICONAZOL/TINIDAZOL OVULOS VAG",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "OVULO/VAG"
+    },
+    {
+      "codigo": "5L149",
+      "nombre": "LAX 3350 SACHET 1.7 G X 7",
+      "descripcion": "MACROGOL 1,7 G VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "SOBRE"
+    },
+    {
+      "codigo": "5P002",
+      "nombre": "PALEXIS PR 100 MG 10 COMP",
+      "descripcion": "TAPENTADOL 100 MG RETARD VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "5P003",
+      "nombre": "PALEXIS PR 50 MG 10 COMP",
+      "descripcion": "TAPENTADOL 50 MG RETARD VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "5Q017",
+      "nombre": "QUINOBIOT 750 MG 10 COMP",
+      "descripcion": "LEVOFLOXACINO 750 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "6B063",
+      "nombre": "BLADURIL 200 MG 20 GRAG",
+      "descripcion": "FLAVOXATO 200 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "GRAGEA"
+    },
+    {
+      "codigo": "6C666",
+      "nombre": "CLAUTER 100 MG 30 COMP",
+      "descripcion": "CILOSTAZOL 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "6C398",
+      "nombre": "CRONUS 20 COMP",
+      "descripcion": "TRAMADOL 37,5 MG; PARACETAMOL 325 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "6D185",
+      "nombre": "DIVARIL 30 MG 30 COMP",
+      "descripcion": "MIRTAZAPINA 30 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "6G171",
+      "nombre": "GOTELY 0,4 MG 30 CAP",
+      "descripcion": "TAMSULOSINA 0,4 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "6G154",
+      "nombre": "GOTELY DUO 30 CAPS",
+      "descripcion": "TAMSULOSINA 0,4 MG; DUTASTERIDE 0,2 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "6L042",
+      "nombre": "LERTUS 75 MG 5 AMP",
+      "descripcion": "DICLOFENACO 75 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "6P168",
+      "nombre": "PRO-LERTUS 140 MG 20 CAP",
+      "descripcion": "DICLOFENACO 140 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "6S298",
+      "nombre": "SUPRACALM 1 GR 20 COMP BE",
+      "descripcion": "PARACETAMOL 1000 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "6T316",
+      "nombre": "TOPICTAL 100 MG 28 COMP",
+      "descripcion": "TOPIRAMATO 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "7A051",
+      "nombre": "ATROVENT HFA INHAL 200 DO",
+      "descripcion": "IPRATROPIO 20 MCG INHALADOR",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "7B016",
+      "nombre": "BERODUAL HFA INHAL 10 CC",
+      "descripcion": "FENOTEROL 50 MCG; IPRATROPIO 20 MCG INHALADOR",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "7J029",
+      "nombre": "JARDIANCE 25 MG 30 COMP",
+      "descripcion": "EMPAGLIFOZINA 25 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "8A450",
+      "nombre": "ASPIRINA 100 MG 42 COMP",
+      "descripcion": "ACIDO ACETILSALICILICO 100 mg  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIAGREGANTE PLAQUETARIO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "12A460",
+      "nombre": "ALDROX 70 MG 10 COMP",
+      "descripcion": "ALENDRONATO 70 mg  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "FIJADOR DE CALCIO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "12M001",
+      "nombre": "METROPAST 500 MG 20 COMP",
+      "descripcion": "METRONIDAZOL 500 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "12V170",
+      "nombre": "VITDE 800 UI 30 COMP",
+      "descripcion": "VITAMINA D 800 UI VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "12V171",
+      "nombre": "VITDE GOTAS 10 ML",
+      "descripcion": "VITAMINA D 800 UI VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "13C496",
+      "nombre": "CETRIL 10 MG 50 COMP",
+      "descripcion": "BACLOFENO 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIESPÁSTICO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "13C001",
+      "nombre": "CEUMID 1000 MG 30 COMP RE",
+      "descripcion": "LEVETIRACETAM 1000 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100E230",
+      "nombre": "ENDOCANULA # 8.5 PORTEX",
+      "descripcion": "ENDOCANULA # 8.5 PORTEX",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100E220",
+      "nombre": "ENDOCANULA TQT # 8 (MEDIS",
+      "descripcion": "ENDOCANULA MEDISAN  TQT #8",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100E244",
+      "nombre": "ENDOCANULA # 8 SHILEY TM",
+      "descripcion": "ENDOCANULA SHILEY  TQT # 8",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100E219",
+      "nombre": "ENDOCANULA TRAQ #8 PORTEX",
+      "descripcion": "ENDOCANULA TQT # 8 PORTEX",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100E223",
+      "nombre": "ENDOCANULA TRAQ #7 PORTEX",
+      "descripcion": "ENDOCANULA TQT #7 PORTEX",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100E254",
+      "nombre": "ENDOCANULA TRAQ # 7.5 POR",
+      "descripcion": "ENDOCANULA TQT 7.5 PORTEX",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "13D235",
+      "nombre": "DAGOTIL 1 MG 30 COMP",
+      "descripcion": "RISPERIDONA 1 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "13D236",
+      "nombre": "DAGOTIL 3 MG 30 COMP",
+      "descripcion": "RISPERIDONA 3MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "13D157",
+      "nombre": "DAGOTIL GOTAS 30 CC",
+      "descripcion": "RISPERIDONA GTS 1MG/ML VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "13D002",
+      "nombre": "DOXITHAL 100 MG 10 COMP D",
+      "descripcion": "DOXICICLINA 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "13M172",
+      "nombre": "MENTIX 100 MG 30 COMP",
+      "descripcion": "MODAFINILO 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "13M002",
+      "nombre": "MIRTAZAPINA BD 30 MG 30 C",
+      "descripcion": "MIRTAZAPINA 30 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "13M162",
+      "nombre": "MULTIFLORA PLUS 30 CAPSUL",
+      "descripcion": "PROBIOTICOS",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULAS"
+    },
+    {
+      "codigo": "13S001",
+      "nombre": "SOMIT 10 MG 30 COMP",
+      "descripcion": "ZOLPIDEM 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "13T285",
+      "nombre": "TOPTEAR SOL OFT 10 CC",
+      "descripcion": "HIALURONATO SODICO 0,4%",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "13V053",
+      "nombre": "VIADIL COMP GOTAS 15 ML",
+      "descripcion": "PARGEVERINA 0,6G/ML VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "13V018",
+      "nombre": "VIADIL GOTAS 15 CC",
+      "descripcion": "PARGEVERINA/METAMIZOL GOTAS",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "15D311",
+      "nombre": "DESLORATADINA 5 MG 30 COM",
+      "descripcion": "DESLORATADINA 5 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "15F054",
+      "nombre": "FASARAX 20 MG 20 COMP",
+      "descripcion": "HIDROXIZINA 20 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDOS"
+    },
+    {
+      "codigo": "100E253",
+      "nombre": "ESPONJA DES JAB NEUTRO BO",
+      "descripcion": "ESPONJA C/ JABÓN",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "BOLSA"
+    },
+    {
+      "codigo": "19G192",
+      "nombre": "GALVUS 50 MG 56 COMP",
+      "descripcion": "VILDAGLIPTINA 50 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "19G191",
+      "nombre": "GALVUS MET 50/1000 56 COM",
+      "descripcion": "VILDAGLIPTINA 50 MG; METFORMINA 850 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "19G150",
+      "nombre": "GALVUS MET 50/500 28 COMP",
+      "descripcion": "VILDAGLIPTINA 50 MG; METFORMINA 500 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "21V003",
+      "nombre": "VATANAL 10 SUP",
+      "descripcion": "ANTIHEMORROIDAL SUPOSITORIOS",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIHEMORROIDALES",
+      "presentacion": "SUPOSITORI"
+    },
+    {
+      "codigo": "25I220",
+      "nombre": "I LAN SOLOSTAR 100 UI/ML",
+      "descripcion": "INSULINA GLARGINA  100UI/ML",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CARTRIDGE"
+    },
+    {
+      "codigo": "26R130",
+      "nombre": "RISPYL 1 MG 20 COMP REC B",
+      "descripcion": "RISPERIDONA 1 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "30C372",
+      "nombre": "CIRUELAX 60 COMP",
+      "descripcion": "CASSIA ANGUSTAFOLIA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "31F172",
+      "nombre": "FLECTOR GEL 60 GRS",
+      "descripcion": "DICLOFENACO GEL",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "31S350",
+      "nombre": "SEREPRID 100 MG/ML GOTAS",
+      "descripcion": "TIAPRIDA 100 MG VO GOTAS",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "33A286",
+      "nombre": "ATORVASTATINA 10 MG 30 CO",
+      "descripcion": "ATORVASTATINA 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "HIPOLIPEMIANTE",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "33A287",
+      "nombre": "ATORVASTATINA 20 MG 30 CO",
+      "descripcion": "ATORVASTATINA 20 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "HIPOLIPEMIANTE",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100F155",
+      "nombre": "FIJADOR CANULA TRAQ AD PO",
+      "descripcion": "FIJADOR CÁNULA TQT",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100F056",
+      "nombre": "FILTRO TERMOVENT T2 PORTE",
+      "descripcion": "FILTRO CON PUERTO DE OXÍGENO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "33B131",
+      "nombre": "BLISTEX CREMA LABIAL",
+      "descripcion": "FENOL/ALCANFOR",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "POMO"
+    },
+    {
+      "codigo": "33C517",
+      "nombre": "CASEN ENEMA AD FCO 133 ML",
+      "descripcion": "ENEMA FOSFATO DE SODIO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "33F143",
+      "nombre": "FOLIFER 30 CAP",
+      "descripcion": "HIERRO FUMARATO ELEMENTAL 109 MG; VITAMINA C; ACIDO FOLICO; CIANOCOBALAMINA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "33F001",
+      "nombre": "FOSFOSODA 45 ML",
+      "descripcion": "FOSFATO DE SODIO VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "33I230",
+      "nombre": "ISQUELIUM 4 MG 30 COMP BE",
+      "descripcion": "ACENOCUMAROL 4mg  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTICOAGULANTES",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "33U010",
+      "nombre": "URICONT 5 MG 100 COMP",
+      "descripcion": "OXIBUTININA 5 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "39B002",
+      "nombre": "BISOCOR 5 MG 30 COMP",
+      "descripcion": "BISOPROLOL  5 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIHIPERTENSIVOS",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "39E025",
+      "nombre": "EUTIROX 100 MCG 100 COMP",
+      "descripcion": "LEVOTIROXINA 100  MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "39G167",
+      "nombre": "GLAFORNIL XR 1000 MG 30 C",
+      "descripcion": "METFORMINA 1000 MG XR VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "41F001",
+      "nombre": "FESANIL JBE 120 ML",
+      "descripcion": "LEVODROPROPIZINA 30 MG/5 ML JARABE VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100G196",
+      "nombre": "GASA EST 10 X 10 X 2 (4 P",
+      "descripcion": "GASA ESTERIL 10 X 10 X1 NO TEJIDA",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100G184",
+      "nombre": "GASA EST 5 X 5 X 2(4 PLIE",
+      "descripcion": "GASA ESTERIL 5 X 5 X 1 NO TEJIDA",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "41M266",
+      "nombre": "MELATONINA 3 MG 30 (EUROF",
+      "descripcion": "MELATONINA 3 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "47C371",
+      "nombre": "CLOFEXAN 30 COMP",
+      "descripcion": "BETAMETASONA  ; CLORFENAMINA VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIALÉRGICO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "47D068",
+      "nombre": "DIFEXON SOLUC 30 CC",
+      "descripcion": "POLIVIDONA YODADA SOLUCIÓN TOPICA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "47D309",
+      "nombre": "DILASEDAN 10 MG 30 COMP",
+      "descripcion": "CLOTIAZEPAM 10MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "47E201",
+      "nombre": "ENCLYNA 10 MG 30 COMP",
+      "descripcion": "EMPAGLIFOZINA 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "47G237",
+      "nombre": "GLICENEX SR 1000 30 COMP",
+      "descripcion": "METFORMINA 1000 MG XR VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100G050",
+      "nombre": "GUANTES QUIRURG # 7.1/2",
+      "descripcion": "GUANTE ESTERIL QUIRURGICO  # 7,5",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "PAR"
+    },
+    {
+      "codigo": "100G010",
+      "nombre": "GUANTES NITRILO DESECH \"M",
+      "descripcion": "GUANTES DE PROCEDIMIENTO NITRILO TALLA M",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100G077",
+      "nombre": "GUANTES VINILO DESECH \"M\"",
+      "descripcion": "GUANTES DE VINILO TALLA M",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "47N173",
+      "nombre": "NASTIZOL DIA/NOCHE 18 COM",
+      "descripcion": "PSEUDOEFEDRINA ; CLORFENAMINA; PARACETAMOL VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "`COMPRIMID"
+    },
+    {
+      "codigo": "47N153",
+      "nombre": "NEURYL 2 MG 30 COMP",
+      "descripcion": "CLONAZEPAM 2 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "47P324",
+      "nombre": "PRESTAT 150 MG 40 COMP",
+      "descripcion": "PREGABALINA 150 150 MG   VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "47P323",
+      "nombre": "PRESTAT 75 MG 40 COMP",
+      "descripcion": "PREGABALINA 75 75 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "4C284",
+      "nombre": "CINTA FREESTYLE OPTIUM 50",
+      "descripcion": "HEMOGLUCOTEST CINTAS REACTIVAS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "CAJA"
+    },
+    {
+      "codigo": "47T116",
+      "nombre": "TENSIOMAX 10 20 COM BEQ",
+      "descripcion": "CICLOBENZAPRINA 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "49A473",
+      "nombre": "AEROVIAL 200 MCG 200 DOSI",
+      "descripcion": "BUDESONISA 200 MCG INHALADOR",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "CORTICOTERAPIA INHALATORIA",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "49E254",
+      "nombre": "ELEVAL 100 MG 30 COMP",
+      "descripcion": "SERTRALINA 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "51B175",
+      "nombre": "BILAXIL 400 GRS",
+      "descripcion": "psyllium (plantago ovata)",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "51P040",
+      "nombre": "PROLOPA 250 MG 30 COMP",
+      "descripcion": "LEVODOPA/ BENZERAZIDA 250 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "51R100",
+      "nombre": "REDOXON TRIPLE ACCION 10",
+      "descripcion": "VITAMINA C ZINC",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "54P199",
+      "nombre": "PREQIFIN 35 MCG/HRA 5 PAR",
+      "descripcion": "BUPRENORFINA 35 MCG PARCHES TD",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "OPIACEOS",
+      "presentacion": "CAJA"
+    },
+    {
+      "codigo": "54S022",
+      "nombre": "SIRDALUD 2 MG 12 COMP",
+      "descripcion": "TIZANIDINA 2 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "57A217",
+      "nombre": "AB-ANTITUSIVO 12 COMP/MAS",
+      "descripcion": "CLORHEXIDINA VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMP/MASTI"
+    },
+    {
+      "codigo": "57A215",
+      "nombre": "AMOVAL 1 GR 14 COMP/DISP",
+      "descripcion": "AMOXICILINA 1000 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "57A212",
+      "nombre": "ATROPINA 1% SOL OFT 10 CC",
+      "descripcion": "ATROPINA 1% SOL OFTALMICA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTICOLINERGICO",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "57C480",
+      "nombre": "CELTIUM 10 MG 30 COMP BEQ",
+      "descripcion": "ESCITALOPRAM 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100I216",
+      "nombre": "INMOVILIZADOR DE MANO O P",
+      "descripcion": "INMOVILIZADOR MANO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "57C001",
+      "nombre": "CELTIUM 20 MG 30 COMPRIMI",
+      "descripcion": "ESCITALOPRAM 20 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "57C292",
+      "nombre": "CLAVINEX DUO 20 COMP DISP",
+      "descripcion": "AMOXICILINA+AC. CLAVULANICO 850/125 mg  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "57D175",
+      "nombre": "DUALTEN 12,5 MG 30 COMP",
+      "descripcion": "CARVEDILOL 12,5 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "57F116",
+      "nombre": "FINEX 250 MG 28 COMP",
+      "descripcion": "TERBINAFINA 250 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "57F118",
+      "nombre": "FINEX CREMA 1% 15 GRS",
+      "descripcion": "TERBINAFINA 1% TOPICA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "POMO"
+    },
+    {
+      "codigo": "57M041",
+      "nombre": "MUXOL JBE AD 100 CC",
+      "descripcion": "AMBROXOL jarabe adulto  VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTITUSIVO-MUCOLÍTICO",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "57N048",
+      "nombre": "NICOTEARS SOL OFT 20 CC",
+      "descripcion": "LAGRIMAS ARTIFICIALES SOLUCION OFTALMICA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "57O021",
+      "nombre": "OFTAGEN SOL OFT 5 CC",
+      "descripcion": "GENTAMICINA OFTALMICA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100J001",
+      "nombre": "JABON NEUTRO 340 ML (ISL)",
+      "descripcion": "JABON NEUTRO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "145J006",
+      "nombre": "JERINGA 10 CC LUERLOCK AG",
+      "descripcion": "JERINGA 10 CC LUERLOCK",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "145J007",
+      "nombre": "JERINGA 20 CC SIN AGUJA",
+      "descripcion": "JERINGA 20 CC LUER LOCK",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "145J002",
+      "nombre": "JERINGA 3 CC AGUJA 21G X",
+      "descripcion": "JERINGA 3 CC LUER LOCK",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100J034",
+      "nombre": "JERINGA 5 CC",
+      "descripcion": "JERINGA 5 CC LUER LOCK",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "145J009",
+      "nombre": "JERINGA 60 CC P/SONDA",
+      "descripcion": "JERINGA 60 CC PUNTA CATETER",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "78F001",
+      "nombre": "FREKA ENFIT JERINGA 60 ML",
+      "descripcion": "JERINGA ALIMENTACION 60 CC",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "145J013",
+      "nombre": "JERINGA INS 100 UI AG 30G",
+      "descripcion": "JERINGA INSULINA 100 UI",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "145J004",
+      "nombre": "JERINGA TUBERCULINA 26 G",
+      "descripcion": "JERINGA TUBERCULINA",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "57P002",
+      "nombre": "PRUVAL 2 MG 30 COMP",
+      "descripcion": "PRUCALOPRIMDA 2 MG 30 COMP",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "57R166",
+      "nombre": "REALTA 30 MG 30 CAPS",
+      "descripcion": "DULOXETINA 30 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "57T001",
+      "nombre": "TIOF PLUS SOL OFT 10 ML",
+      "descripcion": "TIMOLOL /DORZOLAMINA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100K052",
+      "nombre": "KIT CURAC BAS EST DESECHA",
+      "descripcion": "KIT DE CURACIÓN ESTERIL",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "57T062",
+      "nombre": "TOL-12 10000 3 AMP",
+      "descripcion": "COMPLEJO VITAMINA B",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "57T064",
+      "nombre": "TOL-12 20 CAP",
+      "descripcion": "COMPLEJO VITAMINA B",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "57T024",
+      "nombre": "TRIO-VAL 80 COMP",
+      "descripcion": "PSEUDOEFEDRINA ; CLORFENAMINA; PARACETAMOL VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "57X001",
+      "nombre": "XOLOF D SUSP OFT 5 ML",
+      "descripcion": "TOBRAMICINA 3MG;ML; DEXAMETASONA 1MG/ML SUSP OFT",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "61D220",
+      "nombre": "DISLEP 25 MG 20 COMP",
+      "descripcion": "LEVOSULPIRIDA 25 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "61D003",
+      "nombre": "DOLERTAB 200 MG 10 CAPS",
+      "descripcion": "CELECOXIB 200 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULAS"
+    },
+    {
+      "codigo": "63D160",
+      "nombre": "DUODERM GEL 15 GRS",
+      "descripcion": "HIDROGEL 15 GR",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "63S316",
+      "nombre": "SAF-GEL 85 GRS TUBO",
+      "descripcion": "ALGINATO CREMA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "TRATAMIENTO DE HERIDAS",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "64C002",
+      "nombre": "CAVILON CR PROTEC 92 GRS",
+      "descripcion": "SILICONA PROTECTOR PIEL",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "69C178",
+      "nombre": "CLEXANE 40 MG 0,4 CC 10 J",
+      "descripcion": "ENOXAPARINA 40 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "JERINGA"
+    },
+    {
+      "codigo": "69C198",
+      "nombre": "CLEXANE 60 MG 0,6 CC 10 J",
+      "descripcion": "ENOXAPARINA 60 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "JERINGA"
+    },
+    {
+      "codigo": "70I012",
+      "nombre": "ISOSORBIDE 10 MG 60 COMP",
+      "descripcion": "ISOSORBIDE DINITRATO 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "77M001",
+      "nombre": "MONOPROST 30 UNIDADES",
+      "descripcion": "LATANOPROST 50 MCG/ML SOLUCIÓN OFTALMICA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAJA"
+    },
+    {
+      "codigo": "77T001",
+      "nombre": "THEALOZ DUO 10 ML",
+      "descripcion": "HIALURONATO. TREALOSA OFTALMICA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "78A054",
+      "nombre": "ADRENALINA (EPINEF) 1 CC",
+      "descripcion": "EPINEFRINA 1MG/ML",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "78C483",
+      "nombre": "CLINDAMICINA 600 MG 50 AM",
+      "descripcion": "CLINDAMICINA 600 MG AMPOLLAS",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "78C047",
+      "nombre": "CLORURO K 10% 10 CC 100 A",
+      "descripcion": "POTASIO 10% INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMP PLAST"
+    },
+    {
+      "codigo": "78F006",
+      "nombre": "FUROSEMIDA 20 MG 1 CC 100",
+      "descripcion": "FUROSEMIDA 20 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "78G004",
+      "nombre": "GLUCOSA 10% 500 CC BFS 20",
+      "descripcion": "GLUCOSA 10% INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "78G008",
+      "nombre": "GLUCOSA 5% 500 CC BFS 20",
+      "descripcion": "GLUCOSA 5% 500 CC MATRAZ  INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "78I253",
+      "nombre": "IMIPENEM CILASTATINA 500/",
+      "descripcion": "IMIPENEM 500 MG; CILASTATINA 500 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "FRASCO AMP"
+    },
+    {
+      "codigo": "78L079",
+      "nombre": "LANATOSIDO 0.4 MG 2 CC 10",
+      "descripcion": "LANATOSIDO C 0,4 MG/2ML INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "78L002",
+      "nombre": "LIDOCAINA 2% 5 CC 100 AMP",
+      "descripcion": "LIDOCAINA 2% INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMP PLAST"
+    },
+    {
+      "codigo": "78L214",
+      "nombre": "LORAZEPAM 4 MG 2 CC 100 A",
+      "descripcion": "LORAZEPAM 4MG/2ML INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "78O003",
+      "nombre": "ONDANSETRON 8 MG 4 ML AMP",
+      "descripcion": "ONMDANSETRON 8 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "78T050",
+      "nombre": "TIAMINA 30 MG 1 CC 100 AM",
+      "descripcion": "TIAMINA 30 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "79K048",
+      "nombre": "KEPPRA 500 MG 60 COMP",
+      "descripcion": "LEVETIRACETAM 500 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "89A494",
+      "nombre": "AMULSIN 10 MG 30 COMP REC",
+      "descripcion": "OLANZAPINA 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "89B100",
+      "nombre": "BUPREDOL LP 150 MG 30 COM",
+      "descripcion": "ANFEBUTAMONA 150 MG  (BUPROPION)",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIDEPRESÍVOS",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "89E266",
+      "nombre": "ENTEROL S 250 MG 10 CAPS",
+      "descripcion": "SACHAROMICES BOULARDII 250 MG   VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULAS"
+    },
+    {
+      "codigo": "89F127",
+      "nombre": "FOLISANIN 5 MG 30 COMP",
+      "descripcion": "ACIDO FOLICO 5MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "SUPLEMENTO VITAMINICO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "89M143",
+      "nombre": "MACROSAN 100 MG 30 CAP BE",
+      "descripcion": "NITROFURANTOINA 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "100M060",
+      "nombre": "MACROGOTEOS C/TOMA AIRE",
+      "descripcion": "MACROGOTEO  O BAJADA PARA INFUSIÓN",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100M122",
+      "nombre": "MASCARILLAS P/OX C/NEBULI",
+      "descripcion": "MASCARILLA DE OXIGENO CON NEBULIZADOR",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100M116",
+      "nombre": "MASCARILLAS P/OX C/CONCEN",
+      "descripcion": "MASCARILLA DE OXIGENO CON RESERVORIO ALTO FLUJO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100M073",
+      "nombre": "MASCARILLAS P/OX C/DOSIFI",
+      "descripcion": "MASCARILLA DE OXIGENO VENTURI ALTO FLUJO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100M110",
+      "nombre": "MASCARILLA KN 95 (CAJA X",
+      "descripcion": "MASCARILLA KN95",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100M227",
+      "nombre": "MASCARILLA TRAQ AD",
+      "descripcion": "MASCARILLA TRAQ TRAQ VO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "89R144",
+      "nombre": "REUMAZINE 200 MG 30 COMP",
+      "descripcion": "HIDROXICLOROQUINA 200 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "89R101",
+      "nombre": "RITMENAL 300 MG 30 CAP",
+      "descripcion": "GABAPENTINA 300 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "89R102",
+      "nombre": "RITMENAL 400 MG 30 CAP",
+      "descripcion": "GABAPENTINA 400 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "89S001",
+      "nombre": "SOMNIPRON 10 MG 30 COMP",
+      "descripcion": "ZOLPIDEM 10 MG VO",
+      "tipo": "",
+      "categoria": "",
+      "presentacion": "COMPR"
+    },
+    {
+      "codigo": "89T002",
+      "nombre": "TILDIEM 90 MG 20 COMP",
+      "descripcion": "DILTIAZEM 90 MG",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "89Z080",
+      "nombre": "ZOMETIC 7.5 MG 30 COMP RE",
+      "descripcion": "ZOPICLONA 7,5 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMP REC"
+    },
+    {
+      "codigo": "91C202",
+      "nombre": "CANULA MAYO # 2",
+      "descripcion": "CANULA MAYO # 2",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91C141",
+      "nombre": "CANULA MAYO # 4",
+      "descripcion": "CANULA MAYO #4",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91C253",
+      "nombre": "CANULA MAYO # 5",
+      "descripcion": "CANULA MAYO #5",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "92T325",
+      "nombre": "TKC SHAMPOO 200 ML",
+      "descripcion": "KETOCONAZOL 2%",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100A201",
+      "nombre": "AC TRANEXAMICO 1 GR/10 ML",
+      "descripcion": "ACIDO TRANEXAMICO 1GR/10ML INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "PROCOAGULANTES",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "100A194",
+      "nombre": "AMIODARONA 150 MG 3 CC 10",
+      "descripcion": "AMIODARONA 150 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIARRITMICO",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "100A413",
+      "nombre": "APOS ALG CALCIO MECHA 2 X",
+      "descripcion": "APOSITO ALGINATO DE CALCIO MECHA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "TRATAMIENTO DE HERIDAS",
+      "presentacion": "APOSITO"
+    },
+    {
+      "codigo": "100A412",
+      "nombre": "APOS ESP SACRO 17.5 X 17.",
+      "descripcion": "APOSITO ESPUMA SACRO 17 X 17,5 CMS",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "TRATAMIENTO DE HERIDAS",
+      "presentacion": "APOSITO"
+    },
+    {
+      "codigo": "100A104",
+      "nombre": "APOSITO ALG CALCIO/PLATA",
+      "descripcion": "APOSITO ALGINATO PLATA 10 X 10",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "TRATAMIENTO DE HERIDAS",
+      "presentacion": "PARCHE"
+    },
+    {
+      "codigo": "100A279",
+      "nombre": "ARIVITAE 15 MG 28 COMP",
+      "descripcion": "ARIPIPRAZOL 15 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIDEPRESIVOS",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100A016",
+      "nombre": "ATROPINA 1 MG 1 CC 100 AM",
+      "descripcion": "ATROPINA 1 MG AMPOLLA INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTICOLINERGICO",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "100B222",
+      "nombre": "BICARBONATO NA 8,4% 10 CC",
+      "descripcion": "BICARBONATO  8,4% AMPOLLAS",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ELECTROLITOS INYECTABLES",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "100C339",
+      "nombre": "CANULA TQT # 7 C/P SUBGLO",
+      "descripcion": "CANULA TQT #7 CON PUERTO SUBGLOTICO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100C556",
+      "nombre": "CLOPIVITAE 75 MG 28 COMP",
+      "descripcion": "CLOPIDOGREL 75 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100C009",
+      "nombre": "CLORFENAMINA 10 MG 1 CC 1",
+      "descripcion": "CLORFENAMINA 10 MG AMPOLLA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "100C130",
+      "nombre": "CLORHEXIDINA 0,12% 120/15",
+      "descripcion": "CLORHEXIDINA 0,12% COLUTORIO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100C010",
+      "nombre": "CR HUMECT PH 5.5 340 ML",
+      "descripcion": "CREMA HUMECTANTE PH 5.5",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100E273",
+      "nombre": "ESCITAVITAE 20 MG 28 COMP",
+      "descripcion": "ESCITALOPRAM 20 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100F227",
+      "nombre": "FORFLOW ENEMA AD 133 ML",
+      "descripcion": "ENEMA FOSFATO DE SODIO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100G075",
+      "nombre": "GLUCONATO CALCIO 10% 10 C",
+      "descripcion": "CALCIO GLUCONATO 10% AMPOLLAS",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "SUPLEMENTO VITAMÍNICO",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "100G079",
+      "nombre": "GLUCOSA 30% 20 CC",
+      "descripcion": "GLUCOSA 30% INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "100G086",
+      "nombre": "GLUCOSA 30% 500 CC 20 MAT",
+      "descripcion": "GLUCOSA 30 % 500 CC MATRAZ  INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "100K056",
+      "nombre": "KAPH 1% UNGTO OFT 3.5 GRS",
+      "descripcion": "CLORANFENICOL UNGÜENTO OFTALMICO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "100L101",
+      "nombre": "LEVEVITAE 1000 MG 30 COMP",
+      "descripcion": "LEVETIRACETAM 1000 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100M249",
+      "nombre": "MEMANVITAE 10 MG 56 COMP",
+      "descripcion": "MEMANTINA 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100M189",
+      "nombre": "METRONIDAZOL 500 MG 100 M",
+      "descripcion": "METRONIDAZOL 500 MG/100 ML INY",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "100N051",
+      "nombre": "NOVAMED OIL 20 ML",
+      "descripcion": "ACEITE PROTECTOR",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "DERMATOLÓGICOS",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100O106",
+      "nombre": "OLANVITAE 10 MG 28 COMP R",
+      "descripcion": "OLANZAPINA 10 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100P036",
+      "nombre": "PENTREN LIOF 40 MG CON SO",
+      "descripcion": "OMEPRAZOL 40 MG INYECTABLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FCO AMP"
+    },
+    {
+      "codigo": "100T501",
+      "nombre": "TRACOE VARIO XL CANULA #8",
+      "descripcion": "CANULA TQT TRACOE #8 XL",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100P212",
+      "nombre": "PANAL AD GENERICO 10 UNID",
+      "descripcion": "PAÑAL ADULTO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100T335",
+      "nombre": "TRAZIDEX OFTENO 5 ML",
+      "descripcion": "TOBRAMICINA 3MG;ML; DEXAMETASONA 1MG/ML SOL OFT",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100T337",
+      "nombre": "TRAZIDEX UNGENA 3.5 GRS",
+      "descripcion": "TOBRAMICINA 3MG;ML; DEXAMETASONA 1MG/ML UNG OFT",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "100T001",
+      "nombre": "TRELIBEC F 10 COMP",
+      "descripcion": "SULFAMETOXAZOL/TRIMETOPRN",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100V063",
+      "nombre": "VASELINA ESTERIL 10 CC 10",
+      "descripcion": "VASELINA ESTERIL AMPOLLAS",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "100V166",
+      "nombre": "VASELINA LIQ MEDIC 1 LT (",
+      "descripcion": "VASELINA  1 LT",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100V260",
+      "nombre": "VIT C 1000 MG 20 COMP EFE",
+      "descripcion": "VITAMINA C 1000 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "105F193",
+      "nombre": "FIBRASOL 18 sobres",
+      "descripcion": "FIBRA SOLUBLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "SOBRES"
+    },
+    {
+      "codigo": "100D266",
+      "nombre": "DELANTAL DES C/MANGA X 1",
+      "descripcion": "PECHERA O DELANTAL DESECHABLE C/ MANGAS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "63N001",
+      "nombre": "NAT PLACA FLEX 70 MM COLO",
+      "descripcion": "PLACA FLEXIBLE DE COLOSTOMÍA 70 MM",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "PLACA"
+    },
+    {
+      "codigo": "105F203",
+      "nombre": "FIBRASOL 200 GRS",
+      "descripcion": "FIBRA SOLUBLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "105M098",
+      "nombre": "MULCATEL JBE 200 ML (48)",
+      "descripcion": "SUCRALFATO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "105O032",
+      "nombre": "ORALGENE 0.12% 120 ML (48",
+      "descripcion": "CLORHEXIDINA 0,12% COLUTORIO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "129V147",
+      "nombre": "VERSATIS X 5 PARCHES",
+      "descripcion": "LIDOCAINA PARCHES",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAJA"
+    },
+    {
+      "codigo": "130F001",
+      "nombre": "FLUSACORT 25/250 120 DOSI",
+      "descripcion": "SALMETEROL 25 MG; FLUTICASONA 250 MG INHALADOR",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "135I011",
+      "nombre": "I ACTRAPID HM 100 UI/ML F",
+      "descripcion": "INSULINA CRISTALINA 100 UI/ML",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "135I042",
+      "nombre": "I INSULATARD HM 100 UI/ML",
+      "descripcion": "INSULINA NPH  100UI/ML",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "135I214",
+      "nombre": "I NOVO RAPID 100 UI/ML 5",
+      "descripcion": "INSULINA ASPART",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "LAPIZ"
+    },
+    {
+      "codigo": "1390001",
+      "nombre": "OTOCLEAN OTICO 10 ML",
+      "descripcion": "CARBONATO DE SODIO 10% SOL OTICA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "143S292",
+      "nombre": "SUBELAN XR 75 MG 30 CAP B",
+      "descripcion": "VENLAFAXINA 75 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULA"
+    },
+    {
+      "codigo": "143U001",
+      "nombre": "UROPLUS SOBRE",
+      "descripcion": "FOSFOMICINA 3G",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "SOBRE"
+    },
+    {
+      "codigo": "144C001",
+      "nombre": "CERADERM CREMA 200 G",
+      "descripcion": "CREMA NUTRITIVA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "144I240",
+      "nombre": "IRAZEM 15 MG 30 COMP",
+      "descripcion": "ARIPIPRAZOL 15 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIDEPRESIVOS",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "144M001",
+      "nombre": "MUPAX 2% CR TOPICA 15 GRS",
+      "descripcion": "MUPIROCINA 2% CREMA TÓPICA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "ANTIMICROBIANO",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "146C556",
+      "nombre": "CIKAVIT CR DERMICA 60 GRS",
+      "descripcion": "CREMA PROTECTORA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "146K061",
+      "nombre": "KRANBERRY 60 CAPS",
+      "descripcion": "CRANBERRY VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "CAPSULAS"
+    },
+    {
+      "codigo": "146U035",
+      "nombre": "ULCERINE CREMA 40 GRS",
+      "descripcion": "CENTELLA ASIATICA",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "180H001",
+      "nombre": "HYFIBER 946 ML FRASCO",
+      "descripcion": "FIBRA SOLUBLE",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "194D003",
+      "nombre": "DETHROM 20 MG 28 COMP REC",
+      "descripcion": "RIVAROXABAN 20 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "194L001",
+      "nombre": "LACOSAMIDA 100 MG 30 COMP",
+      "descripcion": "LACOSAMIDA 100 MG VO",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "COMPRIMIDO"
+    },
+    {
+      "codigo": "100S398",
+      "nombre": "SET DE CATETERISMO VESICA",
+      "descripcion": "RIÑONERA O SET DE CATETERISMO",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "SET"
+    },
+    {
+      "codigo": "100H015",
+      "nombre": "HYDROCLEAN 350 ML",
+      "descripcion": "SOLUCIÓN PARA LIMPIEZA DE HERIDAS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "91S173",
+      "nombre": "SONDA ASPIRAC # 12",
+      "descripcion": "SONDA DE ASPIRACIÓN O SUCCIÓN #12",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S032",
+      "nombre": "SONDA FOLEY 2V # 16",
+      "descripcion": "SONDA FOLEY # 16 2 V",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S031",
+      "nombre": "SONDA FOLEY 2V # 14",
+      "descripcion": "SONDA FOLEY #14 2 VÍAS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S048",
+      "nombre": "SONDA SILASTIC # 14",
+      "descripcion": "SONDA FOLEY #14 2 VÍAS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S050",
+      "nombre": "SONDA SILASTIC # 18",
+      "descripcion": "SONDA FOLEY #18 2 VÍAS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S198",
+      "nombre": "SONDA SILASTIC # 18 3 VIA",
+      "descripcion": "SONDA FOLEY #18 3 VÍAS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S065",
+      "nombre": "SONDA SILASTIC # 20",
+      "descripcion": "SONDA FOLEY #20 2 VÍAS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100S352",
+      "nombre": "SONDA NAS # 12 TIPO LEVIN",
+      "descripcion": "SONDA NASOGASTRICA # 12",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S083",
+      "nombre": "SONDA NELATON # 12(CJA X",
+      "descripcion": "SONDA NELATON # 12",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S226",
+      "nombre": "SONDA LO-FRIC NEL N§ 12 A",
+      "descripcion": "SONDA NELATON O LO-FRIC # 12",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S164",
+      "nombre": "SONDA LO-FRIC NEL N§ 14 A",
+      "descripcion": "SONDA NELATON O LO-FRIC # 14",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "78C427",
+      "nombre": "CLORURO NA 0,9% 100 CC BF",
+      "descripcion": "SUERO FISIOLÓGICO 100 CC MATRAZ",
+      "tipo": "INYECTABLES",
+      "categoria": "SUERO FISIOLÓGICO",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "78C025",
+      "nombre": "CLORURO NA 0,9% 1000 CC B",
+      "descripcion": "SUERO FISIOLÓGICO 1000 CC MATRAZ",
+      "tipo": "INYECTABLES",
+      "categoria": "SUERO FISIOLÓGICO",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "131C024",
+      "nombre": "CLORURO NA 0,9 % 250 CC 2",
+      "descripcion": "SUERO FISIOLÓGICO 250 ML",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "131C023",
+      "nombre": "CLORURO NA 0.9 % 500 CC 2",
+      "descripcion": "SUERO FISIOLÓGICO 500 ML",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "CAJA"
+    },
+    {
+      "codigo": "78C454",
+      "nombre": "CLORURO NA 0,9% 20 CC 100",
+      "descripcion": "SUERO FISIOLÓGICO AMPOLLAS 20 ML",
+      "tipo": "INYECTABLES",
+      "categoria": "SUERO FISIOLÓGICO",
+      "presentacion": "AMP/PLASTI"
+    },
+    {
+      "codigo": "78S006",
+      "nombre": "SOL GLUCOSALINO ISOT 500",
+      "descripcion": "SUERO GLUCOSALINO ISOTONICO INYECTABLE",
+      "tipo": "INYECTABLES",
+      "categoria": "SUERO GLUCOSALINO",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "78S010",
+      "nombre": "SUERO RINGER LACT 500 CC",
+      "descripcion": "SUERO RINGER LACTATO 500 CC",
+      "tipo": "INYECTABLES",
+      "categoria": "SUERO RINGER",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "100S359",
+      "nombre": "SUJETADOR P/SONDA FOLEY",
+      "descripcion": "SUJETADOR SONDA FOLEY",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "64S018",
+      "nombre": "STERI STRIP 1541 50 UND",
+      "descripcion": "SUTURA",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "PARCHE"
+    },
+    {
+      "codigo": "100T305",
+      "nombre": "TAPA ROJA KDL",
+      "descripcion": "TAPA ROJA",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100T202",
+      "nombre": "TUBO CORRUGADO 15 CM 22 M",
+      "descripcion": "TUBO CORRUGADO 15 CM",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "91T086",
+      "nombre": "TUBO ENDOT # 7 C/CAF PORT",
+      "descripcion": "TUBO ENDOTRAQUEAL # 7",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100T086",
+      "nombre": "TUBO ENDOT #7 C/CAF PORTE",
+      "descripcion": "TUBO ENDOTRAQUEAL #7 CAF",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100V001",
+      "nombre": "VALV FONACION ORATOR C/C",
+      "descripcion": "VALCULA DE FONACION ORATOR",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100V172",
+      "nombre": "VALVULA FONACION",
+      "descripcion": "VÁLVULA DE FONACIÓN",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100V034",
+      "nombre": "VASELINA ESTERIL 5 CC 100",
+      "descripcion": "VASELINA AMPOLLAS",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "100V159",
+      "nombre": "VENDA GASA ELAST 10 CM  4",
+      "descripcion": "VEDA GASA ELASTICADA TIPO ELASTOMULL",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "ROLLO"
+    },
+    {
+      "codigo": "100V149",
+      "nombre": "VENDA GASA ELAST 10 CMS 4",
+      "descripcion": "VEDA GASA ELASTICADA TIPO ELASTOMULL",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": ""
+    },
+    {
+      "codigo": "100V095",
+      "nombre": "VENDA FIXOMULL 10 CMS X 1",
+      "descripcion": "VENDA DE FIJACIÓN TIPO FIXOMULL",
+      "tipo": "INSUMOS",
+      "categoria": "DISPOSITIVOS MÉDICOS",
+      "presentacion": "ROLLO"
+    }
+  ]
+}
