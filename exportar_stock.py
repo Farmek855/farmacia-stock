@@ -81,6 +81,7 @@ def leer_productos_con_stock(ruta_excel: str):
                 "descripcion": (ws[f"{COL_DESCRIPCION}{fila}"].value or "").strip()
                     if isinstance(ws[f"{COL_DESCRIPCION}{fila}"].value, str)
                     else (ws[f"{COL_DESCRIPCION}{fila}"].value or ""),
+                "saldo": int(saldo) if saldo == int(saldo) else saldo,
                 "tipo": (ws[f"{COL_TIPO}{fila}"].value or "").strip()
                     if isinstance(ws[f"{COL_TIPO}{fila}"].value, str)
                     else (ws[f"{COL_TIPO}{fila}"].value or ""),

@@ -245,6 +245,19 @@
     font-style:italic;
   }
 
+  .stock-badge{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.8rem;
+    font-weight:600;
+    color:var(--green);
+    background:var(--green-soft);
+    border:1px solid var(--green-line);
+    padding:5px 10px;
+    border-radius:var(--radius);
+    display:inline-block;
+    white-space:nowrap;
+  }
+
   .empty-state{
     text-align:center;
     padding:70px 20px;
@@ -348,17 +361,32 @@ function tipoEtiqueta(tipo){
   return 'Medicamento';
 }
 
+function unidadLegible(presentacion){
+  const p = normaliza(presentacion);
+  const mapa = {
+    'comprimido':'comprimidos', 'capsula':'cápsulas', 'capsulas':'cápsulas',
+    'ampolla':'ampollas', 'frasco':'frascos', 'tubo':'tubos',
+    'unidad':'unidades', 'paquete':'paquetes', 'caja':'cajas',
+    'rollo':'rollos', 'matraz':'frascos', 'ovulo/vag':'óvulos',
+    'sobre':'sobres', 'tarro':'tarros'
+  };
+  return mapa[p] || (presentacion ? presentacion.toLowerCase() : 'unidades');
+}
+
 function renderTarjeta(p){
   const div = document.createElement('article');
   div.className = 'card';
+  const stockTexto = (p.saldo !== undefined && p.saldo !== null)
+    ? `${p.saldo} ${unidadLegible(p.presentacion)}`
+    : '';
   div.innerHTML = `
     <div class="card-top">
       <span class="codigo">${p.codigo || ''}</span>
       <span class="tipo-chip ${tipoClase(p.tipo)}">${tipoEtiqueta(p.tipo)}</span>
     </div>
     <h2 class="nombre">${p.nombre || p.descripcion || 'Sin nombre'}</h2>
-    ${p.marca ? `<div class="marca">${p.marca}</div>` : ''}
     ${p.descripcion ? `<div class="descriptor">${p.descripcion}</div>` : ''}
+    ${stockTexto ? `<div><span class="stock-badge">${stockTexto}</span></div>` : ''}
     <div class="card-bottom">
       <span class="presentacion">${p.presentacion || ''}</span>
       <span class="categoria">${p.categoria || ''}</span>
