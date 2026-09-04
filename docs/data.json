@@ -1,5 +1,5 @@
 {
-  "generado": "04-09-2026 16:44",
+  "generado": "04-09-2026 18:23",
   "productos": [
     {
       "codigo": "1A467",
@@ -68,7 +68,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1A228.jpeg"
     },
     {
       "codigo": "1A129",
