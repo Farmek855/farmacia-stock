@@ -1,5 +1,5 @@
 {
-  "generado": "04-09-2026 05:24",
+  "generado": "04-09-2026 09:55",
   "productos": [
     {
       "codigo": "1A467",
@@ -10,7 +10,7 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "ANTIAGREGANTE PLAQUETARIO",
       "presentacion": "CAPSULAS",
-      "imagen": "images/1A467.jpg",
+      "imagen": "images/1A467.jpeg",
       "documento": "docs/1A467.pdf"
     },
     {
