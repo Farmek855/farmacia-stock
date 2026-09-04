@@ -1,5 +1,5 @@
 {
-  "generado": "04-09-2026 04:26",
+  "generado": "04-09-2026 04:33",
   "productos": [
     {
       "codigo": "1A467",
@@ -9,7 +9,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "ANTIAGREGANTE PLAQUETARIO",
-      "presentacion": "CAPSULAS"
+      "presentacion": "CAPSULAS",
+      "imagen": "images/1A467.jpg"
     },
     {
       "codigo": "1A073",
@@ -31,7 +32,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "ANTIEPILEPTICOS",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1A320.jpg"
     },
     {
       "codigo": "1A134",
@@ -41,7 +43,9 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "ANTIVIRAL",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1A134.jpg",
+      "documento": "docs/1A134.pdf"
     },
     {
       "codigo": "1A131",
