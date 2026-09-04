@@ -1,5 +1,5 @@
 {
-  "generado": "04-09-2026 15:40",
+  "generado": "04-09-2026 16:44",
   "productos": [
     {
       "codigo": "1A467",
@@ -3380,7 +3380,8 @@
       "nuevo": false,
       "tipo": "INSUMOS",
       "categoria": "",
-      "presentacion": "UNIDAD"
+      "presentacion": "UNIDAD",
+      "imagen": "images/100M227.png"
     },
     {
       "codigo": "100M116",
