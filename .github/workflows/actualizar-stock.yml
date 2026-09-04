@@ -29,13 +29,13 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar dependencias
-        run: pip install openpyxl requests
+        run: pip install openpyxl requests google-auth
 
       - name: Generar data.json desde el Excel en Google Drive
         env:
           DRIVE_FILE_ID: ${{ vars.DRIVE_FILE_ID }}
           DRIVE_MEDIA_FOLDER_ID: ${{ vars.DRIVE_MEDIA_FOLDER_ID }}
-          DRIVE_API_KEY: ${{ secrets.DRIVE_API_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
         run: python exportar_stock_cloud.py
 
       - name: Subir el cambio si hubo diferencias
