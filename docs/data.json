@@ -1,5 +1,5 @@
 {
-  "generado": "04-09-2026 04:10",
+  "generado": "04-09-2026 04:18",
   "productos": [
     {
       "codigo": "1A467",
@@ -1699,7 +1699,9 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "ANTIAGREGANTE PLAQUETARIO",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/8A450.jpg",
+      "documento": "docs/8A450.pdf"
     },
     {
       "codigo": "12A460",
