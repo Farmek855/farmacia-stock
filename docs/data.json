@@ -1,5 +1,5 @@
 {
-  "generado": "04-09-2026 04:33",
+  "generado": "04-09-2026 04:36",
   "productos": [
     {
       "codigo": "1A467",
@@ -10,7 +10,8 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "ANTIAGREGANTE PLAQUETARIO",
       "presentacion": "CAPSULAS",
-      "imagen": "images/1A467.jpg"
+      "imagen": "images/1A467.jpg",
+      "documento": "docs/1A467.pdf"
     },
     {
       "codigo": "1A073",
@@ -33,7 +34,8 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "ANTIEPILEPTICOS",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1A320.jpg"
+      "imagen": "images/1A320.jpg",
+      "documento": "docs/1A320.pdf"
     },
     {
       "codigo": "1A134",
