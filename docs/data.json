@@ -1,5 +1,5 @@
 {
-  "generado": "04-09-2026 13:54",
+  "generado": "04-09-2026 15:05",
   "productos": [
     {
       "codigo": "1A467",
@@ -8,7 +8,7 @@
       "saldo": 2000,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIAGREGANTE PLAQUETARIO",
+      "categoria": "",
       "presentacion": "CAPSULAS",
       "imagen": "images/1A467.jpeg",
       "documento": "docs/1A467.pdf"
@@ -20,7 +20,7 @@
       "saldo": 380,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "AINES",
+      "categoria": "",
       "presentacion": "COMPRIMIDO",
       "imagen": "images/1A073.jpg",
       "documento": "docs/1A073.pdf"
@@ -32,7 +32,7 @@
       "saldo": 1420,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIEPILEPTICOS",
+      "categoria": "",
       "presentacion": "COMPRIMIDO",
       "imagen": "images/1A320.jpg",
       "documento": "docs/1A320.pdf"
@@ -40,11 +40,11 @@
     {
       "codigo": "1A134",
       "nombre": "ACICLOVIR 400 MG 35 COMP",
-      "descripcion": "ACICLOVIR 400 MG VO",
+      "descripcion": "ACICLOVIR 400 mg  VO",
       "saldo": 105,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIVIRAL",
+      "categoria": "",
       "presentacion": "COMPRIMIDO",
       "imagen": "images/1A134.jpg",
       "documento": "docs/1A134.pdf"
@@ -56,7 +56,7 @@
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIVIRAL",
+      "categoria": "",
       "presentacion": "TUBO",
       "imagen": "images/1A131.jpg"
     },
@@ -77,7 +77,7 @@
       "saldo": 610,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIGOTOSO",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -87,7 +87,7 @@
       "saldo": 480,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "BENZODIAZEPINAS",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -97,7 +97,7 @@
       "saldo": 370,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIARRITMICO",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -107,7 +107,7 @@
       "saldo": 1600,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIHIPERTENSIVOS",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -117,7 +117,7 @@
       "saldo": 780,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIHIPERTENSIVOS",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -147,7 +147,7 @@
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIDEPRESIVOS",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -161,84 +161,14 @@
       "presentacion": "CAJA"
     },
     {
-      "codigo": "100A901",
-      "nombre": "AEROCAMARA VALVULADA AD 6",
-      "descripcion": "AEROCAMARA ADULTO",
-      "saldo": 6,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100A501",
-      "nombre": "AEROCAMARA TQT PLUS TRUDE",
-      "descripcion": "AEROCAMARA TQT",
-      "saldo": 6,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "78A377",
-      "nombre": "AGUA BIDE 10 CC 100 AMP P",
-      "descripcion": "AGUA DESTILADA AMPOLLAS 5,10 o 20 cc",
-      "saldo": 2799,
-      "nuevo": false,
-      "tipo": "INYECTABLES",
-      "categoria": "AGUA DESTILADA",
-      "presentacion": "AMP PLAS"
-    },
-    {
-      "codigo": "100H058",
-      "nombre": "HUMIDIFICADOR DES 340 -",
-      "descripcion": "AGUA DESTILADA HUMIDIFICADOR",
-      "saldo": 490,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDA"
-    },
-    {
       "codigo": "1B236",
       "nombre": "BACLOFENO 10 MG 20 COMP",
       "descripcion": "BACLOFENO 10 MG VO",
       "saldo": 2950,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIESPÁSTICO",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
-    },
-    {
-      "codigo": "135A072",
-      "nombre": "AGUJA NOVOFINE 32 G 4 MM",
-      "descripcion": "AGUJA 32 G  PARA LAPIZ INSULINA",
-      "saldo": 970,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "131A220",
-      "nombre": "ALARGADOR VEN CON LLAVE Y",
-      "descripcion": "ALARGADOR VENOSO CON LLAVE",
-      "saldo": 375,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100A274",
-      "nombre": "ALCOHOL 70 250 CC(CJA X 3",
-      "descripcion": "ALCOHOL 70% 250 CC",
-      "saldo": 228,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "FRASCO"
     },
     {
       "codigo": "1B082",
@@ -246,8 +176,8 @@
       "descripcion": "BETAMETASONA 4 MG/ML INYECTABLE",
       "saldo": 4,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
-      "categoria": "CORTICOTERAPIA",
+      "tipo": "INYECTABLES",
+      "categoria": "",
       "presentacion": "AMPOLLA"
     },
     {
@@ -257,18 +187,8 @@
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "CORTICOIDES TÓPICOS",
+      "categoria": "",
       "presentacion": "TUBO"
-    },
-    {
-      "codigo": "100A047",
-      "nombre": "ALGODON PRENSADO 1 KG",
-      "descripcion": "ALGODÓN HIDRÓFILO PRENSADO",
-      "saldo": 535,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "PAQUETE"
     },
     {
       "codigo": "1B001",
@@ -277,7 +197,7 @@
       "saldo": 540,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIHIPERTENSIVOS",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -287,7 +207,7 @@
       "saldo": 810,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIHIPERTENSIVOS",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -297,7 +217,7 @@
       "saldo": 90,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIALÉRGICO",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -363,7 +283,7 @@
     {
       "codigo": "1C003",
       "nombre": "CILOSVITAE 100 MG 28 COMP",
-      "descripcion": "CILOSTAZOL 100 MG VO",
+      "descripcion": "ZOLPIDEM 10 MG VO",
       "saldo": 140,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -463,7 +383,7 @@
     {
       "codigo": "1C490",
       "nombre": "CODETOL PM ADULTO 120 ML",
-      "descripcion": "CODEINA; PSEUDOEFEDRINA; CLORFENAMINA JARABE VO",
+      "descripcion": "ZOLPIDEM 10 MG VO",
       "saldo": 15,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -501,16 +421,6 @@
       "presentacion": "COMPRIMIDO"
     },
     {
-      "codigo": "100F223",
-      "nombre": "FIBRACOL PLUS 10.2 X 11.1",
-      "descripcion": "APOSITO DE COLAGENO 10 X 11 CMS",
-      "saldo": 14,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
       "codigo": "1D600",
       "nombre": "DULOXETINA 30 MG 30 CAPSU",
       "descripcion": "DULOXETINA 30 MG VO",
@@ -521,26 +431,6 @@
       "presentacion": "CAPSULAS"
     },
     {
-      "codigo": "100A431",
-      "nombre": "APOSITO ESTERIL 10 X 10 X",
-      "descripcion": "APOSITO ESTERIL 10X10 GASA NO TEJIDA",
-      "saldo": 2411,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "APOSITO"
-    },
-    {
-      "codigo": "100G169",
-      "nombre": "GASA PARAFINADA ESTERIL 1",
-      "descripcion": "APOSITO PARAFINADO 10X10 CMS",
-      "saldo": 141,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
       "codigo": "1D601",
       "nombre": "DULOXETINA 60 MG 30 CAPS",
       "descripcion": "DULOXETINA 30 MG VO",
@@ -549,16 +439,6 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": ""
-    },
-    {
-      "codigo": "64T084",
-      "nombre": "TEGADERM 1624 100 UND",
-      "descripcion": "APOSITO TRANSPARENTE 6 X7 CMS",
-      "saldo": 227,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
     },
     {
       "codigo": "1E271",
@@ -623,7 +503,7 @@
     {
       "codigo": "1F041",
       "nombre": "FLUOXETINA 20 MG 20 COMP",
-      "descripcion": "FLUOXETINA 20 MG VO",
+      "descripcion": "FLUOXETINA",
       "saldo": 370,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -643,7 +523,7 @@
     {
       "codigo": "1H024",
       "nombre": "HALOPERIDOL 0,5 MG 20 COM",
-      "descripcion": "HALOPERIDOL0, 5 MG COMPRIMIDOS VO",
+      "descripcion": "HALOPERIDOL 0,5 MG VO",
       "saldo": 200,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -681,16 +561,6 @@
       "presentacion": "FCO/AMP"
     },
     {
-      "codigo": "100B136",
-      "nombre": "BIGOTERA P/OXIGENO ADULTO",
-      "descripcion": "BIGOTERA O CÁNULA NASAL",
-      "saldo": 238,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
       "codigo": "1H098",
       "nombre": "HIDROCORTISONA 20 MG 20 C",
       "descripcion": "HIDROCORTISONA 20 MG VO",
@@ -706,7 +576,7 @@
       "descripcion": "HEDERA HELIX JBE VO",
       "saldo": 28,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "MEDICAMENTO",
       "categoria": "",
       "presentacion": ""
     },
@@ -739,56 +609,6 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "FRASCO"
-    },
-    {
-      "codigo": "100B068",
-      "nombre": "BISTURI DESECH CON MANGO",
-      "descripcion": "BISTURI DESECH CON MANGO",
-      "saldo": 6,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "63B050",
-      "nombre": "BOLSA NAT OPACA 70 MM 138",
-      "descripcion": "BOLSA DE COLOSTOMÍA 70 MM",
-      "saldo": 15,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "140B071",
-      "nombre": "BRANULA 20G 1 1/4\" JELCO",
-      "descripcion": "BRANULA 20G 1 1/4 JELCO",
-      "saldo": 685,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "140B111",
-      "nombre": "BRANULA 24G 3/4\" JELCO",
-      "descripcion": "BRANULA 24 G 3/4 PULGADAS",
-      "saldo": 173,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "140B066",
-      "nombre": "BRANULA 22G 1\" JELCO",
-      "descripcion": "BRANULA 24G 1 PULGADA",
-      "saldo": 303,
-      "nuevo": false,
-      "tipo": "insumos",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
     },
     {
       "codigo": "1K062",
@@ -906,19 +726,9 @@
       "descripcion": "MELOXICAM 15 MG VO",
       "saldo": 90,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "MEDICAMENTO",
       "categoria": "",
       "presentacion": ""
-    },
-    {
-      "codigo": "100C400",
-      "nombre": "CANULA TQT # 8 C/PUERTO S",
-      "descripcion": "CANULA TQT #8 CON PUERTO SUBGLOTICO",
-      "saldo": 4,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "CANULA"
     },
     {
       "codigo": "1M198",
@@ -929,36 +739,6 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "COMPRIMIDO"
-    },
-    {
-      "codigo": "100C338",
-      "nombre": "CANULA TRAQ #7,5 C/CAF PO",
-      "descripcion": "CANULA TRAQ # 7.5 C/CAF PO",
-      "saldo": 2,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100C337",
-      "nombre": "CANULA TRAQ #7 C/CAF PORT",
-      "descripcion": "CANULA TRAQUEOSTOMIA # 7",
-      "saldo": 3,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100C462",
-      "nombre": "CANULA TQT # 8.5 C/CAF PO",
-      "descripcion": "CANULA TRAQUEOSTOMIA # 8.5",
-      "saldo": 2,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
     },
     {
       "codigo": "1M195",
@@ -996,7 +776,7 @@
       "descripcion": "NAPROXENO 550 MG VO",
       "saldo": 180,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "MEDICAMENTO",
       "categoria": "",
       "presentacion": ""
     },
@@ -1006,7 +786,7 @@
       "descripcion": "PSEUDOEFEDRINA ; CLORFENAMINA; PARACETAMOL VO",
       "saldo": 10,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "MEDICAMENTO",
       "categoria": "",
       "presentacion": ""
     },
@@ -1016,7 +796,7 @@
       "descripcion": "LEVOCETIRIZINA 5 MG VO",
       "saldo": 150,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "MEDICAMENTO",
       "categoria": "",
       "presentacion": ""
     },
@@ -1026,7 +806,7 @@
       "descripcion": "OMEPRAZOL 40 MG INYECTABLE",
       "saldo": 20,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "MEDICAMENTO",
       "categoria": "",
       "presentacion": ""
     },
@@ -1126,34 +906,14 @@
       "descripcion": "TAMSULOSINA 0,4 MG VO",
       "saldo": 510,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "MEDICAMENTO",
       "categoria": "",
       "presentacion": ""
     },
     {
-      "codigo": "100T185",
-      "nombre": "TELA PAPEL BLCA 2.5 X 10(",
-      "descripcion": "CINTA MICROPOROSA 2,5 cms (1\") X 10 CMS",
-      "saldo": 12,
-      "nuevo": false,
-      "tipo": "insumos",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "ROLLO"
-    },
-    {
-      "codigo": "100T187",
-      "nombre": "TELA PAPEL BLCA 5 X 10(6)",
-      "descripcion": "CINTA MICROPOROSA 5 cm (2\")X 10 CMS",
-      "saldo": 201,
-      "nuevo": false,
-      "tipo": "insumos",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "ROLLO"
-    },
-    {
       "codigo": "1T042",
       "nombre": "TONARIL 2 MG 100 COMP",
-      "descripcion": "TRIHEXIFENIDILO 2 MG VO",
+      "descripcion": "TRIHEXIFENIDILO",
       "saldo": 280,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1171,16 +931,6 @@
       "presentacion": "FRASCO"
     },
     {
-      "codigo": "100S101",
-      "nombre": "SONDA ASP CIRCUITO CERRAD",
-      "descripcion": "CIRCUITO CERRADO DE ASPIRACION",
-      "saldo": 39,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "SONDA"
-    },
-    {
       "codigo": "1T009",
       "nombre": "TRIMEBUTINO 100 MG 20 COM",
       "descripcion": "TRIMEBUTINO 100 MG VO",
@@ -1193,7 +943,7 @@
     {
       "codigo": "1T071",
       "nombre": "TRITTICO 100 MG 20 COMP",
-      "descripcion": "TRAZODONA 100 MG VO",
+      "descripcion": "TRAZODONA 100 100 MG VO",
       "saldo": 1400,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1217,7 +967,7 @@
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIGLAUCOMATOSO",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1237,7 +987,7 @@
       "saldo": 470,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIDEPRESIVOS",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1283,17 +1033,17 @@
     {
       "codigo": "2D006",
       "nombre": "DIPIRONA (METAMIZOL) 300",
-      "descripcion": "METAMIZOL SODICO 300 MG VO",
+      "descripcion": "METAMIZOL ´SODICO 300 MG VO",
       "saldo": 500,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "MEDICAMENTO",
       "categoria": "",
       "presentacion": ""
     },
     {
       "codigo": "2D010",
       "nombre": "DIPIRONA 1 GR 2 ML 5 AMP",
-      "descripcion": "METAMIZOL SODICO 1 G INYECTABLE",
+      "descripcion": "METAMIZOL 1G/2ML INY",
       "saldo": 20,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1303,7 +1053,7 @@
     {
       "codigo": "2D004",
       "nombre": "DIPIRONA(METAMIZOL) 1 GR",
-      "descripcion": "METAMIZOL SODICO 1 G INYECTABLE",
+      "descripcion": "METAMIZOL",
       "saldo": 100,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1373,12 +1123,12 @@
     {
       "codigo": "2L006",
       "nombre": "LOPERAMIDA 2 MG 6 COMP",
-      "descripcion": "LOPERAMIDA 2MG VO",
+      "descripcion": "",
       "saldo": 54,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "MEDICAMENTO",
       "categoria": "",
-      "presentacion": "COMP"
+      "presentacion": ""
     },
     {
       "codigo": "2M004",
@@ -1393,7 +1143,7 @@
     {
       "codigo": "2M005",
       "nombre": "METRONIDAZOL 500 MG 10 OV",
-      "descripcion": "METRONIDAZOL 500 MG OVULOS VAGINALES",
+      "descripcion": "metronidazol 500 mg Ovulos Vaginales",
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1457,28 +1207,28 @@
       "saldo": 18,
       "nuevo": false,
       "tipo": "ALIMENTOS",
-      "categoria": "SUPLEMENTO ALIMENTICIO",
+      "categoria": "",
       "presentacion": "TARRO"
+    },
+    {
+      "codigo": "4C284",
+      "nombre": "CINTA FREESTYLE OPTIUM 50",
+      "descripcion": "HEMOGLUCOTEST CINTAS REACTIVAS",
+      "saldo": 36,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "CAJA"
     },
     {
       "codigo": "4V016",
       "nombre": "VANCOMICINA 500 MG 10 ML",
-      "descripcion": "VANCOMICINA 500 MG INYECTABLE",
+      "descripcion": "VANCOMICINA 500 MG EV",
       "saldo": 50,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "ANTIMICROBIANO",
       "presentacion": "FCO/AMP"
-    },
-    {
-      "codigo": "102C057",
-      "nombre": "COLECTOR ORINA CAMA CRANB",
-      "descripcion": "COLECTOR DE ORINA 2LT",
-      "saldo": 181,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
     },
     {
       "codigo": "5D314",
@@ -1497,18 +1247,8 @@
       "saldo": 11,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "SUPLEMENTO VITAMÍNICO",
+      "categoria": "",
       "presentacion": "CAJA"
-    },
-    {
-      "codigo": "100T231",
-      "nombre": "TUBO NO CONDUCTIVO 6 MM 1",
-      "descripcion": "CONEXIÓN LARGA O TUBO NO CONDUCTIVO",
-      "saldo": 415,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
     },
     {
       "codigo": "5E116",
@@ -1517,7 +1257,7 @@
       "saldo": 5,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "SUPLEMENTO VITAMÍNICO",
+      "categoria": "",
       "presentacion": "CAJA"
     },
     {
@@ -1543,7 +1283,7 @@
     {
       "codigo": "5P002",
       "nombre": "PALEXIS PR 100 MG 10 COMP",
-      "descripcion": "TAPENTADOL 100 MG RETARD VO",
+      "descripcion": "TAPENDTADOL 100 MG RETARD VO",
       "saldo": 240,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1553,7 +1293,7 @@
     {
       "codigo": "5P003",
       "nombre": "PALEXIS PR 50 MG 10 COMP",
-      "descripcion": "TAPENTADOL 50 MG RETARD VO",
+      "descripcion": "TAPENDTADOL 50 MG RETARD VO",
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1663,7 +1403,7 @@
     {
       "codigo": "6T316",
       "nombre": "TOPICTAL 100 MG 28 COMP",
-      "descripcion": "TOPIRAMATO 100 MG VO",
+      "descripcion": "TOPIRAMATO",
       "saldo": 280,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1707,7 +1447,7 @@
       "saldo": 7070,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIAGREGANTE PLAQUETARIO",
+      "categoria": "",
       "presentacion": "COMPRIMIDO",
       "imagen": "images/8A450.jpg",
       "documento": "docs/8A450.pdf"
@@ -1719,7 +1459,7 @@
       "saldo": 100,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "FIJADOR DE CALCIO",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1759,7 +1499,7 @@
       "saldo": 7050,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIESPÁSTICO",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1773,69 +1513,9 @@
       "presentacion": "COMPRIMIDO"
     },
     {
-      "codigo": "100E230",
-      "nombre": "ENDOCANULA # 8.5 PORTEX",
-      "descripcion": "ENDOCANULA # 8.5 PORTEX",
-      "saldo": 18,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100E220",
-      "nombre": "ENDOCANULA TQT # 8 (MEDIS",
-      "descripcion": "ENDOCANULA MEDISAN  TQT #8",
-      "saldo": 11,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100E244",
-      "nombre": "ENDOCANULA # 8 SHILEY TM",
-      "descripcion": "ENDOCANULA SHILEY  TQT # 8",
-      "saldo": 106,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100E219",
-      "nombre": "ENDOCANULA TRAQ #8 PORTEX",
-      "descripcion": "ENDOCANULA TQT # 8 PORTEX",
-      "saldo": 18,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100E223",
-      "nombre": "ENDOCANULA TRAQ #7 PORTEX",
-      "descripcion": "ENDOCANULA TQT #7 PORTEX",
-      "saldo": 72,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100E254",
-      "nombre": "ENDOCANULA TRAQ # 7.5 POR",
-      "descripcion": "ENDOCANULA TQT 7.5 PORTEX",
-      "saldo": 22,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
       "codigo": "13D235",
       "nombre": "DAGOTIL 1 MG 30 COMP",
-      "descripcion": "RISPERIDONA 1 MG VO",
+      "descripcion": "RISPERIDONA 1 MG 30 VO",
       "saldo": 780,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1865,7 +1545,7 @@
     {
       "codigo": "13D002",
       "nombre": "DOXITHAL 100 MG 10 COMP D",
-      "descripcion": "DOXICICLINA 100 MG VO",
+      "descripcion": "DOXICICLINA",
       "saldo": 50,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1953,16 +1633,6 @@
       "presentacion": "COMPRIMIDOS"
     },
     {
-      "codigo": "100E253",
-      "nombre": "ESPONJA DES JAB NEUTRO BO",
-      "descripcion": "ESPONJA C/ JABÓN",
-      "saldo": 766,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "BOLSA"
-    },
-    {
       "codigo": "19G192",
       "nombre": "GALVUS 50 MG 56 COMP",
       "descripcion": "VILDAGLIPTINA 50 MG VO",
@@ -1985,7 +1655,7 @@
     {
       "codigo": "19G150",
       "nombre": "GALVUS MET 50/500 28 COMP",
-      "descripcion": "VILDAGLIPTINA 50 MG; METFORMINA 500 MG VO",
+      "descripcion": "VILDAGLIPTINA/METFORMINA 50MG/500 MG VO",
       "saldo": 812,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1999,7 +1669,7 @@
       "saldo": 50,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIHEMORROIDALES",
+      "categoria": "",
       "presentacion": "SUPOSITORI"
     },
     {
@@ -2059,7 +1729,7 @@
       "saldo": 1320,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "HIPOLIPEMIANTE",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2069,28 +1739,8 @@
       "saldo": 4470,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "HIPOLIPEMIANTE",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
-    },
-    {
-      "codigo": "100F155",
-      "nombre": "FIJADOR CANULA TRAQ AD PO",
-      "descripcion": "FIJADOR CÁNULA TQT",
-      "saldo": 224,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100F056",
-      "nombre": "FILTRO TERMOVENT T2 PORTE",
-      "descripcion": "FILTRO CON PUERTO DE OXÍGENO",
-      "saldo": 895,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
     },
     {
       "codigo": "33B131",
@@ -2139,7 +1789,7 @@
       "saldo": 510,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTICOAGULANTES",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2159,7 +1809,7 @@
       "saldo": 330,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIHIPERTENSIVOS",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2193,26 +1843,6 @@
       "presentacion": "FRASCO"
     },
     {
-      "codigo": "100G196",
-      "nombre": "GASA EST 10 X 10 X 2 (4 P",
-      "descripcion": "GASA ESTERIL 10 X 10 X1 NO TEJIDA",
-      "saldo": 10975,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100G184",
-      "nombre": "GASA EST 5 X 5 X 2(4 PLIE",
-      "descripcion": "GASA ESTERIL 5 X 5 X 1 NO TEJIDA",
-      "saldo": 5981,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
       "codigo": "41M266",
       "nombre": "MELATONINA 3 MG 30 (EUROF",
       "descripcion": "MELATONINA 3 MG VO",
@@ -2229,7 +1859,7 @@
       "saldo": 780,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIALÉRGICO",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2273,39 +1903,9 @@
       "presentacion": "COMPRIMIDO"
     },
     {
-      "codigo": "100G050",
-      "nombre": "GUANTES QUIRURG # 7.1/2",
-      "descripcion": "GUANTE ESTERIL QUIRURGICO  # 7,5",
-      "saldo": 2112,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "PAR"
-    },
-    {
-      "codigo": "100G010",
-      "nombre": "GUANTES NITRILO DESECH \"M",
-      "descripcion": "GUANTES DE PROCEDIMIENTO NITRILO TALLA M",
-      "saldo": 29300,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100G077",
-      "nombre": "GUANTES VINILO DESECH \"M\"",
-      "descripcion": "GUANTES DE VINILO TALLA M",
-      "saldo": 19000,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
       "codigo": "47N173",
       "nombre": "NASTIZOL DIA/NOCHE 18 COM",
-      "descripcion": "PSEUDOEFEDRINA ; CLORFENAMINA; PARACETAMOL VO",
+      "descripcion": "PSEUDOEFEDRINA ; CLORFENAMINA; PARACETAMOL; PSEUDOEFEDRINA VO",
       "saldo": 18,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2343,16 +1943,6 @@
       "presentacion": "COMPRIMIDO"
     },
     {
-      "codigo": "4C284",
-      "nombre": "CINTA FREESTYLE OPTIUM 50",
-      "descripcion": "HEMOGLUCOTEST CINTAS REACTIVAS",
-      "saldo": 36,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "CAJA"
-    },
-    {
       "codigo": "47T116",
       "nombre": "TENSIOMAX 10 20 COM BEQ",
       "descripcion": "CICLOBENZAPRINA 10 MG VO",
@@ -2369,7 +1959,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "CORTICOTERAPIA INHALATORIA",
+      "categoria": "",
       "presentacion": "FRASCO"
     },
     {
@@ -2419,7 +2009,7 @@
       "saldo": 22,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "OPIACEOS",
+      "categoria": "",
       "presentacion": "CAJA"
     },
     {
@@ -2435,7 +2025,7 @@
     {
       "codigo": "57A217",
       "nombre": "AB-ANTITUSIVO 12 COMP/MAS",
-      "descripcion": "CLORHEXIDINA VO",
+      "descripcion": "CLORHEXIDINA",
       "saldo": 240,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2459,7 +2049,7 @@
       "saldo": 4,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTICOLINERGICO",
+      "categoria": "",
       "presentacion": "FRASCO"
     },
     {
@@ -2471,16 +2061,6 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "COMPRIMIDO"
-    },
-    {
-      "codigo": "100I216",
-      "nombre": "INMOVILIZADOR DE MANO O P",
-      "descripcion": "INMOVILIZADOR MANO",
-      "saldo": 9,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
     },
     {
       "codigo": "57C001",
@@ -2539,7 +2119,7 @@
       "saldo": 17,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTITUSIVO-MUCOLÍTICO",
+      "categoria": "",
       "presentacion": "FRASCO"
     },
     {
@@ -2561,86 +2141,6 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "ANTIMICROBIANO",
       "presentacion": "FRASCO"
-    },
-    {
-      "codigo": "145J006",
-      "nombre": "JERINGA 10 CC LUERLOCK AG",
-      "descripcion": "JERINGA 10 CC LUERLOCK",
-      "saldo": 4283,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "145J007",
-      "nombre": "JERINGA 20 CC SIN AGUJA",
-      "descripcion": "JERINGA 20 CC LUER LOCK",
-      "saldo": 135,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "145J002",
-      "nombre": "JERINGA 3 CC AGUJA 21G X",
-      "descripcion": "JERINGA 3 CC LUER LOCK",
-      "saldo": 171,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100J034",
-      "nombre": "JERINGA 5 CC",
-      "descripcion": "JERINGA 5 CC LUER LOCK",
-      "saldo": 1000,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "145J009",
-      "nombre": "JERINGA 60 CC P/SONDA",
-      "descripcion": "JERINGA 60 CC PUNTA CATETER",
-      "saldo": 292,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "78F001",
-      "nombre": "FREKA ENFIT JERINGA 60 ML",
-      "descripcion": "JERINGA ALIMENTACION 60 CC",
-      "saldo": 72,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "145J013",
-      "nombre": "JERINGA INS 100 UI AG 30G",
-      "descripcion": "JERINGA INSULINA 100 UI",
-      "saldo": 4703,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "145J004",
-      "nombre": "JERINGA TUBERCULINA 26 G",
-      "descripcion": "JERINGA TUBERCULINA",
-      "saldo": 34,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
     },
     {
       "codigo": "57P002",
@@ -2673,16 +2173,6 @@
       "presentacion": "FRASCO"
     },
     {
-      "codigo": "100K052",
-      "nombre": "KIT CURAC BAS EST DESECHA",
-      "descripcion": "KIT DE CURACIÓN ESTERIL",
-      "saldo": 1517,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
       "codigo": "57T062",
       "nombre": "TOL-12 10000 3 AMP",
       "descripcion": "COMPLEJO VITAMINA B",
@@ -2705,7 +2195,7 @@
     {
       "codigo": "57T024",
       "nombre": "TRIO-VAL 80 COMP",
-      "descripcion": "PSEUDOEFEDRINA ; CLORFENAMINA; PARACETAMOL VO",
+      "descripcion": "PSEUDOEFEDRINA ; CLORFENAMINA; PARACETAMOL; PSEUDOEFEDRINA VO",
       "saldo": 150,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2715,7 +2205,7 @@
     {
       "codigo": "57X001",
       "nombre": "XOLOF D SUSP OFT 5 ML",
-      "descripcion": "TOBRAMICINA 3MG;ML; DEXAMETASONA 1MG/ML SUSP OFT",
+      "descripcion": "TOBRAMICINA/DEXAMETASONA OFTALMICA",
       "saldo": 15,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2735,12 +2225,22 @@
     {
       "codigo": "61D003",
       "nombre": "DOLERTAB 200 MG 10 CAPS",
-      "descripcion": "CELECOXIB 200 MG VO",
+      "descripcion": "",
       "saldo": 710,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "MEDICAMENTO",
       "categoria": "",
-      "presentacion": "CAPSULAS"
+      "presentacion": ""
+    },
+    {
+      "codigo": "63B050",
+      "nombre": "BOLSA NAT OPACA 70 MM 138",
+      "descripcion": "BOLSA DE COLOSTOMÍA 70 MM",
+      "saldo": 15,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
     },
     {
       "codigo": "63D160",
@@ -2753,13 +2253,23 @@
       "presentacion": "TUBO"
     },
     {
+      "codigo": "63N001",
+      "nombre": "NAT PLACA FLEX 70 MM COLO",
+      "descripcion": "PLACA FLEXIBLE DE COLOSTOMÍA 70 MM",
+      "saldo": 29,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "PLACA"
+    },
+    {
       "codigo": "63S316",
       "nombre": "SAF-GEL 85 GRS TUBO",
       "descripcion": "ALGINATO CREMA",
       "saldo": 31,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "TRATAMIENTO DE HERIDAS",
+      "categoria": "",
       "presentacion": "TUBO"
     },
     {
@@ -2771,6 +2281,26 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "TUBO"
+    },
+    {
+      "codigo": "64S018",
+      "nombre": "STERI STRIP 1541 50 UND",
+      "descripcion": "SUTURA",
+      "saldo": 20,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "PARCHE"
+    },
+    {
+      "codigo": "64T084",
+      "nombre": "TEGADERM 1624 100 UND",
+      "descripcion": "APOSITO TRANSPARENTE 6 X7 CMS",
+      "saldo": 227,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
     },
     {
       "codigo": "69C178",
@@ -2807,7 +2337,7 @@
       "nombre": "GRIFOTRIAXONA 1 GR",
       "descripcion": "CEFTRIAXONA 1GR INYECTABLE",
       "saldo": 492,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "ANTIMICROBIANO",
       "presentacion": "FCO/AMP"
@@ -2833,6 +2363,16 @@
       "presentacion": "AMPOLLA"
     },
     {
+      "codigo": "78A377",
+      "nombre": "AGUA BIDE 10 CC 100 AMP P",
+      "descripcion": "AGUA DESTILADA AMPOLLAS 5,10 o 20 cc",
+      "saldo": 2799,
+      "nuevo": false,
+      "tipo": "INYECTABLES",
+      "categoria": "",
+      "presentacion": "AMP PLAS"
+    },
+    {
       "codigo": "78C483",
       "nombre": "CLINDAMICINA 600 MG 50 AM",
       "descripcion": "CLINDAMICINA 600 MG AMPOLLAS",
@@ -2848,9 +2388,39 @@
       "descripcion": "POTASIO 10% INYECTABLE",
       "saldo": 131,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "inyectables",
       "categoria": "",
       "presentacion": "AMP PLAST"
+    },
+    {
+      "codigo": "78C427",
+      "nombre": "CLORURO NA 0,9% 100 CC BF",
+      "descripcion": "SUERO FISIOLÓGICO 100 CC MATRAZ",
+      "saldo": 385,
+      "nuevo": false,
+      "tipo": "INYECTABLES",
+      "categoria": "",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "78C025",
+      "nombre": "CLORURO NA 0,9% 1000 CC B",
+      "descripcion": "SUERO FISIOLÓGICO 1000 CC MATRAZ",
+      "saldo": 66,
+      "nuevo": false,
+      "tipo": "INYECTABLES",
+      "categoria": "",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "78C454",
+      "nombre": "CLORURO NA 0,9% 20 CC 100",
+      "descripcion": "SUERO FISIOLÓGICO AMPOLLAS 20 ML",
+      "saldo": 1074,
+      "nuevo": false,
+      "tipo": "INYECTABLES",
+      "categoria": "",
+      "presentacion": "AMP/PLASTI"
     },
     {
       "codigo": "78C023",
@@ -2861,6 +2431,16 @@
       "tipo": "",
       "categoria": "",
       "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "78F001",
+      "nombre": "FREKA ENFIT JERINGA 60 ML",
+      "descripcion": "JERINGA ALIMENTACION 60 CC",
+      "saldo": 72,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
     },
     {
       "codigo": "78F006",
@@ -2878,7 +2458,7 @@
       "descripcion": "GLUCOSA 10% INYECTABLE",
       "saldo": 50,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "INYECTABLES",
       "categoria": "",
       "presentacion": "MATRAZ"
     },
@@ -2888,7 +2468,7 @@
       "descripcion": "GLUCOSA 5% 500 CC MATRAZ  INYECTABLE",
       "saldo": 18,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "INYECTABLES",
       "categoria": "",
       "presentacion": "MATRAZ"
     },
@@ -2943,6 +2523,26 @@
       "presentacion": "AMPOLLA"
     },
     {
+      "codigo": "78S006",
+      "nombre": "SOL GLUCOSALINO ISOT 500",
+      "descripcion": "SUERO GLUCOSALINO ISOTONICO INYECTABLE",
+      "saldo": 108,
+      "nuevo": false,
+      "tipo": "INYECTABLES",
+      "categoria": "",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "78S010",
+      "nombre": "SUERO RINGER LACT 500 CC",
+      "descripcion": "SUERO RINGER LACTATO 500 CC",
+      "saldo": 96,
+      "nuevo": false,
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
+      "presentacion": "MATRAZ"
+    },
+    {
       "codigo": "78T050",
       "nombre": "TIAMINA 30 MG 1 CC 100 AM",
       "descripcion": "TIAMINA 30 MG INYECTABLE",
@@ -2979,7 +2579,7 @@
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIDEPRESÍVOS",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2999,68 +2599,8 @@
       "saldo": 105,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "SUPLEMENTO VITAMINICO",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
-    },
-    {
-      "codigo": "100M060",
-      "nombre": "MACROGOTEOS C/TOMA AIRE",
-      "descripcion": "MACROGOTEO  O BAJADA PARA INFUSIÓN",
-      "saldo": 666,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100M122",
-      "nombre": "MASCARILLAS P/OX C/NEBULI",
-      "descripcion": "MASCARILLA DE OXIGENO CON NEBULIZADOR",
-      "saldo": 248,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100M116",
-      "nombre": "MASCARILLAS P/OX C/CONCEN",
-      "descripcion": "MASCARILLA DE OXIGENO CON RESERVORIO ALTO FLUJO",
-      "saldo": 242,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100M073",
-      "nombre": "MASCARILLAS P/OX C/DOSIFI",
-      "descripcion": "MASCARILLA DE OXIGENO VENTURI ALTO FLUJO",
-      "saldo": 212,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100M110",
-      "nombre": "MASCARILLA KN 95 (CAJA X",
-      "descripcion": "MASCARILLA KN95",
-      "saldo": 442,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100M227",
-      "nombre": "MASCARILLA TRAQ AD",
-      "descripcion": "MASCARILLA TRAQ TRAQ VO",
-      "saldo": 38,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
     },
     {
       "codigo": "89M143",
@@ -3075,12 +2615,12 @@
     {
       "codigo": "89R144",
       "nombre": "REUMAZINE 200 MG 30 COMP",
-      "descripcion": "HIDROXICLOROQUINA 200 MG VO",
+      "descripcion": "",
       "saldo": 60,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "MEDICAMENTO",
       "categoria": "",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": ""
     },
     {
       "codigo": "89R101",
@@ -3138,8 +2678,8 @@
       "descripcion": "CANULA MAYO # 2",
       "saldo": 52,
       "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
       "presentacion": "UNIDAD"
     },
     {
@@ -3148,8 +2688,8 @@
       "descripcion": "CANULA MAYO #4",
       "saldo": 50,
       "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
+      "tipo": "",
+      "categoria": "",
       "presentacion": "UNIDAD"
     },
     {
@@ -3158,8 +2698,118 @@
       "descripcion": "CANULA MAYO #5",
       "saldo": 50,
       "nuevo": false,
+      "tipo": "",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S173",
+      "nombre": "SONDA ASPIRAC # 12",
+      "descripcion": "SONDA DE ASPIRACIÓN O SUCCIÓN #12",
+      "saldo": 1065,
+      "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S031",
+      "nombre": "SONDA FOLEY 2V # 14",
+      "descripcion": "SONDA FOLEY #14 2 VÍAS",
+      "saldo": 3,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S032",
+      "nombre": "SONDA FOLEY 2V # 16",
+      "descripcion": "SONDA FOLEY # 16 2 V",
+      "saldo": 3,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S226",
+      "nombre": "SONDA LO-FRIC NEL N§ 12 A",
+      "descripcion": "SONDA NELATON O LO-FRIC # 12",
+      "saldo": 4328,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S164",
+      "nombre": "SONDA LO-FRIC NEL N§ 14 A",
+      "descripcion": "SONDA NELATON O LO-FRIC # 14",
+      "saldo": 278,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S083",
+      "nombre": "SONDA NELATON # 12(CJA X",
+      "descripcion": "SONDA NELATON # 12",
+      "saldo": 192,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S198",
+      "nombre": "SONDA SILASTIC # 18 3 VIA",
+      "descripcion": "SONDA FOLEY #18 3 VÍAS",
+      "saldo": 17,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S048",
+      "nombre": "SONDA SILASTIC # 14",
+      "descripcion": "SONDA FOLEY #14 2 VÍAS",
+      "saldo": 9,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S050",
+      "nombre": "SONDA SILASTIC # 18",
+      "descripcion": "SONDA FOLEY #18 2 VÍAS",
+      "saldo": 23,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91S065",
+      "nombre": "SONDA SILASTIC # 20",
+      "descripcion": "SONDA FOLEY #20 2 VÍAS",
+      "saldo": 19,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "91T086",
+      "nombre": "TUBO ENDOT # 7 C/CAF PORT",
+      "descripcion": "TUBO ENDOTRAQUEAL # 7",
+      "saldo": 18,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
       "presentacion": "UNIDAD"
     },
     {
@@ -3178,9 +2828,49 @@
       "descripcion": "ACIDO TRANEXAMICO 1GR/10ML INYECTABLE",
       "saldo": 29,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
-      "categoria": "PROCOAGULANTES",
+      "tipo": "inyectables",
+      "categoria": "",
       "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "100A501",
+      "nombre": "AEROCAMARA TQT PLUS TRUDE",
+      "descripcion": "AEROCAMARA TQT",
+      "saldo": 6,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100A901",
+      "nombre": "AEROCAMARA VALVULADA AD 6",
+      "descripcion": "AEROCAMARA ADULTO",
+      "saldo": 6,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100A274",
+      "nombre": "ALCOHOL 70 250 CC(CJA X 3",
+      "descripcion": "ALCOHOL 70% 250 CC",
+      "saldo": 228,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100A047",
+      "nombre": "ALGODON PRENSADO 1 KG",
+      "descripcion": "ALGODÓN HIDRÓFILO PRENSADO",
+      "saldo": 535,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "PAQUETE"
     },
     {
       "codigo": "100A194",
@@ -3189,7 +2879,7 @@
       "saldo": 44,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIARRITMICO",
+      "categoria": "",
       "presentacion": "AMPOLLA"
     },
     {
@@ -3199,7 +2889,7 @@
       "saldo": 37,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "TRATAMIENTO DE HERIDAS",
+      "categoria": "",
       "presentacion": "APOSITO"
     },
     {
@@ -3209,7 +2899,7 @@
       "saldo": 162,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "TRATAMIENTO DE HERIDAS",
+      "categoria": "",
       "presentacion": "APOSITO"
     },
     {
@@ -3219,18 +2909,28 @@
       "saldo": 125,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "TRATAMIENTO DE HERIDAS",
+      "categoria": "",
       "presentacion": "PARCHE"
+    },
+    {
+      "codigo": "100A431",
+      "nombre": "APOSITO ESTERIL 10 X 10 X",
+      "descripcion": "APOSITO ESTERIL 10X10 GASA NO TEJIDA",
+      "saldo": 2411,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "APOSITO"
     },
     {
       "codigo": "100A279",
       "nombre": "ARIVITAE 15 MG 28 COMP",
-      "descripcion": "ARIPIPRAZOL 15 MG VO",
+      "descripcion": "",
       "saldo": 140,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIDEPRESIVOS",
-      "presentacion": "COMPRIMIDO"
+      "tipo": "MEDICAMENTO",
+      "categoria": "",
+      "presentacion": ""
     },
     {
       "codigo": "100A016",
@@ -3239,7 +2939,7 @@
       "saldo": 6,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTICOLINERGICO",
+      "categoria": "",
       "presentacion": "AMPOLLA"
     },
     {
@@ -3248,9 +2948,39 @@
       "descripcion": "BICARBONATO  8,4% AMPOLLAS",
       "saldo": 4,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
-      "categoria": "ELECTROLITOS INYECTABLES",
+      "tipo": "INYECTABLES",
+      "categoria": "",
       "presentacion": "AMPOLLA"
+    },
+    {
+      "codigo": "100B136",
+      "nombre": "BIGOTERA P/OXIGENO ADULTO",
+      "descripcion": "BIGOTERA O CÁNULA NASAL",
+      "saldo": 238,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100B068",
+      "nombre": "BISTURI DESECH CON MANGO",
+      "descripcion": "BISTURI DESECH CON MANGO",
+      "saldo": 6,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100C337",
+      "nombre": "CANULA TRAQ #7 C/CAF PORT",
+      "descripcion": "CANULA TRAQUEOSTOMIA # 7",
+      "saldo": 3,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
     },
     {
       "codigo": "100C339",
@@ -3258,8 +2988,38 @@
       "descripcion": "CANULA TQT #7 CON PUERTO SUBGLOTICO",
       "saldo": 2,
       "nuevo": false,
+      "tipo": "",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100C338",
+      "nombre": "CANULA TRAQ #7,5 C/CAF PO",
+      "descripcion": "CANULA TRAQ # 7.5 C/CAF PO",
+      "saldo": 2,
+      "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100C400",
+      "nombre": "CANULA TQT # 8 C/PUERTO S",
+      "descripcion": "CANULA TRAQUEOSTOMÍA CON PUERTO SUBGLOTICO",
+      "saldo": 4,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "CANULA"
+    },
+    {
+      "codigo": "100C462",
+      "nombre": "CANULA TQT # 8.5 C/CAF PO",
+      "descripcion": "CANULA TRAQUEOSTOMIA # 8.5",
+      "saldo": 2,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
       "presentacion": "UNIDAD"
     },
     {
@@ -3303,14 +3063,124 @@
       "presentacion": "FRASCO"
     },
     {
+      "codigo": "100D266",
+      "nombre": "DELANTAL DES C/MANGA X 1",
+      "descripcion": "PECHERA O DELANTAL DESECHABLE C/ MANGAS",
+      "saldo": 11190,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100E244",
+      "nombre": "ENDOCANULA # 8 SHILEY TM",
+      "descripcion": "ENDOCANULA SHILEY  TQT # 8",
+      "saldo": 106,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100E230",
+      "nombre": "ENDOCANULA # 8.5 PORTEX",
+      "descripcion": "ENDOCANULA # 8.5 PORTEX",
+      "saldo": 18,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100E220",
+      "nombre": "ENDOCANULA TQT # 8 (MEDIS",
+      "descripcion": "ENDOCANULA MEDISAN  TQT #8",
+      "saldo": 11,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100E254",
+      "nombre": "ENDOCANULA TRAQ # 7.5 POR",
+      "descripcion": "ENDOCANULA TQT 7.5 PORTEX",
+      "saldo": 22,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100E223",
+      "nombre": "ENDOCANULA TRAQ #7 PORTEX",
+      "descripcion": "ENDOCANULA TQT #7 PORTEX",
+      "saldo": 72,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100E219",
+      "nombre": "ENDOCANULA TRAQ #8 PORTEX",
+      "descripcion": "ENDOCANULA TQT # 8 PORTEX",
+      "saldo": 18,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
       "codigo": "100E273",
       "nombre": "ESCITAVITAE 20 MG 28 COMP",
-      "descripcion": "ESCITALOPRAM 20 MG VO",
+      "descripcion": "",
       "saldo": 552,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": ""
+    },
+    {
+      "codigo": "100E253",
+      "nombre": "ESPONJA DES JAB NEUTRO BO",
+      "descripcion": "ESPONJA C/ JABÓN",
+      "saldo": 766,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "BOLSA"
+    },
+    {
+      "codigo": "100F223",
+      "nombre": "FIBRACOL PLUS 10.2 X 11.1",
+      "descripcion": "APOSITO DE COLAGENO 10 X 11 CMS",
+      "saldo": 14,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100F155",
+      "nombre": "FIJADOR CANULA TRAQ AD PO",
+      "descripcion": "FIJADOR CÁNULA TQT",
+      "saldo": 224,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100F056",
+      "nombre": "FILTRO TERMOVENT T2 PORTE",
+      "descripcion": "FILTRO CON PUERTO DE OXÍGENO",
+      "saldo": 895,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
     },
     {
       "codigo": "100F227",
@@ -3323,13 +3193,43 @@
       "presentacion": "FRASCO"
     },
     {
+      "codigo": "100G196",
+      "nombre": "GASA EST 10 X 10 X 2 (4 P",
+      "descripcion": "GASA ESTERIL 10 X 10 X1 NO TEJIDA",
+      "saldo": 10975,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100G184",
+      "nombre": "GASA EST 5 X 5 X 2(4 PLIE",
+      "descripcion": "GASA ESTERIL 5 X 5 X 1 NO TEJIDA",
+      "saldo": 5981,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100G169",
+      "nombre": "GASA PARAFINADA ESTERIL 1",
+      "descripcion": "APOSITO PARAFINADO 10X10 CMS",
+      "saldo": 141,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
       "codigo": "100G075",
       "nombre": "GLUCONATO CALCIO 10% 10 C",
       "descripcion": "CALCIO GLUCONATO 10% AMPOLLAS",
       "saldo": 6,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "SUPLEMENTO VITAMÍNICO",
+      "categoria": "",
       "presentacion": "AMPOLLA"
     },
     {
@@ -3353,6 +3253,76 @@
       "presentacion": "MATRAZ"
     },
     {
+      "codigo": "100G010",
+      "nombre": "GUANTES NITRILO DESECH \"M",
+      "descripcion": "GUANTES DE PROCEDIMIENTO NITRILO TALLA M",
+      "saldo": 29300,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100G050",
+      "nombre": "GUANTES QUIRURG # 7.1/2",
+      "descripcion": "GUANTE ESTERIL QUIRURGICO  # 7,5",
+      "saldo": 2112,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "PAR"
+    },
+    {
+      "codigo": "100G077",
+      "nombre": "GUANTES VINILO DESECH \"M\"",
+      "descripcion": "GUANTES DE VINILO TALLA M",
+      "saldo": 19000,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100H058",
+      "nombre": "HUMIDIFICADOR DES 340 -",
+      "descripcion": "AGUA DESTILADA HUMIDIFICADOR",
+      "saldo": 490,
+      "nuevo": false,
+      "tipo": "INYECTABLES",
+      "categoria": "",
+      "presentacion": "UNIDA"
+    },
+    {
+      "codigo": "100H015",
+      "nombre": "HYDROCLEAN 350 ML",
+      "descripcion": "SOLUCIÓN PARA LIMPIEZA DE HERIDAS",
+      "saldo": 40,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "100I216",
+      "nombre": "INMOVILIZADOR DE MANO O P",
+      "descripcion": "INMOVILIZADOR MANO",
+      "saldo": 9,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100J034",
+      "nombre": "JERINGA 5 CC",
+      "descripcion": "JERINGA 5 CC LUER LOCK",
+      "saldo": 1000,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
       "codigo": "100K056",
       "nombre": "KAPH 1% UNGTO OFT 3.5 GRS",
       "descripcion": "CLORANFENICOL UNGÜENTO OFTALMICO",
@@ -3363,14 +3333,84 @@
       "presentacion": "TUBO"
     },
     {
+      "codigo": "100K052",
+      "nombre": "KIT CURAC BAS EST DESECHA",
+      "descripcion": "KIT DE CURACIÓN ESTERIL",
+      "saldo": 1517,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
       "codigo": "100L101",
       "nombre": "LEVEVITAE 1000 MG 30 COMP",
-      "descripcion": "LEVETIRACETAM 1000 MG VO",
+      "descripcion": "",
       "saldo": 270,
       "nuevo": false,
-      "tipo": "MEDICAMENTOS",
+      "tipo": "MEDICAMENTO",
       "categoria": "",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": ""
+    },
+    {
+      "codigo": "100M060",
+      "nombre": "MACROGOTEOS C/TOMA AIRE",
+      "descripcion": "MACROGOTEO  O BAJADA PARA INFUSIÓN",
+      "saldo": 666,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100M110",
+      "nombre": "MASCARILLA KN 95 (CAJA X",
+      "descripcion": "MASCARILLA KN95",
+      "saldo": 442,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100M227",
+      "nombre": "MASCARILLA TRAQ AD",
+      "descripcion": "MASCARILLA TRAQ TRAQ VO",
+      "saldo": 38,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100M116",
+      "nombre": "MASCARILLAS P/OX C/CONCEN",
+      "descripcion": "MASCARILLA DE OXIGENO CON RESERVORIO ALTO FLUJO",
+      "saldo": 242,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100M073",
+      "nombre": "MASCARILLAS P/OX C/DOSIFI",
+      "descripcion": "MASCARILLA DE OXIGENO VENTURI ALTO FLUJO",
+      "saldo": 212,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100M122",
+      "nombre": "MASCARILLAS P/OX C/NEBULI",
+      "descripcion": "MASCARILLA DE OXIGENO CON NEBULIZADOR",
+      "saldo": 248,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
     },
     {
       "codigo": "100M249",
@@ -3399,7 +3439,7 @@
       "saldo": 11,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "DERMATOLÓGICOS",
+      "categoria": "",
       "presentacion": "FRASCO"
     },
     {
@@ -3413,6 +3453,16 @@
       "presentacion": "COMPRIMIDO"
     },
     {
+      "codigo": "100P212",
+      "nombre": "PANAL AD GENERICO 10 UNID",
+      "descripcion": "PAÑAL ADULTO",
+      "saldo": 2562,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
       "codigo": "100P036",
       "nombre": "PENTREN LIOF 40 MG CON SO",
       "descripcion": "OMEPRAZOL 40 MG INYECTABLE",
@@ -3423,14 +3473,74 @@
       "presentacion": "FCO AMP"
     },
     {
-      "codigo": "100P212",
-      "nombre": "PANAL AD GENERICO 10 UNID",
-      "descripcion": "PAÑAL ADULTO",
-      "saldo": 2562,
+      "codigo": "100S398",
+      "nombre": "SET DE CATETERISMO VESICA",
+      "descripcion": "RIÑONERA O SET DE CATETERISMO",
+      "saldo": 523,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
+      "categoria": "",
+      "presentacion": "SET"
+    },
+    {
+      "codigo": "100S101",
+      "nombre": "SONDA ASP CIRCUITO CERRAD",
+      "descripcion": "CIRCUITO CERRADO DE ASPIRACION",
+      "saldo": 39,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "SONDA"
+    },
+    {
+      "codigo": "100S352",
+      "nombre": "SONDA NAS # 12 TIPO LEVIN",
+      "descripcion": "SONDA NASOGASTRICA # 12",
+      "saldo": 124,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
       "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100S359",
+      "nombre": "SUJETADOR P/SONDA FOLEY",
+      "descripcion": "SUJETADOR SONDA FOLEY",
+      "saldo": 2,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100T305",
+      "nombre": "TAPA ROJA KDL",
+      "descripcion": "TAPA ROJA",
+      "saldo": 594,
+      "nuevo": true,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100T185",
+      "nombre": "TELA PAPEL BLCA 2.5 X 10(",
+      "descripcion": "CINTA MICROPOROSA 2,5 cms (1\") X 10 CMS",
+      "saldo": 12,
+      "nuevo": false,
+      "tipo": "insumos",
+      "categoria": "",
+      "presentacion": "ROLLO"
+    },
+    {
+      "codigo": "100T187",
+      "nombre": "TELA PAPEL BLCA 5 X 10(6)",
+      "descripcion": "CINTA MICROPOROSA 5 cm (2\")X 10 CMS",
+      "saldo": 201,
+      "nuevo": false,
+      "tipo": "insumos",
+      "categoria": "",
+      "presentacion": "ROLLO"
     },
     {
       "codigo": "100T501",
@@ -3438,14 +3548,14 @@
       "descripcion": "CANULA TQT TRACOE #8 XL",
       "saldo": 2,
       "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
+      "tipo": "MEDICAMENTOS",
+      "categoria": "",
       "presentacion": "UNIDAD"
     },
     {
       "codigo": "100T335",
       "nombre": "TRAZIDEX OFTENO 5 ML",
-      "descripcion": "TOBRAMICINA 3MG;ML; DEXAMETASONA 1MG/ML SOL OFT",
+      "descripcion": "TOBRAMICINA/DEXAMETASONA SOL OFT",
       "saldo": 12,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3455,7 +3565,7 @@
     {
       "codigo": "100T337",
       "nombre": "TRAZIDEX UNGENA 3.5 GRS",
-      "descripcion": "TOBRAMICINA 3MG;ML; DEXAMETASONA 1MG/ML UNG OFT",
+      "descripcion": "TOBRAMICINA/DEXAMETASONA UNGÜENTO",
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3473,6 +3583,56 @@
       "presentacion": "COMPRIMIDO"
     },
     {
+      "codigo": "100T202",
+      "nombre": "TUBO CORRUGADO 15 CM 22 M",
+      "descripcion": "TUBO CORRUGADO 15 CM",
+      "saldo": 126,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "TUBO"
+    },
+    {
+      "codigo": "100T086",
+      "nombre": "TUBO ENDOT #7 C/CAF PORTE",
+      "descripcion": "TUBO ENDOTRAQUEAL #7 CAF",
+      "saldo": 1,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100T231",
+      "nombre": "TUBO NO CONDUCTIVO 6 MM 1",
+      "descripcion": "CONEXIÓN LARGA O TUBO NO CONDUCTIVO",
+      "saldo": 415,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100V001",
+      "nombre": "VALV FONACION ORATOR C/C",
+      "descripcion": "VALCULA DE FONACION ORATOR",
+      "saldo": 2,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "100V172",
+      "nombre": "VALVULA FONACION",
+      "descripcion": "VÁLVULA DE FONACIÓN",
+      "saldo": 3,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
       "codigo": "100V063",
       "nombre": "VASELINA ESTERIL 10 CC 10",
       "descripcion": "VASELINA ESTERIL AMPOLLAS",
@@ -3483,9 +3643,19 @@
       "presentacion": "AMPOLLA"
     },
     {
+      "codigo": "100V034",
+      "nombre": "VASELINA ESTERIL 5 CC 100",
+      "descripcion": "VASELINA AMPOLLAS",
+      "saldo": 200,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "AMPOLLA"
+    },
+    {
       "codigo": "100V166",
       "nombre": "VASELINA LIQ MEDIC 1 LT (",
-      "descripcion": "VASELINA  1 LT",
+      "descripcion": "VASELINA",
       "saldo": 69,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3493,9 +3663,39 @@
       "presentacion": "FRASCO"
     },
     {
+      "codigo": "100V095",
+      "nombre": "VENDA FIXOMULL 10 CMS X 1",
+      "descripcion": "VENDA DE FIJACIÓN TIPO FIXOMULL",
+      "saldo": 36,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "ROLLO"
+    },
+    {
+      "codigo": "100V159",
+      "nombre": "VENDA GASA ELAST 10 CM  4",
+      "descripcion": "VEDA GASA ELASTICADA TIPO ELASTOMULL",
+      "saldo": 114,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "ROLLO"
+    },
+    {
+      "codigo": "100V149",
+      "nombre": "VENDA GASA ELAST 10 CMS 4",
+      "descripcion": "",
+      "saldo": 109,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": ""
+    },
+    {
       "codigo": "100V260",
       "nombre": "VIT C 1000 MG 20 COMP EFE",
-      "descripcion": "VITAMINA C 1000 MG VO",
+      "descripcion": "VITAMINA C 1000 MG",
       "saldo": 3220,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3503,29 +3703,19 @@
       "presentacion": "COMPRIMIDO"
     },
     {
-      "codigo": "100D266",
-      "nombre": "DELANTAL DES C/MANGA X 1",
-      "descripcion": "PECHERA O DELANTAL DESECHABLE C/ MANGAS",
-      "saldo": 11190,
+      "codigo": "102C057",
+      "nombre": "COLECTOR ORINA CAMA CRANB",
+      "descripcion": "COLECTOR DE ORINA 2LT",
+      "saldo": 181,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
+      "categoria": "",
       "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "63N001",
-      "nombre": "NAT PLACA FLEX 70 MM COLO",
-      "descripcion": "PLACA FLEXIBLE DE COLOSTOMÍA 70 MM",
-      "saldo": 29,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "PLACA"
     },
     {
       "codigo": "105F203",
       "nombre": "FIBRASOL 200 GRS",
-      "descripcion": "FIBRA SOLUBLE",
+      "descripcion": "FIBRA",
       "saldo": 2,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3555,7 +3745,7 @@
     {
       "codigo": "129V147",
       "nombre": "VERSATIS X 5 PARCHES",
-      "descripcion": "LIDOCAINA PARCHES",
+      "descripcion": "LIDOCAINA APRCHES",
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3571,6 +3761,46 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "FRASCO"
+    },
+    {
+      "codigo": "131A220",
+      "nombre": "ALARGADOR VEN CON LLAVE Y",
+      "descripcion": "ALARGADOR VENOSO CON LLAVE",
+      "saldo": 375,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "131C024",
+      "nombre": "CLORURO NA 0,9 % 250 CC 2",
+      "descripcion": "SUERO FISIOLÓGICO 250 ML",
+      "saldo": 127,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "MATRAZ"
+    },
+    {
+      "codigo": "131C023",
+      "nombre": "CLORURO NA 0.9 % 500 CC 2",
+      "descripcion": "SUERO FISIOLÓGICO 500 ML",
+      "saldo": 18,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "CAJA"
+    },
+    {
+      "codigo": "135A072",
+      "nombre": "AGUJA NOVOFINE 32 G 4 MM",
+      "descripcion": "AGUJA 32 G",
+      "saldo": 970,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
     },
     {
       "codigo": "135I011",
@@ -3613,6 +3843,36 @@
       "presentacion": "FRASCO"
     },
     {
+      "codigo": "140B071",
+      "nombre": "BRANULA 20G 1 1/4\" JELCO",
+      "descripcion": "BRANULA 20G 1 1/4 JELCO",
+      "saldo": 685,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "140B066",
+      "nombre": "BRANULA 22G 1\" JELCO",
+      "descripcion": "BRANULA 24G 1 PULGADA",
+      "saldo": 303,
+      "nuevo": false,
+      "tipo": "insumos",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "140B111",
+      "nombre": "BRANULA 24G 3/4\" JELCO",
+      "descripcion": "BRANULA 24 G 3/4 PULGADAS",
+      "saldo": 173,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
       "codigo": "143U001",
       "nombre": "UROPLUS SOBRE",
       "descripcion": "FOSFOMICINA 3G",
@@ -3639,7 +3899,7 @@
       "saldo": 30,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIDEPRESIVOS",
+      "categoria": "",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -3651,6 +3911,66 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "ANTIMICROBIANO",
       "presentacion": "TUBO"
+    },
+    {
+      "codigo": "145J006",
+      "nombre": "JERINGA 10 CC LUERLOCK AG",
+      "descripcion": "JERINGA 10 CC LUERLOCK",
+      "saldo": 4283,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "145J007",
+      "nombre": "JERINGA 20 CC SIN AGUJA",
+      "descripcion": "JERINGA 20 CC LUER LOCK",
+      "saldo": 135,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "145J002",
+      "nombre": "JERINGA 3 CC AGUJA 21G X",
+      "descripcion": "JERINGA 3 CC LUER LOCK",
+      "saldo": 171,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "145J009",
+      "nombre": "JERINGA 60 CC P/SONDA",
+      "descripcion": "JERINGA 60 CC PUNTA CATETER",
+      "saldo": 292,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "145J013",
+      "nombre": "JERINGA INS 100 UI AG 30G",
+      "descripcion": "JERINGA INSULINA 100 UI",
+      "saldo": 4703,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
+    },
+    {
+      "codigo": "145J004",
+      "nombre": "JERINGA TUBERCULINA 26 G",
+      "descripcion": "JERINGA TUBERCULINA",
+      "saldo": 34,
+      "nuevo": false,
+      "tipo": "INSUMOS",
+      "categoria": "",
+      "presentacion": "UNIDAD"
     },
     {
       "codigo": "146C556",
@@ -3711,326 +4031,6 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "COMPRIMIDO"
-    },
-    {
-      "codigo": "100S398",
-      "nombre": "SET DE CATETERISMO VESICA",
-      "descripcion": "RIÑONERA O SET DE CATETERISMO",
-      "saldo": 523,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "SET"
-    },
-    {
-      "codigo": "100H015",
-      "nombre": "HYDROCLEAN 350 ML",
-      "descripcion": "SOLUCIÓN PARA LIMPIEZA DE HERIDAS",
-      "saldo": 40,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "FRASCO"
-    },
-    {
-      "codigo": "91S173",
-      "nombre": "SONDA ASPIRAC # 12",
-      "descripcion": "SONDA DE ASPIRACIÓN O SUCCIÓN #12",
-      "saldo": 1065,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "91S032",
-      "nombre": "SONDA FOLEY 2V # 16",
-      "descripcion": "SONDA FOLEY # 16 2 V",
-      "saldo": 3,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "91S031",
-      "nombre": "SONDA FOLEY 2V # 14",
-      "descripcion": "SONDA FOLEY #14 2 VÍAS",
-      "saldo": 3,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "91S048",
-      "nombre": "SONDA SILASTIC # 14",
-      "descripcion": "SONDA FOLEY #14 2 VÍAS",
-      "saldo": 9,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "91S050",
-      "nombre": "SONDA SILASTIC # 18",
-      "descripcion": "SONDA FOLEY #18 2 VÍAS",
-      "saldo": 23,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "91S198",
-      "nombre": "SONDA SILASTIC # 18 3 VIA",
-      "descripcion": "SONDA FOLEY #18 3 VÍAS",
-      "saldo": 17,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "91S065",
-      "nombre": "SONDA SILASTIC # 20",
-      "descripcion": "SONDA FOLEY #20 2 VÍAS",
-      "saldo": 19,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100S352",
-      "nombre": "SONDA NAS # 12 TIPO LEVIN",
-      "descripcion": "SONDA NASOGASTRICA # 12",
-      "saldo": 124,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "91S083",
-      "nombre": "SONDA NELATON # 12(CJA X",
-      "descripcion": "SONDA NELATON # 12",
-      "saldo": 192,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "91S226",
-      "nombre": "SONDA LO-FRIC NEL N§ 12 A",
-      "descripcion": "SONDA NELATON O LO-FRIC # 12",
-      "saldo": 4328,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "91S164",
-      "nombre": "SONDA LO-FRIC NEL N§ 14 A",
-      "descripcion": "SONDA NELATON O LO-FRIC # 14",
-      "saldo": 278,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "78C427",
-      "nombre": "CLORURO NA 0,9% 100 CC BF",
-      "descripcion": "SUERO FISIOLÓGICO 100 CC MATRAZ",
-      "saldo": 385,
-      "nuevo": false,
-      "tipo": "INYECTABLES",
-      "categoria": "SUERO FISIOLÓGICO",
-      "presentacion": "MATRAZ"
-    },
-    {
-      "codigo": "78C025",
-      "nombre": "CLORURO NA 0,9% 1000 CC B",
-      "descripcion": "SUERO FISIOLÓGICO 1000 CC MATRAZ",
-      "saldo": 66,
-      "nuevo": false,
-      "tipo": "INYECTABLES",
-      "categoria": "SUERO FISIOLÓGICO",
-      "presentacion": "MATRAZ"
-    },
-    {
-      "codigo": "131C024",
-      "nombre": "CLORURO NA 0,9 % 250 CC 2",
-      "descripcion": "SUERO FISIOLÓGICO 250 ML",
-      "saldo": 127,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "MATRAZ"
-    },
-    {
-      "codigo": "131C023",
-      "nombre": "CLORURO NA 0.9 % 500 CC 2",
-      "descripcion": "SUERO FISIOLÓGICO 500 ML",
-      "saldo": 18,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "CAJA"
-    },
-    {
-      "codigo": "78C454",
-      "nombre": "CLORURO NA 0,9% 20 CC 100",
-      "descripcion": "SUERO FISIOLÓGICO AMPOLLAS 20 ML",
-      "saldo": 1074,
-      "nuevo": false,
-      "tipo": "INYECTABLES",
-      "categoria": "SUERO FISIOLÓGICO",
-      "presentacion": "AMP/PLASTI"
-    },
-    {
-      "codigo": "78S006",
-      "nombre": "SOL GLUCOSALINO ISOT 500",
-      "descripcion": "SUERO GLUCOSALINO ISOTONICO INYECTABLE",
-      "saldo": 108,
-      "nuevo": false,
-      "tipo": "INYECTABLES",
-      "categoria": "SUERO GLUCOSALINO",
-      "presentacion": "MATRAZ"
-    },
-    {
-      "codigo": "78S010",
-      "nombre": "SUERO RINGER LACT 500 CC",
-      "descripcion": "SUERO RINGER LACTATO 500 CC",
-      "saldo": 96,
-      "nuevo": false,
-      "tipo": "INYECTABLES",
-      "categoria": "SUERO RINGER",
-      "presentacion": "MATRAZ"
-    },
-    {
-      "codigo": "100S359",
-      "nombre": "SUJETADOR P/SONDA FOLEY",
-      "descripcion": "SUJETADOR SONDA FOLEY",
-      "saldo": 2,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "64S018",
-      "nombre": "STERI STRIP 1541 50 UND",
-      "descripcion": "SUTURA",
-      "saldo": 20,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "PARCHE"
-    },
-    {
-      "codigo": "100T305",
-      "nombre": "TAPA ROJA KDL",
-      "descripcion": "TAPA ROJA",
-      "saldo": 594,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100T202",
-      "nombre": "TUBO CORRUGADO 15 CM 22 M",
-      "descripcion": "TUBO CORRUGADO 15 CM",
-      "saldo": 126,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "TUBO"
-    },
-    {
-      "codigo": "91T086",
-      "nombre": "TUBO ENDOT # 7 C/CAF PORT",
-      "descripcion": "TUBO ENDOTRAQUEAL # 7",
-      "saldo": 18,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100T086",
-      "nombre": "TUBO ENDOT #7 C/CAF PORTE",
-      "descripcion": "TUBO ENDOTRAQUEAL #7 CAF",
-      "saldo": 1,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100V001",
-      "nombre": "VALV FONACION ORATOR C/C",
-      "descripcion": "VALCULA DE FONACION ORATOR",
-      "saldo": 2,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100V172",
-      "nombre": "VALVULA FONACION",
-      "descripcion": "VÁLVULA DE FONACIÓN",
-      "saldo": 3,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "UNIDAD"
-    },
-    {
-      "codigo": "100V034",
-      "nombre": "VASELINA ESTERIL 5 CC 100",
-      "descripcion": "VASELINA AMPOLLAS",
-      "saldo": 200,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "AMPOLLA"
-    },
-    {
-      "codigo": "100V159",
-      "nombre": "VENDA GASA ELAST 10 CM  4",
-      "descripcion": "VEDA GASA ELASTICADA TIPO ELASTOMULL",
-      "saldo": 114,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "ROLLO"
-    },
-    {
-      "codigo": "100V149",
-      "nombre": "VENDA GASA ELAST 10 CMS 4",
-      "descripcion": "VEDA GASA ELASTICADA TIPO ELASTOMULL",
-      "saldo": 109,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": ""
-    },
-    {
-      "codigo": "100V095",
-      "nombre": "VENDA FIXOMULL 10 CMS X 1",
-      "descripcion": "VENDA DE FIJACIÓN TIPO FIXOMULL",
-      "saldo": 36,
-      "nuevo": false,
-      "tipo": "INSUMOS",
-      "categoria": "DISPOSITIVOS MÉDICOS",
-      "presentacion": "ROLLO"
     }
   ]
 }
