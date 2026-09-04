@@ -1,12 +1,12 @@
 {
-  "generado": "04-09-2026 15:05",
+  "generado": "04-09-2026 15:40",
   "productos": [
     {
       "codigo": "1A467",
       "nombre": "AC ACETILSALICILICO 100 M",
       "descripcion": "ACIDO ACETILSALICILICO 100 mg  VO",
       "saldo": 2000,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "CAPSULAS",
@@ -283,9 +283,9 @@
     {
       "codigo": "1C003",
       "nombre": "CILOSVITAE 100 MG 28 COMP",
-      "descripcion": "ZOLPIDEM 10 MG VO",
+      "descripcion": "CILOSTAZOL 100 MG VO",
       "saldo": 140,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "COMPRIMIDO"
@@ -383,12 +383,12 @@
     {
       "codigo": "1C490",
       "nombre": "CODETOL PM ADULTO 120 ML",
-      "descripcion": "ZOLPIDEM 10 MG VO",
+      "descripcion": "CODEINA; PSEUDOEFEDRINA;CLORFENAMINA VO",
       "saldo": 15,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "FRASCO"
     },
     {
       "codigo": "1C319",
@@ -525,7 +525,7 @@
       "nombre": "HALOPERIDOL 0,5 MG 20 COM",
       "descripcion": "HALOPERIDOL 0,5 MG VO",
       "saldo": 200,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": ""
@@ -595,7 +595,7 @@
       "nombre": "IBUPROFENO 400 MG 20 COMP",
       "descripcion": "IBUPROFENO 400 MG 20 VO",
       "saldo": 520,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "COMPRIMIDO"
@@ -665,7 +665,7 @@
       "nombre": "LAMOTRIGINA 100 MG 30 COM",
       "descripcion": "LAMOTRIGINA 100 MG VO",
       "saldo": 150,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "COMPRIMIDO"
@@ -725,7 +725,7 @@
       "nombre": "MELOXICAM 15 MG 10 COMP B",
       "descripcion": "MELOXICAM 15 MG VO",
       "saldo": 90,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTO",
       "categoria": "",
       "presentacion": ""
@@ -785,7 +785,7 @@
       "nombre": "NASTIFRIN D/N 20 COMP",
       "descripcion": "PSEUDOEFEDRINA ; CLORFENAMINA; PARACETAMOL VO",
       "saldo": 10,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTO",
       "categoria": "",
       "presentacion": ""
@@ -795,7 +795,7 @@
       "nombre": "NEO-ALERTOP 30 COMP",
       "descripcion": "LEVOCETIRIZINA 5 MG VO",
       "saldo": 150,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTO",
       "categoria": "",
       "presentacion": ""
@@ -895,7 +895,7 @@
       "nombre": "SINCRIS 5 MG 30 COMP BEQ",
       "descripcion": "OLANZAPINA 5 MG VO",
       "saldo": 210,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "COMPRIMIDO"
@@ -1123,9 +1123,9 @@
     {
       "codigo": "2L006",
       "nombre": "LOPERAMIDA 2 MG 6 COMP",
-      "descripcion": "",
+      "descripcion": "LOPERAMIDA 2MG VO",
       "saldo": 54,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTO",
       "categoria": "",
       "presentacion": ""
@@ -1143,7 +1143,7 @@
     {
       "codigo": "2M005",
       "nombre": "METRONIDAZOL 500 MG 10 OV",
-      "descripcion": "metronidazol 500 mg Ovulos Vaginales",
+      "descripcion": "METRONIDAZOL 500 mg Ovulos Vaginales",
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2147,7 +2147,7 @@
       "nombre": "PRUVAL 2 MG 30 COMP",
       "descripcion": "PRUCALOPRIMDA 2 MG 30 COMP",
       "saldo": 330,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "COMPRIMIDO"
@@ -2225,12 +2225,12 @@
     {
       "codigo": "61D003",
       "nombre": "DOLERTAB 200 MG 10 CAPS",
-      "descripcion": "",
+      "descripcion": "CELECOXIB 200 MG VO",
       "saldo": 710,
       "nuevo": false,
       "tipo": "MEDICAMENTO",
       "categoria": "",
-      "presentacion": ""
+      "presentacion": "CAPSULAS"
     },
     {
       "codigo": "63B050",
@@ -2615,12 +2615,12 @@
     {
       "codigo": "89R144",
       "nombre": "REUMAZINE 200 MG 30 COMP",
-      "descripcion": "",
+      "descripcion": "HIDROXICLOROQUINA 200 MG VO",
       "saldo": 60,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTO",
       "categoria": "",
-      "presentacion": ""
+      "presentacion": "COMPRIMIDOS"
     },
     {
       "codigo": "89R101",
@@ -2677,7 +2677,7 @@
       "nombre": "CANULA MAYO # 2",
       "descripcion": "CANULA MAYO # 2",
       "saldo": 52,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "UNIDAD"
@@ -2687,7 +2687,7 @@
       "nombre": "CANULA MAYO # 4",
       "descripcion": "CANULA MAYO #4",
       "saldo": 50,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "",
       "categoria": "",
       "presentacion": "UNIDAD"
@@ -2697,7 +2697,7 @@
       "nombre": "CANULA MAYO # 5",
       "descripcion": "CANULA MAYO #5",
       "saldo": 50,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "",
       "categoria": "",
       "presentacion": "UNIDAD"
@@ -2925,12 +2925,12 @@
     {
       "codigo": "100A279",
       "nombre": "ARIVITAE 15 MG 28 COMP",
-      "descripcion": "",
+      "descripcion": "ARIPIPRAZOL 15MG VO",
       "saldo": 140,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTO",
       "categoria": "",
-      "presentacion": ""
+      "presentacion": "COMPRIMIDOS"
     },
     {
       "codigo": "100A016",
@@ -3027,7 +3027,7 @@
       "nombre": "CLOPIVITAE 75 MG 28 COMP",
       "descripcion": "CLOPIDOGREL 75 MG VO",
       "saldo": 140,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
       "presentacion": "COMPRIMIDO"
@@ -3135,12 +3135,12 @@
     {
       "codigo": "100E273",
       "nombre": "ESCITAVITAE 20 MG 28 COMP",
-      "descripcion": "",
+      "descripcion": "ESCITALOPRAM 20 MG VO",
       "saldo": 552,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "",
-      "presentacion": ""
+      "presentacion": "COMPRIMIDOS"
     },
     {
       "codigo": "100E253",
@@ -3345,12 +3345,12 @@
     {
       "codigo": "100L101",
       "nombre": "LEVEVITAE 1000 MG 30 COMP",
-      "descripcion": "",
+      "descripcion": "LEVETIRACETAM 1000 MG VO",
       "saldo": 270,
-      "nuevo": false,
+      "nuevo": true,
       "tipo": "MEDICAMENTO",
       "categoria": "",
-      "presentacion": ""
+      "presentacion": "COMPRIMIDOS"
     },
     {
       "codigo": "100M060",
@@ -3685,12 +3685,12 @@
     {
       "codigo": "100V149",
       "nombre": "VENDA GASA ELAST 10 CMS 4",
-      "descripcion": "",
+      "descripcion": "VENDA GASASA ELASTICADA TIPO ELLASTOMUL 10 CMS",
       "saldo": 109,
       "nuevo": false,
       "tipo": "INSUMOS",
       "categoria": "",
-      "presentacion": ""
+      "presentacion": "UNIDADES"
     },
     {
       "codigo": "100V260",
