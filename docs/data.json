@@ -1,5 +1,5 @@
 {
-  "generado": "04-09-2026 12:15",
+  "generado": "04-09-2026 12:19",
   "productos": [
     {
       "codigo": "1A467",
@@ -57,7 +57,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "ANTIVIRAL",
-      "presentacion": "TUBO"
+      "presentacion": "TUBO",
+      "imagen": "images/1A131.jpg"
     },
     {
       "codigo": "1A228",
