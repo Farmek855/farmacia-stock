@@ -594,7 +594,7 @@
 // navegando al azar; NO es seguridad real. Ver instrucciones de rotacion
 // en generar_clave.html si la clave se llega a difundir).
 // ============================================================================
-const HASH_CLAVE = "REEMPLAZA_ESTE_HASH";
+const HASH_CLAVE = "321751f05d6bf54a20a84b02679f59d5e1f3c12505f4ac4d7dc41aa1894c232a";
 
 async function sha256Hex(texto){
   const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(texto));
