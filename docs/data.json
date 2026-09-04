@@ -1,5 +1,5 @@
 {
-  "generado": "04-09-2026 04:18",
+  "generado": "04-09-2026 04:26",
   "productos": [
     {
       "codigo": "1A467",
@@ -19,7 +19,9 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "AINES",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1A073.jpg",
+      "documento": "docs/1A073.pdf"
     },
     {
       "codigo": "1A320",
