@@ -1,5 +1,5 @@
 {
-  "generado": "04-09-2026 18:23",
+  "generado": "05-09-2026 04:53",
   "productos": [
     {
       "codigo": "1A467",
@@ -8,7 +8,7 @@
       "saldo": 2000,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiagregante plaquetario / AINE",
       "presentacion": "CAPSULAS",
       "imagen": "images/1A467.jpeg",
       "documento": "docs/1A467.pdf"
@@ -20,7 +20,7 @@
       "saldo": 380,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "COMPRIMIDO",
       "imagen": "images/1A073.jpg",
       "documento": "docs/1A073.pdf"
@@ -32,7 +32,7 @@
       "saldo": 1420,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiepiléptico / Estabilizador del ánimo",
       "presentacion": "COMPRIMIDO",
       "imagen": "images/1A320.jpg",
       "documento": "docs/1A320.pdf"
@@ -44,7 +44,7 @@
       "saldo": 105,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiviral",
       "presentacion": "COMPRIMIDO",
       "imagen": "images/1A134.jpg",
       "documento": "docs/1A134.pdf"
@@ -56,7 +56,7 @@
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiviral",
       "presentacion": "TUBO",
       "imagen": "images/1A131.jpg"
     },
@@ -67,7 +67,7 @@
       "saldo": 270,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO",
       "imagen": "images/1A228.jpeg"
     },
@@ -78,7 +78,7 @@
       "saldo": 610,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antigotoso / Inhibidor de xantina oxidasa",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -88,7 +88,7 @@
       "saldo": 480,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -98,7 +98,7 @@
       "saldo": 370,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiarrítmico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -108,7 +108,7 @@
       "saldo": 1600,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antihipertensivo / Calcioantagonista",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -118,7 +118,7 @@
       "saldo": 780,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antihipertensivo / Calcioantagonista",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -128,7 +128,7 @@
       "saldo": 340,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Penicilina",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -138,7 +138,7 @@
       "saldo": 20,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Penicilina",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -148,7 +148,7 @@
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antipsicótico atípico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -158,7 +158,7 @@
       "saldo": 27,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Macrólido",
       "presentacion": "CAJA"
     },
     {
@@ -168,7 +168,7 @@
       "saldo": 2950,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiespástico / Relajante muscular",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -178,7 +178,7 @@
       "saldo": 4,
       "nuevo": false,
       "tipo": "INYECTABLES",
-      "categoria": "",
+      "categoria": "Corticoide",
       "presentacion": "AMPOLLA"
     },
     {
@@ -188,7 +188,7 @@
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Corticoide",
       "presentacion": "TUBO"
     },
     {
@@ -198,7 +198,7 @@
       "saldo": 540,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Betabloqueador / Antihipertensivo",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -208,7 +208,7 @@
       "saldo": 810,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Betabloqueador / Antihipertensivo",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -218,7 +218,7 @@
       "saldo": 90,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Corticoide",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -228,7 +228,7 @@
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antihipertensivo / IECA",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -238,7 +238,7 @@
       "saldo": 1850,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiepiléptico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -248,7 +248,7 @@
       "saldo": 870,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Betabloqueador / Antihipertensivo",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -258,7 +258,7 @@
       "saldo": 64,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Cefalosporina",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -268,7 +268,7 @@
       "saldo": 490,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "CAPSULAS"
     },
     {
@@ -278,7 +278,7 @@
       "saldo": 360,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Relajante muscular",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -288,8 +288,9 @@
       "saldo": 140,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
-      "presentacion": "COMPRIMIDO"
+      "categoria": "Pendiente de clasificación",
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1C003.jpeg"
     },
     {
       "codigo": "1C164",
@@ -298,7 +299,7 @@
       "saldo": 822,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Fluoroquinolona",
       "presentacion": "COMPR"
     },
     {
@@ -308,7 +309,7 @@
       "saldo": 140,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Macrólido",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -318,7 +319,7 @@
       "saldo": 18,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Corticoide tópico",
       "presentacion": "TUBO"
     },
     {
@@ -328,7 +329,7 @@
       "saldo": 240,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -338,7 +339,7 @@
       "saldo": 1380,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -348,7 +349,7 @@
       "saldo": 210,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiagregante plaquetario",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -358,7 +359,7 @@
       "saldo": 52,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antifúngico",
       "presentacion": "TUBO"
     },
     {
@@ -368,7 +369,7 @@
       "saldo": 71,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Corticoide",
       "presentacion": "TUBO"
     },
     {
@@ -378,7 +379,7 @@
       "saldo": 564,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Penicilina",
       "presentacion": "CAPSULA"
     },
     {
@@ -388,7 +389,7 @@
       "saldo": 15,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antihistamínico / Antialérgico",
       "presentacion": "FRASCO"
     },
     {
@@ -398,7 +399,7 @@
       "saldo": 490,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Corticoide",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -408,7 +409,7 @@
       "saldo": 48,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Procinético / Antiemético",
       "presentacion": "AMPOLLA"
     },
     {
@@ -418,7 +419,7 @@
       "saldo": 600,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Procinético / Antiemético",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -428,7 +429,7 @@
       "saldo": 510,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidepresivo / ISRSN",
       "presentacion": "CAPSULAS"
     },
     {
@@ -438,7 +439,7 @@
       "saldo": 240,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidepresivo / ISRSN",
       "presentacion": ""
     },
     {
@@ -448,7 +449,7 @@
       "saldo": 270,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "CAPSULAS"
     },
     {
@@ -458,7 +459,7 @@
       "saldo": 1560,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidepresivo / ISRS",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -468,7 +469,7 @@
       "saldo": 510,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Inhibidor de bomba de protones / Antiulceroso",
       "presentacion": "CAPSULAS"
     },
     {
@@ -478,7 +479,7 @@
       "saldo": 270,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Inhibidor de bomba de protones / Antiulceroso",
       "presentacion": "CAPSULAS"
     },
     {
@@ -488,7 +489,7 @@
       "saldo": 330,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Fibra / Laxante",
       "presentacion": "CAPSULAS"
     },
     {
@@ -498,7 +499,7 @@
       "saldo": 18,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antifúngico",
       "presentacion": "CAPSULA"
     },
     {
@@ -508,7 +509,7 @@
       "saldo": 370,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidepresivo / ISRS",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -518,7 +519,7 @@
       "saldo": 820,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -528,7 +529,7 @@
       "saldo": 200,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antipsicótico típico",
       "presentacion": ""
     },
     {
@@ -538,7 +539,7 @@
       "saldo": 176,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antipsicótico típico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -548,7 +549,7 @@
       "saldo": 50,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antipsicótico típico",
       "presentacion": "AMPOLLA"
     },
     {
@@ -558,7 +559,7 @@
       "saldo": 37,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Corticoide",
       "presentacion": "FCO/AMP"
     },
     {
@@ -568,7 +569,7 @@
       "saldo": 274,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Corticoide",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -578,7 +579,7 @@
       "saldo": 28,
       "nuevo": false,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": ""
     },
     {
@@ -588,7 +589,7 @@
       "saldo": 480,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Biguanida",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -598,7 +599,7 @@
       "saldo": 520,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -608,7 +609,7 @@
       "saldo": 26,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Broncodilatador anticolinérgico",
       "presentacion": "FRASCO"
     },
     {
@@ -618,7 +619,7 @@
       "saldo": 30,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "AMPOLLAS"
     },
     {
@@ -628,7 +629,7 @@
       "saldo": 980,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "CAPSULA"
     },
     {
@@ -638,7 +639,7 @@
       "saldo": 130,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -648,7 +649,7 @@
       "saldo": 1134,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Analgésico / Antipirético",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -658,7 +659,7 @@
       "saldo": 560,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Analgésico / Antipirético",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -668,7 +669,7 @@
       "saldo": 150,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiepiléptico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -678,7 +679,7 @@
       "saldo": 1200,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiepiléptico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -688,7 +689,7 @@
       "saldo": 1320,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiepiléptico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -698,7 +699,7 @@
       "saldo": 210,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antihistamínico / Antialérgico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -708,7 +709,7 @@
       "saldo": 600,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -718,7 +719,7 @@
       "saldo": 3640,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antihipertensivo / ARA-II",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -728,7 +729,7 @@
       "saldo": 90,
       "nuevo": true,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": ""
     },
     {
@@ -738,7 +739,7 @@
       "saldo": 1050,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Biguanida",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -748,7 +749,7 @@
       "saldo": 270,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Biguanida",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -758,7 +759,7 @@
       "saldo": 500,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antibacteriano / Antiprotozoario",
       "presentacion": "MATRAZ"
     },
     {
@@ -768,7 +769,7 @@
       "saldo": 11,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano tópico",
       "presentacion": "TUBO"
     },
     {
@@ -778,7 +779,7 @@
       "saldo": 180,
       "nuevo": false,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": ""
     },
     {
@@ -788,7 +789,7 @@
       "saldo": 10,
       "nuevo": true,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "Antihistamínico / Antialérgico",
       "presentacion": ""
     },
     {
@@ -798,7 +799,7 @@
       "saldo": 150,
       "nuevo": true,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": ""
     },
     {
@@ -808,7 +809,7 @@
       "saldo": 20,
       "nuevo": false,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "Inhibidor de bomba de protones / Antiulceroso",
       "presentacion": ""
     },
     {
@@ -818,7 +819,7 @@
       "saldo": 1260,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Analgésico / Antipirético",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -828,7 +829,7 @@
       "saldo": 1312,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Analgésico / Antipirético",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -838,7 +839,7 @@
       "saldo": 130,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Corticoide",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -848,7 +849,7 @@
       "saldo": 1110,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Neuromodulador / Antiepiléptico",
       "presentacion": "CAPSULAS"
     },
     {
@@ -858,7 +859,7 @@
       "saldo": 2550,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antipsicótico atípico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -868,7 +869,7 @@
       "saldo": 1350,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antipsicótico atípico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -878,7 +879,7 @@
       "saldo": 48,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Broncodilatador beta-2 agonista",
       "presentacion": "FRASCO"
     },
     {
@@ -888,7 +889,7 @@
       "saldo": 2040,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidepresivo / ISRS",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -898,7 +899,7 @@
       "saldo": 210,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -908,7 +909,7 @@
       "saldo": 510,
       "nuevo": false,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "Alfa-bloqueador / Tratamiento de HBP",
       "presentacion": ""
     },
     {
@@ -918,7 +919,7 @@
       "saldo": 280,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -928,7 +929,7 @@
       "saldo": 97,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Analgésico opioide",
       "presentacion": "FRASCO"
     },
     {
@@ -938,7 +939,7 @@
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiespasmódico / Regulador de motilidad gastrointestinal",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -948,7 +949,7 @@
       "saldo": 1400,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidepresivo",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -958,7 +959,7 @@
       "saldo": 147,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Inhibidor de bomba de protones / Antiulceroso",
       "presentacion": "CAJA"
     },
     {
@@ -968,7 +969,7 @@
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antigalucomatosos",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -978,7 +979,7 @@
       "saldo": 91,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Aminoglucósido",
       "presentacion": "AMPOLLA"
     },
     {
@@ -988,7 +989,7 @@
       "saldo": 470,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -998,7 +999,7 @@
       "saldo": 960,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antihistamínico / Antialérgico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1008,7 +1009,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "AMPOLLA"
     },
     {
@@ -1018,7 +1019,7 @@
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1028,7 +1029,7 @@
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Glucósido cardíaco",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1038,7 +1039,7 @@
       "saldo": 500,
       "nuevo": false,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": ""
     },
     {
@@ -1048,7 +1049,7 @@
       "saldo": 20,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "AMPOLLAS"
     },
     {
@@ -1058,7 +1059,7 @@
       "saldo": 100,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "AMPOLLA"
     },
     {
@@ -1068,7 +1069,7 @@
       "saldo": 880,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Diurético ahorrador de potasio / Antagonista de aldosterona",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1078,7 +1079,7 @@
       "saldo": 1830,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiepiléptico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1088,7 +1089,7 @@
       "saldo": 26,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Broncodilatador anticolinérgico",
       "presentacion": "FRASCO"
     },
     {
@@ -1098,7 +1099,7 @@
       "saldo": 2040,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Diurético de asa",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1108,7 +1109,7 @@
       "saldo": 960,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Diurético tiazídico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1118,7 +1119,7 @@
       "saldo": 472,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Laxante / Regulador intestinal",
       "presentacion": "FRASCO"
     },
     {
@@ -1128,7 +1129,7 @@
       "saldo": 54,
       "nuevo": true,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "Laxante / Regulador intestinal",
       "presentacion": ""
     },
     {
@@ -1138,7 +1139,7 @@
       "saldo": 696,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiemético / Procinético",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1148,7 +1149,7 @@
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Antiprotozoario",
       "presentacion": "OVULOS"
     },
     {
@@ -1158,7 +1159,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Electrolito / Suplemento de potasio",
       "presentacion": "FRASCO"
     },
     {
@@ -1168,7 +1169,7 @@
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Corticoide",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1178,7 +1179,7 @@
       "saldo": 100,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiepiléptico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1188,7 +1189,7 @@
       "saldo": 40,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1198,7 +1199,7 @@
       "saldo": 22,
       "nuevo": false,
       "tipo": "ALIMENTOS",
-      "categoria": "",
+      "categoria": "Nutrición enteral / Suplemento nutricional",
       "presentacion": "TARRO"
     },
     {
@@ -1208,7 +1209,7 @@
       "saldo": 18,
       "nuevo": false,
       "tipo": "ALIMENTOS",
-      "categoria": "",
+      "categoria": "Nutrición enteral / Suplemento nutricional",
       "presentacion": "TARRO"
     },
     {
@@ -1218,7 +1219,7 @@
       "saldo": 36,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "CAJA"
     },
     {
@@ -1228,7 +1229,7 @@
       "saldo": 50,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Glucopéptido",
       "presentacion": "FCO/AMP"
     },
     {
@@ -1238,7 +1239,7 @@
       "saldo": 84,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Suplemento de vitamina D / Calcio",
       "presentacion": "FRASCOS"
     },
     {
@@ -1248,7 +1249,7 @@
       "saldo": 11,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Suplemento de vitamina D / Calcio",
       "presentacion": "CAJA"
     },
     {
@@ -1258,7 +1259,7 @@
       "saldo": 5,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Suplemento de vitamina D / Calcio",
       "presentacion": "CAJA"
     },
     {
@@ -1268,7 +1269,7 @@
       "saldo": 20,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "OVULO/VAG"
     },
     {
@@ -1278,7 +1279,7 @@
       "saldo": 1988,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Laxante / Regulador intestinal",
       "presentacion": "SOBRE"
     },
     {
@@ -1288,7 +1289,7 @@
       "saldo": 240,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Analgésico opioide",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1298,7 +1299,7 @@
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Analgésico opioide",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1308,7 +1309,7 @@
       "saldo": 140,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antimicrobiano",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1318,7 +1319,7 @@
       "saldo": 20,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "GRAGEA"
     },
     {
@@ -1328,7 +1329,7 @@
       "saldo": 360,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1338,7 +1339,7 @@
       "saldo": 490,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Analgésico / Antipirético",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1348,7 +1349,7 @@
       "saldo": 630,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1358,7 +1359,7 @@
       "saldo": 880,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Alfa-bloqueador / Tratamiento de HBP",
       "presentacion": "CAPSULA"
     },
     {
@@ -1368,7 +1369,7 @@
       "saldo": 60,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Alfa-bloqueador / Tratamiento de HBP",
       "presentacion": "CAPSULA"
     },
     {
@@ -1378,7 +1379,7 @@
       "saldo": 8,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "AMPOLLA"
     },
     {
@@ -1388,7 +1389,7 @@
       "saldo": 40,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "CAPSULA"
     },
     {
@@ -1398,7 +1399,7 @@
       "saldo": 2780,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Analgésico / Antipirético",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1408,7 +1409,7 @@
       "saldo": 280,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiepiléptico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1418,7 +1419,7 @@
       "saldo": 50,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Broncodilatador anticolinérgico",
       "presentacion": "FRASCO"
     },
     {
@@ -1428,7 +1429,7 @@
       "saldo": 18,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Broncodilatador anticolinérgico",
       "presentacion": "FRASCO"
     },
     {
@@ -1438,7 +1439,7 @@
       "saldo": 540,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Inhibidor SGLT2",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1448,7 +1449,7 @@
       "saldo": 7070,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiagregante plaquetario / AINE",
       "presentacion": "COMPRIMIDO",
       "imagen": "images/8A450.jpg",
       "documento": "docs/8A450.pdf"
@@ -1460,7 +1461,7 @@
       "saldo": 100,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Bisfosfonato / Antirresortivo óseo",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1470,7 +1471,7 @@
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Antiprotozoario",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1480,7 +1481,7 @@
       "saldo": 1290,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Suplemento de vitamina D / Calcio",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1490,7 +1491,7 @@
       "saldo": 73,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Suplemento de vitamina D / Calcio",
       "presentacion": "FRASCO"
     },
     {
@@ -1500,7 +1501,7 @@
       "saldo": 7050,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiespástico / Relajante muscular",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1510,7 +1511,7 @@
       "saldo": 30,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiepiléptico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1520,7 +1521,7 @@
       "saldo": 780,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1530,7 +1531,7 @@
       "saldo": 690,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1540,7 +1541,7 @@
       "saldo": 32,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "FRASCO"
     },
     {
@@ -1550,7 +1551,7 @@
       "saldo": 50,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antimicrobiano",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1560,7 +1561,7 @@
       "saldo": 190,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1570,7 +1571,7 @@
       "saldo": 270,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento ótico / Uso auricular",
       "presentacion": "CAPSULAS"
     },
     {
@@ -1580,7 +1581,7 @@
       "saldo": 1350,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1590,7 +1591,7 @@
       "saldo": 41,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "FRASCO"
     },
     {
@@ -1600,7 +1601,7 @@
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "FRASCO"
     },
     {
@@ -1610,7 +1611,7 @@
       "saldo": 6,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "FRASCO"
     },
     {
@@ -1620,7 +1621,7 @@
       "saldo": 90,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antihistamínico / Antialérgico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1630,7 +1631,7 @@
       "saldo": 200,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDOS"
     },
     {
@@ -1640,7 +1641,7 @@
       "saldo": 560,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Inhibidor DPP-4",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1650,7 +1651,7 @@
       "saldo": 728,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Biguanida",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1660,7 +1661,7 @@
       "saldo": 812,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Biguanida",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1670,7 +1671,7 @@
       "saldo": 50,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "SUPOSITORI"
     },
     {
@@ -1680,7 +1681,7 @@
       "saldo": 97,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Insulina",
       "presentacion": "CARTRIDGE"
     },
     {
@@ -1690,7 +1691,7 @@
       "saldo": 1140,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1700,7 +1701,7 @@
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Laxante / Regulador intestinal",
       "presentacion": "FRASCO"
     },
     {
@@ -1710,7 +1711,7 @@
       "saldo": 1,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "TUBO"
     },
     {
@@ -1720,7 +1721,7 @@
       "saldo": 5,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "FRASCO"
     },
     {
@@ -1730,7 +1731,7 @@
       "saldo": 1320,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Hipolipemiante / Estatina",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1740,7 +1741,7 @@
       "saldo": 4470,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Hipolipemiante / Estatina",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1750,7 +1751,7 @@
       "saldo": 9,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento tópico / Dermatológico",
       "presentacion": "POMO"
     },
     {
@@ -1760,7 +1761,7 @@
       "saldo": 86,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Laxante / Regulador intestinal",
       "presentacion": "FRASCO"
     },
     {
@@ -1770,7 +1771,7 @@
       "saldo": 270,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Suplemento de hierro/folato",
       "presentacion": "CAPSULA"
     },
     {
@@ -1780,7 +1781,7 @@
       "saldo": 63,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Laxante osmótico",
       "presentacion": "FRASCO"
     },
     {
@@ -1790,7 +1791,7 @@
       "saldo": 510,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Anticoagulantes",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1800,7 +1801,7 @@
       "saldo": 410,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1810,7 +1811,7 @@
       "saldo": 330,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Betabloqueador / Antihipertensivo",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1820,7 +1821,7 @@
       "saldo": 1725,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Hormona tiroidea",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1830,7 +1831,7 @@
       "saldo": 40,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Biguanida",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1840,7 +1841,7 @@
       "saldo": 33,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "FRASCO"
     },
     {
@@ -1850,7 +1851,7 @@
       "saldo": 3180,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Hipnótico / Regulador del sueño",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1860,7 +1861,7 @@
       "saldo": 780,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Corticoide",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1870,7 +1871,7 @@
       "saldo": 11,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "FRASCO"
     },
     {
@@ -1880,7 +1881,7 @@
       "saldo": 90,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1890,7 +1891,7 @@
       "saldo": 210,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1900,7 +1901,7 @@
       "saldo": 60,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Biguanida",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1910,7 +1911,7 @@
       "saldo": 18,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antihistamínico / Antialérgico",
       "presentacion": "`COMPRIMID"
     },
     {
@@ -1920,7 +1921,7 @@
       "saldo": 150,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1930,7 +1931,7 @@
       "saldo": 1670,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Neuromodulador / Antiepiléptico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1940,7 +1941,7 @@
       "saldo": 2560,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Neuromodulador / Antiepiléptico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1950,7 +1951,7 @@
       "saldo": 400,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Relajante muscular",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1960,7 +1961,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "FRASCO"
     },
     {
@@ -1970,7 +1971,7 @@
       "saldo": 910,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidepresivo / ISRS",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -1980,7 +1981,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "FRASCO"
     },
     {
@@ -1990,7 +1991,7 @@
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2000,7 +2001,7 @@
       "saldo": 60,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Suplemento de vitamina C",
       "presentacion": "FRASCO"
     },
     {
@@ -2010,7 +2011,7 @@
       "saldo": 22,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "CAJA"
     },
     {
@@ -2020,7 +2021,7 @@
       "saldo": 228,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2030,7 +2031,7 @@
       "saldo": 240,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiséptico / Desinfectante",
       "presentacion": "COMP/MASTI"
     },
     {
@@ -2040,7 +2041,7 @@
       "saldo": 28,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Penicilina",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2050,7 +2051,7 @@
       "saldo": 4,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Anticolinérgico",
       "presentacion": "FRASCO"
     },
     {
@@ -2060,7 +2061,7 @@
       "saldo": 360,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidepresivo / ISRS",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2070,7 +2071,7 @@
       "saldo": 1410,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidepresivo / ISRS",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2080,7 +2081,7 @@
       "saldo": 340,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Penicilina",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2090,7 +2091,7 @@
       "saldo": 720,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Betabloqueador / Antihipertensivo",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2100,7 +2101,7 @@
       "saldo": 112,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antifúngico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2110,7 +2111,7 @@
       "saldo": 8,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antifúngico",
       "presentacion": "POMO"
     },
     {
@@ -2120,7 +2121,7 @@
       "saldo": 17,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Mucolíticos Y Expectorantes",
       "presentacion": "FRASCO"
     },
     {
@@ -2130,7 +2131,7 @@
       "saldo": 33,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "FRASCO"
     },
     {
@@ -2140,7 +2141,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "FRASCO"
     },
     {
@@ -2150,7 +2151,7 @@
       "saldo": 330,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2160,7 +2161,7 @@
       "saldo": 840,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidepresivo / ISRSN",
       "presentacion": "CAPSULA"
     },
     {
@@ -2170,7 +2171,7 @@
       "saldo": 6,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "FRASCO"
     },
     {
@@ -2180,7 +2181,7 @@
       "saldo": 60,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Complejo vitamínico / Neurotrófico",
       "presentacion": "AMPOLLA"
     },
     {
@@ -2190,7 +2191,7 @@
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Complejo vitamínico / Neurotrófico",
       "presentacion": "CAPSULA"
     },
     {
@@ -2200,7 +2201,7 @@
       "saldo": 150,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antihistamínico / Antialérgico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2210,7 +2211,7 @@
       "saldo": 15,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "FRASCO"
     },
     {
@@ -2220,7 +2221,7 @@
       "saldo": 260,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2230,7 +2231,7 @@
       "saldo": 710,
       "nuevo": false,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "CAPSULAS"
     },
     {
@@ -2240,7 +2241,7 @@
       "saldo": 15,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "UNIDAD"
     },
     {
@@ -2250,7 +2251,7 @@
       "saldo": 15,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "TUBO"
     },
     {
@@ -2260,7 +2261,7 @@
       "saldo": 29,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "PLACA"
     },
     {
@@ -2270,7 +2271,7 @@
       "saldo": 31,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "TUBO"
     },
     {
@@ -2280,7 +2281,7 @@
       "saldo": 4,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "TUBO"
     },
     {
@@ -2290,7 +2291,7 @@
       "saldo": 20,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo de fijación / Curación",
       "presentacion": "PARCHE"
     },
     {
@@ -2300,7 +2301,7 @@
       "saldo": 227,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "UNIDAD"
     },
     {
@@ -2310,7 +2311,7 @@
       "saldo": 280,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Anticoagulante / Heparina de bajo peso molecular",
       "presentacion": "JERINGA"
     },
     {
@@ -2320,7 +2321,7 @@
       "saldo": 60,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Anticoagulante / Heparina de bajo peso molecular",
       "presentacion": "JERINGA"
     },
     {
@@ -2330,7 +2331,7 @@
       "saldo": 630,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antianginoso / Nitrato",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2340,7 +2341,7 @@
       "saldo": 492,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Cefalosporina",
       "presentacion": "FCO/AMP"
     },
     {
@@ -2350,7 +2351,7 @@
       "saldo": 6,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "CAJA"
     },
     {
@@ -2360,7 +2361,7 @@
       "saldo": 1,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Adrenérgico / Vasopresor",
       "presentacion": "AMPOLLA"
     },
     {
@@ -2370,7 +2371,7 @@
       "saldo": 2799,
       "nuevo": false,
       "tipo": "INYECTABLES",
-      "categoria": "",
+      "categoria": "Diluyente / Agua para uso parenteral",
       "presentacion": "AMP PLAS"
     },
     {
@@ -2380,7 +2381,7 @@
       "saldo": 43,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Lincosamida",
       "presentacion": "AMPOLLA"
     },
     {
@@ -2390,7 +2391,7 @@
       "saldo": 131,
       "nuevo": false,
       "tipo": "inyectables",
-      "categoria": "",
+      "categoria": "Electrolito / Suplemento de potasio",
       "presentacion": "AMP PLAST"
     },
     {
@@ -2400,7 +2401,7 @@
       "saldo": 385,
       "nuevo": false,
       "tipo": "INYECTABLES",
-      "categoria": "",
+      "categoria": "Solución parenteral / Cristaloide",
       "presentacion": "MATRAZ"
     },
     {
@@ -2410,7 +2411,7 @@
       "saldo": 66,
       "nuevo": false,
       "tipo": "INYECTABLES",
-      "categoria": "",
+      "categoria": "Solución parenteral / Cristaloide",
       "presentacion": "MATRAZ"
     },
     {
@@ -2420,7 +2421,7 @@
       "saldo": 1074,
       "nuevo": false,
       "tipo": "INYECTABLES",
-      "categoria": "",
+      "categoria": "Solución parenteral / Cristaloide",
       "presentacion": "AMP/PLASTI"
     },
     {
@@ -2430,7 +2431,7 @@
       "saldo": 400,
       "nuevo": false,
       "tipo": "",
-      "categoria": "",
+      "categoria": "Solución parenteral / Cristaloide",
       "presentacion": "MATRAZ"
     },
     {
@@ -2440,7 +2441,7 @@
       "saldo": 72,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de medicamentos",
       "presentacion": "UNIDAD"
     },
     {
@@ -2450,7 +2451,7 @@
       "saldo": 192,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Diurético de asa",
       "presentacion": "AMPOLLA"
     },
     {
@@ -2460,7 +2461,7 @@
       "saldo": 50,
       "nuevo": false,
       "tipo": "INYECTABLES",
-      "categoria": "",
+      "categoria": "Solución parenteral / Aporte de glucosa",
       "presentacion": "MATRAZ"
     },
     {
@@ -2470,7 +2471,7 @@
       "saldo": 18,
       "nuevo": false,
       "tipo": "INYECTABLES",
-      "categoria": "",
+      "categoria": "Solución parenteral / Aporte de glucosa",
       "presentacion": "MATRAZ"
     },
     {
@@ -2480,7 +2481,7 @@
       "saldo": 292,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Carbapenémico",
       "presentacion": "FRASCO AMP"
     },
     {
@@ -2490,7 +2491,7 @@
       "saldo": 19,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Glucósido cardíaco",
       "presentacion": "AMPOLLA"
     },
     {
@@ -2500,7 +2501,7 @@
       "saldo": 18,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Anestésico local",
       "presentacion": "AMP PLAST"
     },
     {
@@ -2510,7 +2511,7 @@
       "saldo": 76,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "AMPOLLA"
     },
     {
@@ -2520,7 +2521,7 @@
       "saldo": 110,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiemético / Antagonista 5-HT3",
       "presentacion": "AMPOLLA"
     },
     {
@@ -2530,7 +2531,7 @@
       "saldo": 108,
       "nuevo": false,
       "tipo": "INYECTABLES",
-      "categoria": "",
+      "categoria": "Solución parenteral / Aporte de glucosa",
       "presentacion": "MATRAZ"
     },
     {
@@ -2540,7 +2541,7 @@
       "saldo": 96,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Solución parenteral / Cristaloide balanceado",
       "presentacion": "MATRAZ"
     },
     {
@@ -2550,7 +2551,7 @@
       "saldo": 30,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Vitamina B1 / Suplemento vitamínico",
       "presentacion": "AMPOLLA"
     },
     {
@@ -2560,7 +2561,7 @@
       "saldo": 840,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiepiléptico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2570,7 +2571,7 @@
       "saldo": 1640,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2580,7 +2581,7 @@
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2590,7 +2591,7 @@
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "CAPSULAS"
     },
     {
@@ -2600,7 +2601,7 @@
       "saldo": 105,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Suplemento de hierro/folato",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2610,7 +2611,7 @@
       "saldo": 420,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antimicrobiano",
       "presentacion": "CAPSULA"
     },
     {
@@ -2620,7 +2621,7 @@
       "saldo": 60,
       "nuevo": true,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDOS"
     },
     {
@@ -2630,7 +2631,7 @@
       "saldo": 2040,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "CAPSULA"
     },
     {
@@ -2640,7 +2641,7 @@
       "saldo": 930,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "CAPSULA"
     },
     {
@@ -2650,7 +2651,7 @@
       "saldo": 1200,
       "nuevo": false,
       "tipo": "",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPR"
     },
     {
@@ -2660,7 +2661,7 @@
       "saldo": 1080,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -2670,7 +2671,7 @@
       "saldo": 2100,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMP REC"
     },
     {
@@ -2680,7 +2681,7 @@
       "saldo": 52,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -2690,7 +2691,7 @@
       "saldo": 50,
       "nuevo": true,
       "tipo": "",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -2700,7 +2701,7 @@
       "saldo": 50,
       "nuevo": true,
       "tipo": "",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -2710,7 +2711,7 @@
       "saldo": 1065,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Aspiración de secreciones",
       "presentacion": "UNIDAD"
     },
     {
@@ -2720,7 +2721,7 @@
       "saldo": 3,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cateterismo urinario",
       "presentacion": "UNIDAD"
     },
     {
@@ -2730,7 +2731,7 @@
       "saldo": 3,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cateterismo urinario",
       "presentacion": "UNIDAD"
     },
     {
@@ -2740,7 +2741,7 @@
       "saldo": 4328,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cateterismo urinario intermitente",
       "presentacion": "UNIDAD"
     },
     {
@@ -2750,7 +2751,7 @@
       "saldo": 278,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cateterismo urinario intermitente",
       "presentacion": "UNIDAD"
     },
     {
@@ -2760,7 +2761,7 @@
       "saldo": 192,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cateterismo urinario intermitente",
       "presentacion": "UNIDAD"
     },
     {
@@ -2770,7 +2771,7 @@
       "saldo": 17,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cateterismo urinario",
       "presentacion": "UNIDAD"
     },
     {
@@ -2780,7 +2781,7 @@
       "saldo": 9,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cateterismo urinario",
       "presentacion": "UNIDAD"
     },
     {
@@ -2790,7 +2791,7 @@
       "saldo": 23,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cateterismo urinario",
       "presentacion": "UNIDAD"
     },
     {
@@ -2800,7 +2801,7 @@
       "saldo": 19,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cateterismo urinario",
       "presentacion": "UNIDAD"
     },
     {
@@ -2810,7 +2811,7 @@
       "saldo": 18,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Tubo endotraqueal",
       "presentacion": "UNIDAD"
     },
     {
@@ -2820,7 +2821,7 @@
       "saldo": 52,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Producto dermatológico / Higiene",
       "presentacion": "FRASCO"
     },
     {
@@ -2830,7 +2831,7 @@
       "saldo": 29,
       "nuevo": false,
       "tipo": "inyectables",
-      "categoria": "",
+      "categoria": "Antifibrinolítico / Hemostático",
       "presentacion": "AMPOLLA"
     },
     {
@@ -2840,7 +2841,7 @@
       "saldo": 6,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cámara espaciadora",
       "presentacion": "UNIDAD"
     },
     {
@@ -2850,7 +2851,7 @@
       "saldo": 6,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cámara espaciadora",
       "presentacion": "UNIDAD"
     },
     {
@@ -2860,7 +2861,7 @@
       "saldo": 228,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Antiséptico / Desinfectante",
       "presentacion": "FRASCO"
     },
     {
@@ -2870,7 +2871,7 @@
       "saldo": 535,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "PAQUETE"
     },
     {
@@ -2880,7 +2881,7 @@
       "saldo": 44,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiarrítmico",
       "presentacion": "AMPOLLA"
     },
     {
@@ -2890,7 +2891,7 @@
       "saldo": 37,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "APOSITO"
     },
     {
@@ -2900,7 +2901,7 @@
       "saldo": 162,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "APOSITO"
     },
     {
@@ -2910,7 +2911,7 @@
       "saldo": 125,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "PARCHE"
     },
     {
@@ -2920,7 +2921,7 @@
       "saldo": 2411,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "APOSITO"
     },
     {
@@ -2930,7 +2931,7 @@
       "saldo": 140,
       "nuevo": true,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "Antipsicótico atípico",
       "presentacion": "COMPRIMIDOS"
     },
     {
@@ -2940,7 +2941,7 @@
       "saldo": 6,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Anticolinérgico",
       "presentacion": "AMPOLLA"
     },
     {
@@ -2950,7 +2951,7 @@
       "saldo": 4,
       "nuevo": false,
       "tipo": "INYECTABLES",
-      "categoria": "",
+      "categoria": "Electrolito / Alcalinizante",
       "presentacion": "AMPOLLA"
     },
     {
@@ -2960,7 +2961,7 @@
       "saldo": 238,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de oxígeno",
       "presentacion": "UNIDAD"
     },
     {
@@ -2970,7 +2971,7 @@
       "saldo": 6,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "UNIDAD"
     },
     {
@@ -2980,7 +2981,7 @@
       "saldo": 3,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -2990,7 +2991,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -3000,7 +3001,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -3010,7 +3011,7 @@
       "saldo": 4,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "CANULA"
     },
     {
@@ -3020,7 +3021,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -3030,7 +3031,7 @@
       "saldo": 140,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiagregante plaquetario",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -3040,7 +3041,7 @@
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antihistamínico / Antialérgico",
       "presentacion": "AMPOLLA"
     },
     {
@@ -3050,7 +3051,7 @@
       "saldo": 3,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiséptico / Desinfectante",
       "presentacion": "FRASCO"
     },
     {
@@ -3060,7 +3061,7 @@
       "saldo": 42,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento tópico / Dermatológico",
       "presentacion": "FRASCO"
     },
     {
@@ -3070,7 +3071,7 @@
       "saldo": 11190,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "EPP / Protección personal",
       "presentacion": "UNIDAD"
     },
     {
@@ -3080,7 +3081,7 @@
       "saldo": 106,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -3090,7 +3091,7 @@
       "saldo": 18,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -3100,7 +3101,7 @@
       "saldo": 11,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -3110,7 +3111,7 @@
       "saldo": 22,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -3120,7 +3121,7 @@
       "saldo": 72,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -3130,7 +3131,7 @@
       "saldo": 18,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -3140,7 +3141,7 @@
       "saldo": 552,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidepresivo / ISRS",
       "presentacion": "COMPRIMIDOS"
     },
     {
@@ -3150,7 +3151,7 @@
       "saldo": 766,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Higiene / Limpieza",
       "presentacion": "BOLSA"
     },
     {
@@ -3160,7 +3161,7 @@
       "saldo": 14,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "UNIDAD"
     },
     {
@@ -3170,7 +3171,7 @@
       "saldo": 224,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -3180,7 +3181,7 @@
       "saldo": 895,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "UNIDAD"
     },
     {
@@ -3190,7 +3191,7 @@
       "saldo": 77,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Laxante / Regulador intestinal",
       "presentacion": "FRASCO"
     },
     {
@@ -3200,7 +3201,7 @@
       "saldo": 10975,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "UNIDAD"
     },
     {
@@ -3210,7 +3211,7 @@
       "saldo": 5981,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "UNIDAD"
     },
     {
@@ -3220,7 +3221,7 @@
       "saldo": 141,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "UNIDAD"
     },
     {
@@ -3230,7 +3231,7 @@
       "saldo": 6,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Electrolito / Suplemento de calcio",
       "presentacion": "AMPOLLA"
     },
     {
@@ -3240,7 +3241,7 @@
       "saldo": 13,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Solución parenteral / Aporte de glucosa",
       "presentacion": "AMPOLLA"
     },
     {
@@ -3250,7 +3251,7 @@
       "saldo": 14,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Solución parenteral / Aporte de glucosa",
       "presentacion": "MATRAZ"
     },
     {
@@ -3260,7 +3261,7 @@
       "saldo": 29300,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "EPP / Guantes de protección",
       "presentacion": "UNIDAD"
     },
     {
@@ -3270,7 +3271,7 @@
       "saldo": 2112,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "EPP / Guantes de protección",
       "presentacion": "PAR"
     },
     {
@@ -3280,7 +3281,7 @@
       "saldo": 19000,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "EPP / Guantes de protección",
       "presentacion": "UNIDAD"
     },
     {
@@ -3290,7 +3291,7 @@
       "saldo": 490,
       "nuevo": false,
       "tipo": "INYECTABLES",
-      "categoria": "",
+      "categoria": "Diluyente / Agua para uso parenteral",
       "presentacion": "UNIDA"
     },
     {
@@ -3300,7 +3301,7 @@
       "saldo": 40,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "FRASCO"
     },
     {
@@ -3310,7 +3311,7 @@
       "saldo": 9,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "UNIDAD"
     },
     {
@@ -3320,7 +3321,7 @@
       "saldo": 1000,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de medicamentos",
       "presentacion": "UNIDAD"
     },
     {
@@ -3330,7 +3331,7 @@
       "saldo": 1,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "TUBO"
     },
     {
@@ -3340,7 +3341,7 @@
       "saldo": 1517,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "UNIDAD"
     },
     {
@@ -3350,7 +3351,7 @@
       "saldo": 270,
       "nuevo": true,
       "tipo": "MEDICAMENTO",
-      "categoria": "",
+      "categoria": "Antiepiléptico",
       "presentacion": "COMPRIMIDOS"
     },
     {
@@ -3360,7 +3361,7 @@
       "saldo": 666,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de soluciones",
       "presentacion": "UNIDAD"
     },
     {
@@ -3370,7 +3371,7 @@
       "saldo": 442,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de oxígeno",
       "presentacion": "UNIDAD"
     },
     {
@@ -3380,7 +3381,7 @@
       "saldo": 38,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de oxígeno",
       "presentacion": "UNIDAD",
       "imagen": "images/100M227.png"
     },
@@ -3391,7 +3392,7 @@
       "saldo": 242,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de oxígeno",
       "presentacion": "UNIDAD"
     },
     {
@@ -3401,7 +3402,7 @@
       "saldo": 212,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de oxígeno",
       "presentacion": "UNIDAD"
     },
     {
@@ -3411,7 +3412,7 @@
       "saldo": 248,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de oxígeno",
       "presentacion": "UNIDAD"
     },
     {
@@ -3421,7 +3422,7 @@
       "saldo": 756,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -3431,7 +3432,7 @@
       "saldo": 73,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano / Antiprotozoario",
       "presentacion": "MATRAZ"
     },
     {
@@ -3441,7 +3442,7 @@
       "saldo": 11,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Aceites Protectores Y/O Cicatrizantes",
       "presentacion": "FRASCO"
     },
     {
@@ -3451,7 +3452,7 @@
       "saldo": 84,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -3461,7 +3462,7 @@
       "saldo": 2562,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo sanitario / Incontinencia",
       "presentacion": "UNIDAD"
     },
     {
@@ -3471,7 +3472,7 @@
       "saldo": 1,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Inhibidor de bomba de protones / Antiulceroso",
       "presentacion": "FCO AMP"
     },
     {
@@ -3481,7 +3482,7 @@
       "saldo": 523,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "SET"
     },
     {
@@ -3491,7 +3492,7 @@
       "saldo": 39,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Aspiración de secreciones",
       "presentacion": "SONDA"
     },
     {
@@ -3501,7 +3502,7 @@
       "saldo": 124,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Sonda nasogástrica",
       "presentacion": "UNIDAD"
     },
     {
@@ -3511,7 +3512,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cateterismo urinario",
       "presentacion": "UNIDAD"
     },
     {
@@ -3521,7 +3522,7 @@
       "saldo": 594,
       "nuevo": true,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "UNIDAD"
     },
     {
@@ -3531,7 +3532,7 @@
       "saldo": 12,
       "nuevo": false,
       "tipo": "insumos",
-      "categoria": "",
+      "categoria": "Insumo de fijación / Curación",
       "presentacion": "ROLLO"
     },
     {
@@ -3541,7 +3542,7 @@
       "saldo": 201,
       "nuevo": false,
       "tipo": "insumos",
-      "categoria": "",
+      "categoria": "Insumo de fijación / Curación",
       "presentacion": "ROLLO"
     },
     {
@@ -3551,7 +3552,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Traqueostomía",
       "presentacion": "UNIDAD"
     },
     {
@@ -3561,7 +3562,7 @@
       "saldo": 12,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "FRASCO"
     },
     {
@@ -3571,7 +3572,7 @@
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento tópico / Dermatológico",
       "presentacion": "TUBO"
     },
     {
@@ -3581,7 +3582,7 @@
       "saldo": 150,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antimicrobiano",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -3591,7 +3592,7 @@
       "saldo": 126,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "TUBO"
     },
     {
@@ -3601,7 +3602,7 @@
       "saldo": 1,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Vía aérea / Tubo endotraqueal",
       "presentacion": "UNIDAD"
     },
     {
@@ -3611,7 +3612,7 @@
       "saldo": 415,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "UNIDAD"
     },
     {
@@ -3621,7 +3622,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "UNIDAD"
     },
     {
@@ -3631,7 +3632,7 @@
       "saldo": 3,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo clínico / Dispositivo médico",
       "presentacion": "UNIDAD"
     },
     {
@@ -3641,7 +3642,7 @@
       "saldo": 186,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Producto tópico / Protector cutáneo",
       "presentacion": "AMPOLLA"
     },
     {
@@ -3651,7 +3652,7 @@
       "saldo": 200,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Producto tópico / Protector cutáneo",
       "presentacion": "AMPOLLA"
     },
     {
@@ -3661,7 +3662,7 @@
       "saldo": 69,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Producto tópico / Protector cutáneo",
       "presentacion": "FRASCO"
     },
     {
@@ -3671,7 +3672,7 @@
       "saldo": 36,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "ROLLO"
     },
     {
@@ -3681,7 +3682,7 @@
       "saldo": 114,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "ROLLO"
     },
     {
@@ -3691,7 +3692,7 @@
       "saldo": 109,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "UNIDADES"
     },
     {
@@ -3701,7 +3702,7 @@
       "saldo": 3220,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Suplemento de vitamina C",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -3711,7 +3712,7 @@
       "saldo": 181,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Cateterismo urinario",
       "presentacion": "UNIDAD"
     },
     {
@@ -3721,7 +3722,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Laxante / Regulador intestinal",
       "presentacion": "FRASCO"
     },
     {
@@ -3731,7 +3732,7 @@
       "saldo": 13,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "FRASCO"
     },
     {
@@ -3741,7 +3742,7 @@
       "saldo": 187,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiséptico / Desinfectante",
       "presentacion": "FRASCO"
     },
     {
@@ -3751,7 +3752,7 @@
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Anestésico local",
       "presentacion": "CAJA"
     },
     {
@@ -3761,7 +3762,7 @@
       "saldo": 27,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "FRASCO"
     },
     {
@@ -3771,7 +3772,7 @@
       "saldo": 375,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de soluciones",
       "presentacion": "UNIDAD"
     },
     {
@@ -3781,7 +3782,7 @@
       "saldo": 127,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Solución parenteral / Cristaloide",
       "presentacion": "MATRAZ"
     },
     {
@@ -3791,7 +3792,7 @@
       "saldo": 18,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Solución parenteral / Cristaloide",
       "presentacion": "CAJA"
     },
     {
@@ -3801,7 +3802,7 @@
       "saldo": 970,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Aguja",
       "presentacion": "UNIDAD"
     },
     {
@@ -3811,7 +3812,7 @@
       "saldo": 3,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Insulina",
       "presentacion": "FRASCO"
     },
     {
@@ -3821,7 +3822,7 @@
       "saldo": 56,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Insulina",
       "presentacion": "FRASCO"
     },
     {
@@ -3831,7 +3832,7 @@
       "saldo": 9,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antidiabético / Insulina",
       "presentacion": "LAPIZ"
     },
     {
@@ -3841,7 +3842,7 @@
       "saldo": 1,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento ótico / Uso auricular",
       "presentacion": "FRASCO"
     },
     {
@@ -3851,7 +3852,7 @@
       "saldo": 685,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Catéter venoso periférico",
       "presentacion": "UNIDAD"
     },
     {
@@ -3861,7 +3862,7 @@
       "saldo": 303,
       "nuevo": false,
       "tipo": "insumos",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Catéter venoso periférico",
       "presentacion": "UNIDAD"
     },
     {
@@ -3871,7 +3872,7 @@
       "saldo": 173,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Catéter venoso periférico",
       "presentacion": "UNIDAD"
     },
     {
@@ -3881,7 +3882,7 @@
       "saldo": 75,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antimicrobiano",
       "presentacion": "SOBRE"
     },
     {
@@ -3891,7 +3892,7 @@
       "saldo": 2,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento tópico / Dermatológico",
       "presentacion": "FRASCO"
     },
     {
@@ -3901,7 +3902,7 @@
       "saldo": 30,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antipsicótico atípico",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -3911,7 +3912,7 @@
       "saldo": 6,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "ANTIMICROBIANO",
+      "categoria": "Antibacteriano tópico",
       "presentacion": "TUBO"
     },
     {
@@ -3921,7 +3922,7 @@
       "saldo": 4283,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de medicamentos",
       "presentacion": "UNIDAD"
     },
     {
@@ -3931,7 +3932,7 @@
       "saldo": 135,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de medicamentos",
       "presentacion": "UNIDAD"
     },
     {
@@ -3941,7 +3942,7 @@
       "saldo": 171,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de medicamentos",
       "presentacion": "UNIDAD"
     },
     {
@@ -3951,7 +3952,7 @@
       "saldo": 292,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de medicamentos",
       "presentacion": "UNIDAD"
     },
     {
@@ -3961,7 +3962,7 @@
       "saldo": 4703,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de medicamentos",
       "presentacion": "UNIDAD"
     },
     {
@@ -3971,7 +3972,7 @@
       "saldo": 34,
       "nuevo": false,
       "tipo": "INSUMOS",
-      "categoria": "",
+      "categoria": "Dispositivo médico / Administración de medicamentos",
       "presentacion": "UNIDAD"
     },
     {
@@ -3981,7 +3982,7 @@
       "saldo": 308,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Suplemento de vitamina C",
       "presentacion": "TUBO"
     },
     {
@@ -3991,7 +3992,7 @@
       "saldo": 1500,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Pendiente de clasificación",
       "presentacion": "CAPSULAS"
     },
     {
@@ -4001,7 +4002,7 @@
       "saldo": 44,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Medicamento tópico / Dermatológico",
       "presentacion": "TUBO"
     },
     {
@@ -4011,7 +4012,7 @@
       "saldo": 1,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Fibra / Laxante",
       "presentacion": "FRASCO"
     },
     {
@@ -4021,7 +4022,7 @@
       "saldo": 784,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Anticoagulante / Inhibidor factor Xa",
       "presentacion": "COMPRIMIDO"
     },
     {
@@ -4031,7 +4032,7 @@
       "saldo": 720,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
-      "categoria": "",
+      "categoria": "Antiepiléptico",
       "presentacion": "COMPRIMIDO"
     }
   ]
