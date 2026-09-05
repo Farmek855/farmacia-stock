@@ -1,10 +1,10 @@
 {
-  "generado": "05-09-2026 04:53",
+  "generado": "05-09-2026 05:00",
   "productos": [
     {
       "codigo": "1A467",
       "nombre": "AC ACETILSALICILICO 100 M",
-      "descripcion": "ACIDO ACETILSALICILICO 100 mg  VO",
+      "descripcion": "Ácido acetilsalicílico 100 mg, comprimidos, vía oral.",
       "saldo": 2000,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
@@ -16,7 +16,7 @@
     {
       "codigo": "1A073",
       "nombre": "AC MEFENAMICO 500 MG 10 C",
-      "descripcion": "ACIDO MEFENAMICO 500 mg  VO",
+      "descripcion": "Ácido mefenámico 500 mg, comprimidos, vía oral.",
       "saldo": 380,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -28,7 +28,7 @@
     {
       "codigo": "1A320",
       "nombre": "AC VALPROICO 250 MG 20 CO",
-      "descripcion": "ACIDO VALPROICO 250 MG VO",
+      "descripcion": "Ácido valproico 250 mg, comprimidos, vía oral.",
       "saldo": 1420,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -40,7 +40,7 @@
     {
       "codigo": "1A134",
       "nombre": "ACICLOVIR 400 MG 35 COMP",
-      "descripcion": "ACICLOVIR 400 mg  VO",
+      "descripcion": "ACICLOVIR 400 mg VO",
       "saldo": 105,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -74,7 +74,7 @@
     {
       "codigo": "1A129",
       "nombre": "ALOPURINOL 100 MG COMPRIM",
-      "descripcion": "ALOPURINOL 100 mg  VO",
+      "descripcion": "ALOPURINOL 100 mg VO",
       "saldo": 610,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -84,7 +84,7 @@
     {
       "codigo": "1A117",
       "nombre": "ALPRAZOLAM 0,50 MG 30 COM",
-      "descripcion": "ALPRAZOLAM 0,5 mg  VO",
+      "descripcion": "ALPRAZOLAM 0,5 mg VO",
       "saldo": 480,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -94,7 +94,7 @@
     {
       "codigo": "1A039",
       "nombre": "AMIODARONA 200 MG 20 COMP",
-      "descripcion": "AMIODARONA 200 mg comprimidos  VO",
+      "descripcion": "AMIODARONA 200 mg comprimidos VO",
       "saldo": 370,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -104,7 +104,7 @@
     {
       "codigo": "1A332",
       "nombre": "AMLODIPINO 10 MG 30 COMPR",
-      "descripcion": "AMLODIPINO 10 mg  VO",
+      "descripcion": "AMLODIPINO 10 mg VO",
       "saldo": 1600,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -114,7 +114,7 @@
     {
       "codigo": "1A331",
       "nombre": "AMLODIPINO 5 MG 30 COMP",
-      "descripcion": "AMLODIPINO 5 mg  VO",
+      "descripcion": "AMLODIPINO 5 mg VO",
       "saldo": 780,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -124,7 +124,7 @@
     {
       "codigo": "1A470",
       "nombre": "AMOXI/AC. CLAV 875/125 20",
-      "descripcion": "AMOXICILINA+AC. CLAVULANICO 850/125 mg  VO",
+      "descripcion": "Amoxicilina 875 mg + ácido clavulánico 125 mg, comprimidos, vía oral.",
       "saldo": 340,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -134,7 +134,7 @@
     {
       "codigo": "1A067",
       "nombre": "AMOXICILINA 750 MG 10 COM",
-      "descripcion": "AMOXICILINA 750 MG  VO",
+      "descripcion": "Amoxicilina 750 mg, comprimidos, vía oral.",
       "saldo": 20,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -144,7 +144,7 @@
     {
       "codigo": "1A101",
       "nombre": "ARIPIPRAZOL 15 MG 30 COMP",
-      "descripcion": "ARIPIPRAZÓL 15 MG VO",
+      "descripcion": "Aripiprazol 15 mg, comprimidos, vía oral.",
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -154,7 +154,7 @@
     {
       "codigo": "1A297",
       "nombre": "AZITROMICINA 500 MG 6 COM",
-      "descripcion": "AZITROMICINA 500 MG",
+      "descripcion": "Azitromicina 500 mg, comprimidos, vía oral.",
       "saldo": 27,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -174,7 +174,7 @@
     {
       "codigo": "1B082",
       "nombre": "BETAMETASONA 4 MG 1 CC 10",
-      "descripcion": "BETAMETASONA 4 MG/ML INYECTABLE",
+      "descripcion": "Betametasona 4 mg/mL, solución inyectable.",
       "saldo": 4,
       "nuevo": false,
       "tipo": "INYECTABLES",
@@ -184,7 +184,7 @@
     {
       "codigo": "1B083",
       "nombre": "BETAMETASONA CR 15 GRS",
-      "descripcion": "BETAMETASONA CREMA",
+      "descripcion": "Betametasona, crema tópica.",
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -194,7 +194,7 @@
     {
       "codigo": "1B001",
       "nombre": "BISOPROLOL 2.5 MG 30 COMP",
-      "descripcion": "BISOPROLOL 2,5 MG VO",
+      "descripcion": "Bisoprolol 2,5 mg, comprimidos, vía oral.",
       "saldo": 540,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -204,7 +204,7 @@
     {
       "codigo": "1B016",
       "nombre": "BISOPROLOL 5 MG 30 COMP (",
-      "descripcion": "BISOPROLOL  5 MG VO",
+      "descripcion": "Bisoprolol 5 mg, comprimidos, vía oral.",
       "saldo": 810,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -214,7 +214,7 @@
     {
       "codigo": "1C271",
       "nombre": "CAM 30 COMP",
-      "descripcion": "BETAMETASONA  ; CLORFENAMINA VO",
+      "descripcion": "BETAMETASONA ; CLORFENAMINA VO",
       "saldo": 90,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -224,7 +224,7 @@
     {
       "codigo": "1C402",
       "nombre": "CAPTOPRIL 25 MG 30 COMP",
-      "descripcion": "CAPTOPRIL 25 MG VO",
+      "descripcion": "Captopril 25 mg, comprimidos, vía oral.",
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -234,7 +234,7 @@
     {
       "codigo": "1C017",
       "nombre": "CARBAMAZEPINA 200 MG 20 C",
-      "descripcion": "CARBAMAZEPINA 200 MG VO",
+      "descripcion": "Carbamazepina 200 mg, comprimidos, vía oral.",
       "saldo": 1850,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -244,7 +244,7 @@
     {
       "codigo": "1C529",
       "nombre": "CARVEDILOL 12.5 MG 30 COM",
-      "descripcion": "CARVEDILOL 12,5 MG VO",
+      "descripcion": "Carvedilol 12,5 mg, comprimidos, vía oral.",
       "saldo": 870,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -254,7 +254,7 @@
     {
       "codigo": "1C082",
       "nombre": "CEFADROXILO 500 MG 8 COMP",
-      "descripcion": "CEFADROXILO 500 MG VO",
+      "descripcion": "Cefadroxilo 500 mg, cápsulas/comprimidos, vía oral.",
       "saldo": 64,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -264,7 +264,7 @@
     {
       "codigo": "1C010",
       "nombre": "CELECOXIB 200 MG 10 CAPS",
-      "descripcion": "CELECOXIB 200 MG VO",
+      "descripcion": "Celecoxib 200 mg, cápsulas, vía oral.",
       "saldo": 490,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -274,7 +274,7 @@
     {
       "codigo": "1C276",
       "nombre": "CICLOBENZAPRINA 10 MG 20",
-      "descripcion": "CICLOBENZAPRINA 10 MG VO",
+      "descripcion": "Ciclobenzaprina 10 mg, comprimidos, vía oral.",
       "saldo": 360,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -295,7 +295,7 @@
     {
       "codigo": "1C164",
       "nombre": "CIPROFLOXACINO 500 MG 6",
-      "descripcion": "CIPROFLOXACINO 500 MG VO",
+      "descripcion": "Ciprofloxacino 500 mg, comprimidos, vía oral.",
       "saldo": 822,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -305,7 +305,7 @@
     {
       "codigo": "1C409",
       "nombre": "CLARITROMICINA 500/14 COM",
-      "descripcion": "CLARITROMICINA 500 MG VO",
+      "descripcion": "Claritromicina 500 mg, comprimidos, vía oral.",
       "saldo": 140,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -345,7 +345,7 @@
     {
       "codigo": "1C544",
       "nombre": "CLOPIDOGREL 75 MG 30 COMP",
-      "descripcion": "CLOPIDOGREL 75 MG VO",
+      "descripcion": "Clopidogrel 75 mg, comprimidos, vía oral.",
       "saldo": 210,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -355,7 +355,7 @@
     {
       "codigo": "1C166",
       "nombre": "CLOTRIMAZOL CR 20 GRS",
-      "descripcion": "CLOTRIMAZOL 1% CREMA",
+      "descripcion": "Clotrimazol, crema tópica.",
       "saldo": 52,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -375,7 +375,7 @@
     {
       "codigo": "1C054",
       "nombre": "CLOXACILINA 500 MG 12 CAP",
-      "descripcion": "CLOXACILINA 500 MG 12 VO",
+      "descripcion": "Cloxacilina 500 mg, cápsulas, vía oral.",
       "saldo": 564,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -415,7 +415,7 @@
     {
       "codigo": "1D106",
       "nombre": "DOMPERIDONA 10 MG 20 COMP",
-      "descripcion": "DOMPERIDONA 10 MG VO",
+      "descripcion": "Domperidona 10 mg, comprimidos, vía oral.",
       "saldo": 600,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -425,7 +425,7 @@
     {
       "codigo": "1D600",
       "nombre": "DULOXETINA 30 MG 30 CAPSU",
-      "descripcion": "DULOXETINA 30 MG VO",
+      "descripcion": "Duloxetina 30 mg, cápsulas de liberación retardada, vía oral.",
       "saldo": 510,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -435,7 +435,7 @@
     {
       "codigo": "1D601",
       "nombre": "DULOXETINA 60 MG 30 CAPS",
-      "descripcion": "DULOXETINA 30 MG VO",
+      "descripcion": "Duloxetina 60 mg, cápsulas de liberación retardada, vía oral.",
       "saldo": 240,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -455,7 +455,7 @@
     {
       "codigo": "1E249",
       "nombre": "ESCITALOPRAM 10 MG 30 COM",
-      "descripcion": "ESCITALOPRAM 10 MG VO",
+      "descripcion": "Escitalopram 10 mg, comprimidos, vía oral.",
       "saldo": 1560,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -465,7 +465,7 @@
     {
       "codigo": "1E261",
       "nombre": "ESOMEPRAZOL 20 MG 30 CAPS",
-      "descripcion": "ESOMEPRAZOL 20 MG VO",
+      "descripcion": "Esomeprazol 20 mg, cápsulas, vía oral.",
       "saldo": 510,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -475,7 +475,7 @@
     {
       "codigo": "1E262",
       "nombre": "ESOMEPRAZOL 40 MG 30 COMP",
-      "descripcion": "ESOMEPRAZOL 40 MG VO",
+      "descripcion": "Esomeprazol 40 mg, comprimidos, vía oral.",
       "saldo": 270,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -495,7 +495,7 @@
     {
       "codigo": "1F252",
       "nombre": "FLUCONAZOL 150 MG 2 CAPS",
-      "descripcion": "FLUCONAZOL 150 MG VO",
+      "descripcion": "Fluconazol 150 mg, cápsulas, vía oral.",
       "saldo": 18,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -505,7 +505,7 @@
     {
       "codigo": "1F041",
       "nombre": "FLUOXETINA 20 MG 20 COMP",
-      "descripcion": "FLUOXETINA",
+      "descripcion": "Fluoxetina 20 mg, comprimidos, vía oral.",
       "saldo": 370,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -525,7 +525,7 @@
     {
       "codigo": "1H024",
       "nombre": "HALOPERIDOL 0,5 MG 20 COM",
-      "descripcion": "HALOPERIDOL 0,5 MG VO",
+      "descripcion": "Haloperidol 0,5 mg, comprimidos, vía oral.",
       "saldo": 200,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
@@ -535,7 +535,7 @@
     {
       "codigo": "1H026",
       "nombre": "HALOPERIDOL 5 MG 20 COMP",
-      "descripcion": "HALOPERIDOL 5 MG COMPRIMIDOS VO",
+      "descripcion": "Haloperidol 5 mg, comprimidos, vía oral.",
       "saldo": 176,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -555,7 +555,7 @@
     {
       "codigo": "1H028",
       "nombre": "HIDROCORTISONA 100 MG F/A",
-      "descripcion": "HIDROCORTISONA 100 MG INYECTABLE",
+      "descripcion": "Hidrocortisona 100 mg, polvo/liofilizado para solución inyectable.",
       "saldo": 37,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -565,7 +565,7 @@
     {
       "codigo": "1H098",
       "nombre": "HIDROCORTISONA 20 MG 20 C",
-      "descripcion": "HIDROCORTISONA 20 MG VO",
+      "descripcion": "Hidrocortisona 20 mg, comprimidos, vía oral.",
       "saldo": 274,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -585,7 +585,7 @@
     {
       "codigo": "1H119",
       "nombre": "HIPOGLUCIN 850 MG 60 COMP",
-      "descripcion": "METFORMINA 850 MG   VO",
+      "descripcion": "METFORMINA 850 MG  VO",
       "saldo": 480,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -595,7 +595,7 @@
     {
       "codigo": "1I005",
       "nombre": "IBUPROFENO 400 MG 20 COMP",
-      "descripcion": "IBUPROFENO 400 MG 20 VO",
+      "descripcion": "Ibuprofeno 400 mg, comprimidos, vía oral.",
       "saldo": 520,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
@@ -625,7 +625,7 @@
     {
       "codigo": "1K024",
       "nombre": "KETOPROFENO 50 MG 20 CAP",
-      "descripcion": "KETOPROFENO 50 MG   VO",
+      "descripcion": "Ketoprofeno 50 mg, cápsulas, vía oral.",
       "saldo": 980,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -635,7 +635,7 @@
     {
       "codigo": "1K053",
       "nombre": "KETOROLACO 10 MG 10 COMP",
-      "descripcion": "KETOROLACO 10 MG VO",
+      "descripcion": "Ketorolaco 10 mg, comprimidos, vía oral.",
       "saldo": 130,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -665,7 +665,7 @@
     {
       "codigo": "1L231",
       "nombre": "LAMOTRIGINA 100 MG 30 COM",
-      "descripcion": "LAMOTRIGINA 100 MG VO",
+      "descripcion": "Lamotrigina 100 mg, comprimidos, vía oral.",
       "saldo": 150,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
@@ -675,7 +675,7 @@
     {
       "codigo": "1L233",
       "nombre": "LEVETIRACETAM 1 GR 30 COM",
-      "descripcion": "LEVETIRACETAM 1 GR VO",
+      "descripcion": "Levetiracetam 1000 mg, comprimidos, vía oral.",
       "saldo": 1200,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -685,7 +685,7 @@
     {
       "codigo": "1L232",
       "nombre": "LEVETIRACETAM 500 MG 30 C",
-      "descripcion": "LEVETIRACETAM 500 MG VO",
+      "descripcion": "Levetiracetam 500 mg, comprimidos, vía oral.",
       "saldo": 1320,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -695,7 +695,7 @@
     {
       "codigo": "1L082",
       "nombre": "LORATADINA 10 MG 30 COMP",
-      "descripcion": "LORATADINA 10 MG VO",
+      "descripcion": "Loratadina 10 mg, comprimidos, vía oral.",
       "saldo": 210,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -705,7 +705,7 @@
     {
       "codigo": "1L008",
       "nombre": "LORAZEPAM 2 MG 30 COMP BE",
-      "descripcion": "LORAZEPAM 2MG VO",
+      "descripcion": "Lorazepam 2 mg, comprimidos, vía oral.",
       "saldo": 600,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -715,7 +715,7 @@
     {
       "codigo": "1L188",
       "nombre": "LOSARTAN 50 MG 30 COMP BE",
-      "descripcion": "LOSARTAN 50 MG   VO",
+      "descripcion": "Losartán 50 mg, comprimidos, vía oral.",
       "saldo": 3640,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -725,7 +725,7 @@
     {
       "codigo": "1M230",
       "nombre": "MELOXICAM 15 MG 10 COMP B",
-      "descripcion": "MELOXICAM 15 MG VO",
+      "descripcion": "Meloxicam 15 mg, comprimidos, vía oral.",
       "saldo": 90,
       "nuevo": true,
       "tipo": "MEDICAMENTO",
@@ -735,7 +735,7 @@
     {
       "codigo": "1M198",
       "nombre": "METFORMINA 850 MG 30 COMP",
-      "descripcion": "METFORMINA 850 MG   VO",
+      "descripcion": "Metformina 850 mg, comprimidos, vía oral.",
       "saldo": 1050,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -745,7 +745,7 @@
     {
       "codigo": "1M195",
       "nombre": "METFORMINA XR 1000 MG 30",
-      "descripcion": "METFORMINA 1000 MG XR VO",
+      "descripcion": "Metformina 1000 mg de liberación prolongada, comprimidos, vía oral.",
       "saldo": 270,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -755,7 +755,7 @@
     {
       "codigo": "1M189",
       "nombre": "METRONIDAZOL 500 MG 100 M",
-      "descripcion": "METRONIDAZOL 500 MG/100 ML INY",
+      "descripcion": "Metronidazol 500 mg, comprimidos, vía oral.",
       "saldo": 500,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -765,7 +765,7 @@
     {
       "codigo": "1M401",
       "nombre": "MUPIROCINA 2% UGTO 15 GRS",
-      "descripcion": "MUPIROCINA 2% CREMA TÓPICA",
+      "descripcion": "Mupirocina 2%, ungüento tópico.",
       "saldo": 11,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -775,7 +775,7 @@
     {
       "codigo": "1N200",
       "nombre": "NAPROXENO 550 MG 10 COMP",
-      "descripcion": "NAPROXENO 550 MG VO",
+      "descripcion": "Naproxeno 550 mg, comprimidos, vía oral.",
       "saldo": 180,
       "nuevo": false,
       "tipo": "MEDICAMENTO",
@@ -805,7 +805,7 @@
     {
       "codigo": "1O091",
       "nombre": "OMEPRAZOL 40 MG LIOF FCO/",
-      "descripcion": "OMEPRAZOL 40 MG INYECTABLE",
+      "descripcion": "Omeprazol 40 mg, polvo/liofilizado para solución inyectable.",
       "saldo": 20,
       "nuevo": false,
       "tipo": "MEDICAMENTO",
@@ -825,7 +825,7 @@
     {
       "codigo": "1P051",
       "nombre": "PARACETAMOL 500 MG 16 COM",
-      "descripcion": "PARACETAMOL 500 MG VO",
+      "descripcion": "Paracetamol 500 mg, comprimidos, vía oral.",
       "saldo": 1312,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -835,7 +835,7 @@
     {
       "codigo": "1P901",
       "nombre": "PREDNISONA 20 MG 20 COMP",
-      "descripcion": "PREDNISONA 20 MG VO",
+      "descripcion": "Prednisona 20 mg, comprimidos, vía oral.",
       "saldo": 130,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -845,7 +845,7 @@
     {
       "codigo": "1P302",
       "nombre": "PREGABALINA 150 MG 30 CAP",
-      "descripcion": "PREGABALINA 150 MG VO",
+      "descripcion": "Pregabalina 150 mg, cápsulas, vía oral.",
       "saldo": 1110,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -855,7 +855,7 @@
     {
       "codigo": "1Q012",
       "nombre": "QUETIAPINA 100 MG X 30",
-      "descripcion": "QUETIAPINA 100 MG VO",
+      "descripcion": "Quetiapina 100 mg, comprimidos, vía oral.",
       "saldo": 2550,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -865,7 +865,7 @@
     {
       "codigo": "1Q011",
       "nombre": "QUETIAPINA 25 MG X 30",
-      "descripcion": "QUETIAPINA 25 MG VO",
+      "descripcion": "Quetiapina 25 mg, comprimidos, vía oral.",
       "saldo": 1350,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -875,7 +875,7 @@
     {
       "codigo": "1S094",
       "nombre": "SALBUTAMOL INH 100 MCG 20",
-      "descripcion": "SALBUTAMOL 200 MCG INHALADOR",
+      "descripcion": "Salbutamol 100 microgramos/dosis, inhalador presurizado.",
       "saldo": 48,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -885,7 +885,7 @@
     {
       "codigo": "1S373",
       "nombre": "SERTRALINA 50 MG 30 COMP",
-      "descripcion": "SERTRALINA 50 MG   VO",
+      "descripcion": "Sertralina 50 mg, comprimidos, vía oral.",
       "saldo": 2040,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -905,7 +905,7 @@
     {
       "codigo": "1T334",
       "nombre": "TAMSULOSINA 0.4 MG 30 CAP",
-      "descripcion": "TAMSULOSINA 0,4 MG VO",
+      "descripcion": "Tamsulosina 0,4 mg, cápsulas de liberación modificada, vía oral.",
       "saldo": 510,
       "nuevo": false,
       "tipo": "MEDICAMENTO",
@@ -925,7 +925,7 @@
     {
       "codigo": "1T333",
       "nombre": "TRAMADOL GOTAS 20 ML",
-      "descripcion": "TRAMADOL 100 MG/ML VO",
+      "descripcion": "Tramadol, solución oral en gotas.",
       "saldo": 97,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -935,7 +935,7 @@
     {
       "codigo": "1T009",
       "nombre": "TRIMEBUTINO 100 MG 20 COM",
-      "descripcion": "TRIMEBUTINO 100 MG VO",
+      "descripcion": "Trimebutina 100 mg, comprimidos, vía oral.",
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -945,7 +945,7 @@
     {
       "codigo": "1T071",
       "nombre": "TRITTICO 100 MG 20 COMP",
-      "descripcion": "TRAZODONA 100 100 MG VO",
+      "descripcion": "Trazodona 100 mg, comprimidos, vía oral.",
       "saldo": 1400,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -955,7 +955,7 @@
     {
       "codigo": "1Z015",
       "nombre": "OMEPRAZOL 20 MG 30 CAPS",
-      "descripcion": "OMEPRAZOL 20MG VO",
+      "descripcion": "Omeprazol 20 mg, cápsulas, vía oral.",
       "saldo": 147,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -965,7 +965,7 @@
     {
       "codigo": "2A002",
       "nombre": "ACETAZOLAMIDA 250 MG 20 C",
-      "descripcion": "ACETAZOLAMIDA 250 MG VO",
+      "descripcion": "Acetazolamida 250 mg, comprimidos, vía oral.",
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -975,7 +975,7 @@
     {
       "codigo": "2A083",
       "nombre": "AMIKACINA 500 MG 2 CC 100",
-      "descripcion": "AMIKACINA 500 MG INYECTABLE",
+      "descripcion": "Amikacina 500 mg/2 mL, solución inyectable.",
       "saldo": 91,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -985,7 +985,7 @@
     {
       "codigo": "2A498",
       "nombre": "AMITRIPTILINA 25 MG 100 C",
-      "descripcion": "AMITRIPTILINA 25 MG VO",
+      "descripcion": "Amitriptilina 25 mg, comprimidos, vía oral.",
       "saldo": 470,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -995,7 +995,7 @@
     {
       "codigo": "2C021",
       "nombre": "CLORFENAMINA 4 MG 20 COMP",
-      "descripcion": "CLORFENAMINA 4MG VO",
+      "descripcion": "Clorfenamina 4 mg, comprimidos, vía oral.",
       "saldo": 960,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1015,7 +1015,7 @@
     {
       "codigo": "2D001",
       "nombre": "DIAZEPAM 10 MG 20 COMP BE",
-      "descripcion": "DIAZEPAM 10 MG VO",
+      "descripcion": "Diazepam 10 mg, comprimidos, vía oral.",
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1025,7 +1025,7 @@
     {
       "codigo": "2D015",
       "nombre": "DIGOXINA 0.25 MG 30 COMP",
-      "descripcion": "DIGOXINA 0,25 MG VO",
+      "descripcion": "Digoxina 0,25 mg, comprimidos, vía oral.",
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1045,7 +1045,7 @@
     {
       "codigo": "2D010",
       "nombre": "DIPIRONA 1 GR 2 ML 5 AMP",
-      "descripcion": "METAMIZOL 1G/2ML INY",
+      "descripcion": "Metamizol/dipirona 1 g/2 mL, solución inyectable.",
       "saldo": 20,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1065,7 +1065,7 @@
     {
       "codigo": "2E005",
       "nombre": "ESPIRONOLACTONA 25 MG 20",
-      "descripcion": "ESPIRONOLACTONA 25 MG VO",
+      "descripcion": "Espironolactona 25 mg, comprimidos, vía oral.",
       "saldo": 880,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1075,7 +1075,7 @@
     {
       "codigo": "2F001",
       "nombre": "FENITOINA SOD 100 MG 30 C",
-      "descripcion": "FENITOINA 100 MG VO",
+      "descripcion": "Fenitoína sódica 100 mg, cápsulas/comprimidos, vía oral.",
       "saldo": 1830,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1085,7 +1085,7 @@
     {
       "codigo": "2F245",
       "nombre": "FENOTEROL/IPRATROPIO FCO",
-      "descripcion": "FENOTEROL/IPRATROPIO SOL NEBULIZACION",
+      "descripcion": "Fenoterol + bromuro de ipratropio, solución para inhalación.",
       "saldo": 26,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1095,7 +1095,7 @@
     {
       "codigo": "2F007",
       "nombre": "FUROSEMIDA 40 MG 12 COMP",
-      "descripcion": "FUROSEMIDA 40 MG VO",
+      "descripcion": "Furosemida 40 mg, comprimidos, vía oral.",
       "saldo": 2040,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1105,7 +1105,7 @@
     {
       "codigo": "2H001",
       "nombre": "HIDROCLOROTIAZIDA 50 MG 2",
-      "descripcion": "HIDROCLOROTIAZIDA 50 MG   VO",
+      "descripcion": "Hidroclorotiazida 50 mg, comprimidos, vía oral.",
       "saldo": 960,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1115,7 +1115,7 @@
     {
       "codigo": "2L148",
       "nombre": "LACTULOSA 200 ML (GEN)",
-      "descripcion": "LACTULOSA 65% VO",
+      "descripcion": "Lactulosa, solución oral.",
       "saldo": 472,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1125,7 +1125,7 @@
     {
       "codigo": "2L006",
       "nombre": "LOPERAMIDA 2 MG 6 COMP",
-      "descripcion": "LOPERAMIDA 2MG VO",
+      "descripcion": "Loperamida 2 mg, cápsulas/comprimidos, vía oral.",
       "saldo": 54,
       "nuevo": true,
       "tipo": "MEDICAMENTO",
@@ -1135,7 +1135,7 @@
     {
       "codigo": "2M004",
       "nombre": "METOCLOPRAMIDA 10 MG 24 C",
-      "descripcion": "METOCLOPRAMIDA 10 MG VO",
+      "descripcion": "Metoclopramida 10 mg, comprimidos, vía oral.",
       "saldo": 696,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1145,7 +1145,7 @@
     {
       "codigo": "2M005",
       "nombre": "METRONIDAZOL 500 MG 10 OV",
-      "descripcion": "METRONIDAZOL 500 mg Ovulos Vaginales",
+      "descripcion": "Metronidazol 500 mg, óvulos vaginales.",
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1165,7 +1165,7 @@
     {
       "codigo": "2P023",
       "nombre": "PREDNISONA 5 MG 20 COMP B",
-      "descripcion": "PREDNISONA 5 MG VO",
+      "descripcion": "Prednisona 5 mg, comprimidos, vía oral.",
       "saldo": 300,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1175,7 +1175,7 @@
     {
       "codigo": "2P008",
       "nombre": "PRIMIDONA 250 MG 50 COMP",
-      "descripcion": "PRIMIDONA 250 MG",
+      "descripcion": "Primidona 250 mg, comprimidos, vía oral.",
       "saldo": 100,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1185,7 +1185,7 @@
     {
       "codigo": "2P015",
       "nombre": "PROPANOLOL 40 MG 20 COMP",
-      "descripcion": "PROPANOLOL 40 MG VO",
+      "descripcion": "Propranolol 40 mg, comprimidos, vía oral.",
       "saldo": 40,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1205,7 +1205,7 @@
     {
       "codigo": "3G235",
       "nombre": "GLUCERNA TRIPLECARE 850 G",
-      "descripcion": "ALIMENTO",
+      "descripcion": "Fórmula nutricional especializada para personas con diabetes, polvo para preparación oral/enteral.",
       "saldo": 18,
       "nuevo": false,
       "tipo": "ALIMENTOS",
@@ -1225,7 +1225,7 @@
     {
       "codigo": "4V016",
       "nombre": "VANCOMICINA 500 MG 10 ML",
-      "descripcion": "VANCOMICINA 500 MG EV",
+      "descripcion": "Vancomicina 500 mg, polvo para solución inyectable/infusión.",
       "saldo": 50,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1245,7 +1245,7 @@
     {
       "codigo": "5E270",
       "nombre": "ELCAL D 500/800 60 COMP",
-      "descripcion": "CALCIO 500 MG; VITAMINA D 800 UI",
+      "descripcion": "Calcio 500 mg + vitamina D3 800 UI, comprimidos, vía oral.",
       "saldo": 11,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1255,7 +1255,7 @@
     {
       "codigo": "5E116",
       "nombre": "ELCAL D F 60 COMP",
-      "descripcion": "CALCIO 450 MG; VITAMINA D 175 UI",
+      "descripcion": "Calcio + vitamina D + ácido fólico, comprimidos, vía oral.",
       "saldo": 5,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1405,7 +1405,7 @@
     {
       "codigo": "6T316",
       "nombre": "TOPICTAL 100 MG 28 COMP",
-      "descripcion": "TOPIRAMATO",
+      "descripcion": "Topiramato 100 mg, comprimidos, vía oral.",
       "saldo": 280,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1445,7 +1445,7 @@
     {
       "codigo": "8A450",
       "nombre": "ASPIRINA 100 MG 42 COMP",
-      "descripcion": "ACIDO ACETILSALICILICO 100 mg  VO",
+      "descripcion": "ACIDO ACETILSALICILICO 100 mg VO",
       "saldo": 7070,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1457,7 +1457,7 @@
     {
       "codigo": "12A460",
       "nombre": "ALDROX 70 MG 10 COMP",
-      "descripcion": "ALENDRONATO 70 mg  VO",
+      "descripcion": "ALENDRONATO 70 mg VO",
       "saldo": 100,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1477,7 +1477,7 @@
     {
       "codigo": "12V170",
       "nombre": "VITDE 800 UI 30 COMP",
-      "descripcion": "VITAMINA D 800 UI VO",
+      "descripcion": "Vitamina D 800 UI, comprimidos, vía oral.",
       "saldo": 1290,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1487,7 +1487,7 @@
     {
       "codigo": "12V171",
       "nombre": "VITDE GOTAS 10 ML",
-      "descripcion": "VITAMINA D 800 UI VO",
+      "descripcion": "Vitamina D, solución oral en gotas.",
       "saldo": 73,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1677,7 +1677,7 @@
     {
       "codigo": "25I220",
       "nombre": "I LAN SOLOSTAR 100 UI/ML",
-      "descripcion": "INSULINA GLARGINA  100UI/ML",
+      "descripcion": "INSULINA GLARGINA 100UI/ML",
       "saldo": 97,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1747,7 +1747,7 @@
     {
       "codigo": "33B131",
       "nombre": "BLISTEX CREMA LABIAL",
-      "descripcion": "FENOL/ALCANFOR",
+      "descripcion": "Fenol 0,45% + alcanfor 1%, crema labial medicada, uso tópico.",
       "saldo": 9,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1757,7 +1757,7 @@
     {
       "codigo": "33C517",
       "nombre": "CASEN ENEMA AD FCO 133 ML",
-      "descripcion": "ENEMA FOSFATO DE SODIO",
+      "descripcion": "Enema rectal evacuante para preparación intestinal.",
       "saldo": 86,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1767,7 +1767,7 @@
     {
       "codigo": "33F143",
       "nombre": "FOLIFER 30 CAP",
-      "descripcion": "HIERRO FUMARATO ELEMENTAL 109 MG; VITAMINA C; ACIDO FOLICO; CIANOCOBALAMINA",
+      "descripcion": "Hierro + ácido fólico, cápsulas, suplemento hematínico.",
       "saldo": 270,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1777,7 +1777,7 @@
     {
       "codigo": "33F001",
       "nombre": "FOSFOSODA 45 ML",
-      "descripcion": "FOSFATO DE SODIO VO",
+      "descripcion": "Fosfato de sodio, solución oral laxante para preparación intestinal.",
       "saldo": 63,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1787,7 +1787,7 @@
     {
       "codigo": "33I230",
       "nombre": "ISQUELIUM 4 MG 30 COMP BE",
-      "descripcion": "ACENOCUMAROL 4mg  VO",
+      "descripcion": "ACENOCUMAROL 4mg VO",
       "saldo": 510,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1807,7 +1807,7 @@
     {
       "codigo": "39B002",
       "nombre": "BISOCOR 5 MG 30 COMP",
-      "descripcion": "BISOPROLOL  5 MG VO",
+      "descripcion": "BISOPROLOL 5 MG VO",
       "saldo": 330,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1817,7 +1817,7 @@
     {
       "codigo": "39E025",
       "nombre": "EUTIROX 100 MCG 100 COMP",
-      "descripcion": "LEVOTIROXINA 100  MG VO",
+      "descripcion": "LEVOTIROXINA 100 MG VO",
       "saldo": 1725,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1857,7 +1857,7 @@
     {
       "codigo": "47C371",
       "nombre": "CLOFEXAN 30 COMP",
-      "descripcion": "BETAMETASONA  ; CLORFENAMINA VO",
+      "descripcion": "BETAMETASONA ; CLORFENAMINA VO",
       "saldo": 780,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -1927,7 +1927,7 @@
     {
       "codigo": "47P324",
       "nombre": "PRESTAT 150 MG 40 COMP",
-      "descripcion": "PREGABALINA 150 150 MG   VO",
+      "descripcion": "PREGABALINA 150 150 MG  VO",
       "saldo": 1670,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2027,7 +2027,7 @@
     {
       "codigo": "57A217",
       "nombre": "AB-ANTITUSIVO 12 COMP/MAS",
-      "descripcion": "CLORHEXIDINA",
+      "descripcion": "Clorhexidina clorhidrato 5 mg + noscapina 10 mg, comprimidos masticables, vía oral.",
       "saldo": 240,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2077,7 +2077,7 @@
     {
       "codigo": "57C292",
       "nombre": "CLAVINEX DUO 20 COMP DISP",
-      "descripcion": "AMOXICILINA+AC. CLAVULANICO 850/125 mg  VO",
+      "descripcion": "AMOXICILINA+AC. CLAVULANICO 850/125 mg VO",
       "saldo": 340,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2117,7 +2117,7 @@
     {
       "codigo": "57M041",
       "nombre": "MUXOL JBE AD 100 CC",
-      "descripcion": "AMBROXOL jarabe adulto  VO",
+      "descripcion": "AMBROXOL jarabe adulto VO",
       "saldo": 17,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2247,7 +2247,7 @@
     {
       "codigo": "63D160",
       "nombre": "DUODERM GEL 15 GRS",
-      "descripcion": "HIDROGEL 15 GR",
+      "descripcion": "Hidrogel estéril de carboximetilcelulosa sódica, gelatina y pectina, uso tópico para manejo de heridas.",
       "saldo": 15,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2267,7 +2267,7 @@
     {
       "codigo": "63S316",
       "nombre": "SAF-GEL 85 GRS TUBO",
-      "descripcion": "ALGINATO CREMA",
+      "descripcion": "Hidrogel para curación de heridas, uso tópico.",
       "saldo": 31,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2277,7 +2277,7 @@
     {
       "codigo": "64C002",
       "nombre": "CAVILON CR PROTEC 92 GRS",
-      "descripcion": "SILICONA PROTECTOR PIEL",
+      "descripcion": "Crema/barrera protectora cutánea para prevención de daño por humedad.",
       "saldo": 4,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2287,7 +2287,7 @@
     {
       "codigo": "64S018",
       "nombre": "STERI STRIP 1541 50 UND",
-      "descripcion": "SUTURA",
+      "descripcion": "Tiras adhesivas estériles para aproximación y cierre de heridas cutáneas.",
       "saldo": 20,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -2297,7 +2297,7 @@
     {
       "codigo": "64T084",
       "nombre": "TEGADERM 1624 100 UND",
-      "descripcion": "APOSITO TRANSPARENTE 6 X7 CMS",
+      "descripcion": "Apósito transparente adhesivo estéril para protección y fijación.",
       "saldo": 227,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -2357,7 +2357,7 @@
     {
       "codigo": "78A054",
       "nombre": "ADRENALINA (EPINEF) 1 CC",
-      "descripcion": "EPINEFRINA 1MG/ML",
+      "descripcion": "Adrenalina (epinefrina) 1 mg/mL, solución inyectable.",
       "saldo": 1,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2367,7 +2367,7 @@
     {
       "codigo": "78A377",
       "nombre": "AGUA BIDE 10 CC 100 AMP P",
-      "descripcion": "AGUA DESTILADA AMPOLLAS 5,10 o 20 cc",
+      "descripcion": "Agua para inyección, ampollas de 10 mL, diluyente parenteral.",
       "saldo": 2799,
       "nuevo": false,
       "tipo": "INYECTABLES",
@@ -2387,7 +2387,7 @@
     {
       "codigo": "78C047",
       "nombre": "CLORURO K 10% 10 CC 100 A",
-      "descripcion": "POTASIO 10% INYECTABLE",
+      "descripcion": "Cloruro de potasio 10%, solución concentrada para uso parenteral.",
       "saldo": 131,
       "nuevo": false,
       "tipo": "inyectables",
@@ -2397,7 +2397,7 @@
     {
       "codigo": "78C427",
       "nombre": "CLORURO NA 0,9% 100 CC BF",
-      "descripcion": "SUERO FISIOLÓGICO 100 CC MATRAZ",
+      "descripcion": "Cloruro de sodio 0,9%, solución inyectable para uso intravenoso.",
       "saldo": 385,
       "nuevo": false,
       "tipo": "INYECTABLES",
@@ -2447,7 +2447,7 @@
     {
       "codigo": "78F006",
       "nombre": "FUROSEMIDA 20 MG 1 CC 100",
-      "descripcion": "FUROSEMIDA 20 MG INYECTABLE",
+      "descripcion": "Furosemida 20 mg/1 mL, solución inyectable.",
       "saldo": 192,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2457,7 +2457,7 @@
     {
       "codigo": "78G004",
       "nombre": "GLUCOSA 10% 500 CC BFS 20",
-      "descripcion": "GLUCOSA 10% INYECTABLE",
+      "descripcion": "Glucosa 10%, solución inyectable para uso intravenoso.",
       "saldo": 50,
       "nuevo": false,
       "tipo": "INYECTABLES",
@@ -2467,7 +2467,7 @@
     {
       "codigo": "78G008",
       "nombre": "GLUCOSA 5% 500 CC BFS 20",
-      "descripcion": "GLUCOSA 5% 500 CC MATRAZ  INYECTABLE",
+      "descripcion": "Glucosa 5%, solución inyectable para uso intravenoso.",
       "saldo": 18,
       "nuevo": false,
       "tipo": "INYECTABLES",
@@ -2507,7 +2507,7 @@
     {
       "codigo": "78L214",
       "nombre": "LORAZEPAM 4 MG 2 CC 100 A",
-      "descripcion": "LORAZEPAM 4MG/2ML INYECTABLE",
+      "descripcion": "Lorazepam 4 mg/2 mL, solución inyectable.",
       "saldo": 76,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2517,7 +2517,7 @@
     {
       "codigo": "78O003",
       "nombre": "ONDANSETRON 8 MG 4 ML AMP",
-      "descripcion": "ONMDANSETRON 8 MG INYECTABLE",
+      "descripcion": "Ondansetrón 8 mg/4 mL, solución inyectable.",
       "saldo": 110,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2527,7 +2527,7 @@
     {
       "codigo": "78S006",
       "nombre": "SOL GLUCOSALINO ISOT 500",
-      "descripcion": "SUERO GLUCOSALINO ISOTONICO INYECTABLE",
+      "descripcion": "Solución glucosalina isotónica para uso intravenoso.",
       "saldo": 108,
       "nuevo": false,
       "tipo": "INYECTABLES",
@@ -2537,7 +2537,7 @@
     {
       "codigo": "78S010",
       "nombre": "SUERO RINGER LACT 500 CC",
-      "descripcion": "SUERO RINGER LACTATO 500 CC",
+      "descripcion": "Solución de Ringer lactato, cristaloide balanceado para uso intravenoso.",
       "saldo": 96,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2547,7 +2547,7 @@
     {
       "codigo": "78T050",
       "nombre": "TIAMINA 30 MG 1 CC 100 AM",
-      "descripcion": "TIAMINA 30 MG INYECTABLE",
+      "descripcion": "Tiamina 30 mg/mL, solución inyectable.",
       "saldo": 30,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2577,7 +2577,7 @@
     {
       "codigo": "89B100",
       "nombre": "BUPREDOL LP 150 MG 30 COM",
-      "descripcion": "ANFEBUTAMONA 150 MG  (BUPROPION)",
+      "descripcion": "ANFEBUTAMONA 150 MG (BUPROPION)",
       "saldo": 120,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2587,7 +2587,7 @@
     {
       "codigo": "89E266",
       "nombre": "ENTEROL S 250 MG 10 CAPS",
-      "descripcion": "SACHAROMICES BOULARDII 250 MG   VO",
+      "descripcion": "SACHAROMICES BOULARDII 250 MG  VO",
       "saldo": 10,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2677,7 +2677,7 @@
     {
       "codigo": "91C202",
       "nombre": "CANULA MAYO # 2",
-      "descripcion": "CANULA MAYO # 2",
+      "descripcion": "Cánula orofaríngea tipo Mayo, tamaño N.º 2.",
       "saldo": 52,
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
@@ -2687,7 +2687,7 @@
     {
       "codigo": "91C141",
       "nombre": "CANULA MAYO # 4",
-      "descripcion": "CANULA MAYO #4",
+      "descripcion": "Cánula orofaríngea tipo Mayo, tamaño N.º 4.",
       "saldo": 50,
       "nuevo": true,
       "tipo": "",
@@ -2697,7 +2697,7 @@
     {
       "codigo": "91C253",
       "nombre": "CANULA MAYO # 5",
-      "descripcion": "CANULA MAYO #5",
+      "descripcion": "Cánula orofaríngea tipo Mayo, tamaño N.º 5.",
       "saldo": 50,
       "nuevo": true,
       "tipo": "",
@@ -2707,7 +2707,7 @@
     {
       "codigo": "91S173",
       "nombre": "SONDA ASPIRAC # 12",
-      "descripcion": "SONDA DE ASPIRACIÓN O SUCCIÓN #12",
+      "descripcion": "Sonda para aspiración de secreciones, calibre 12 Fr.",
       "saldo": 1065,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -2717,7 +2717,7 @@
     {
       "codigo": "91S031",
       "nombre": "SONDA FOLEY 2V # 14",
-      "descripcion": "SONDA FOLEY #14 2 VÍAS",
+      "descripcion": "Sonda Foley de 2 vías, calibre 14 Fr, para cateterismo urinario.",
       "saldo": 3,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -2727,7 +2727,7 @@
     {
       "codigo": "91S032",
       "nombre": "SONDA FOLEY 2V # 16",
-      "descripcion": "SONDA FOLEY # 16 2 V",
+      "descripcion": "Sonda Foley de 2 vías, calibre 16 Fr, para cateterismo urinario.",
       "saldo": 3,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -2737,7 +2737,7 @@
     {
       "codigo": "91S226",
       "nombre": "SONDA LO-FRIC NEL N§ 12 A",
-      "descripcion": "SONDA NELATON O LO-FRIC # 12",
+      "descripcion": "Sonda Nelaton/Lo-Fric para cateterismo urinario intermitente, calibre 12 Fr.",
       "saldo": 4328,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -2747,7 +2747,7 @@
     {
       "codigo": "91S164",
       "nombre": "SONDA LO-FRIC NEL N§ 14 A",
-      "descripcion": "SONDA NELATON O LO-FRIC # 14",
+      "descripcion": "Sonda Nelaton/Lo-Fric para cateterismo urinario intermitente, calibre 14 Fr.",
       "saldo": 278,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -2757,7 +2757,7 @@
     {
       "codigo": "91S083",
       "nombre": "SONDA NELATON # 12(CJA X",
-      "descripcion": "SONDA NELATON # 12",
+      "descripcion": "Sonda Nelaton para cateterismo urinario intermitente, calibre 12 Fr.",
       "saldo": 192,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -2807,7 +2807,7 @@
     {
       "codigo": "91T086",
       "nombre": "TUBO ENDOT # 7 C/CAF PORT",
-      "descripcion": "TUBO ENDOTRAQUEAL # 7",
+      "descripcion": "Tubo endotraqueal con cuff, calibre interno 7,0 mm.",
       "saldo": 18,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -2817,7 +2817,7 @@
     {
       "codigo": "92T325",
       "nombre": "TKC SHAMPOO 200 ML",
-      "descripcion": "KETOCONAZOL 2%",
+      "descripcion": "Ketoconazol 2%, champú medicado, uso tópico.",
       "saldo": 52,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2827,7 +2827,7 @@
     {
       "codigo": "100A201",
       "nombre": "AC TRANEXAMICO 1 GR/10 ML",
-      "descripcion": "ACIDO TRANEXAMICO 1GR/10ML INYECTABLE",
+      "descripcion": "Ácido tranexámico 1 g/10 mL, solución inyectable, vía intravenosa.",
       "saldo": 29,
       "nuevo": false,
       "tipo": "inyectables",
@@ -2837,7 +2837,7 @@
     {
       "codigo": "100A501",
       "nombre": "AEROCAMARA TQT PLUS TRUDE",
-      "descripcion": "AEROCAMARA TQT",
+      "descripcion": "Cámara/espaciador para administración de medicamentos inhalados.",
       "saldo": 6,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -2857,7 +2857,7 @@
     {
       "codigo": "100A274",
       "nombre": "ALCOHOL 70 250 CC(CJA X 3",
-      "descripcion": "ALCOHOL 70% 250 CC",
+      "descripcion": "Alcohol etílico 70%, solución antiséptica/desinfectante.",
       "saldo": 228,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -2877,7 +2877,7 @@
     {
       "codigo": "100A194",
       "nombre": "AMIODARONA 150 MG 3 CC 10",
-      "descripcion": "AMIODARONA 150 MG INYECTABLE",
+      "descripcion": "Amiodarona 150 mg/3 mL, solución inyectable.",
       "saldo": 44,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -2947,7 +2947,7 @@
     {
       "codigo": "100B222",
       "nombre": "BICARBONATO NA 8,4% 10 CC",
-      "descripcion": "BICARBONATO  8,4% AMPOLLAS",
+      "descripcion": "Bicarbonato de sodio 8,4%, solución inyectable.",
       "saldo": 4,
       "nuevo": false,
       "tipo": "INYECTABLES",
@@ -2957,7 +2957,7 @@
     {
       "codigo": "100B136",
       "nombre": "BIGOTERA P/OXIGENO ADULTO",
-      "descripcion": "BIGOTERA O CÁNULA NASAL",
+      "descripcion": "Cánula nasal para administración de oxígeno en adulto.",
       "saldo": 238,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -2967,7 +2967,7 @@
     {
       "codigo": "100B068",
       "nombre": "BISTURI DESECH CON MANGO",
-      "descripcion": "BISTURI DESECH CON MANGO",
+      "descripcion": "BISTURI DESECH CON MANGO, presentación UNIDAD.",
       "saldo": 6,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3067,7 +3067,7 @@
     {
       "codigo": "100D266",
       "nombre": "DELANTAL DES C/MANGA X 1",
-      "descripcion": "PECHERA O DELANTAL DESECHABLE C/ MANGAS",
+      "descripcion": "Delantal desechable con mangas para protección personal.",
       "saldo": 11190,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3077,7 +3077,7 @@
     {
       "codigo": "100E244",
       "nombre": "ENDOCANULA # 8 SHILEY TM",
-      "descripcion": "ENDOCANULA SHILEY  TQT # 8",
+      "descripcion": "ENDOCANULA SHILEY TQT # 8",
       "saldo": 106,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3087,7 +3087,7 @@
     {
       "codigo": "100E230",
       "nombre": "ENDOCANULA # 8.5 PORTEX",
-      "descripcion": "ENDOCANULA # 8.5 PORTEX",
+      "descripcion": "ENDOCANULA # 8.5 PORTEX, presentación UNIDAD.",
       "saldo": 18,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3097,7 +3097,7 @@
     {
       "codigo": "100E220",
       "nombre": "ENDOCANULA TQT # 8 (MEDIS",
-      "descripcion": "ENDOCANULA MEDISAN  TQT #8",
+      "descripcion": "ENDOCANULA MEDISAN TQT #8",
       "saldo": 11,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3157,7 +3157,7 @@
     {
       "codigo": "100F223",
       "nombre": "FIBRACOL PLUS 10.2 X 11.1",
-      "descripcion": "APOSITO DE COLAGENO 10 X 11 CMS",
+      "descripcion": "Apósito de colágeno y alginato para manejo avanzado de heridas.",
       "saldo": 14,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3187,7 +3187,7 @@
     {
       "codigo": "100F227",
       "nombre": "FORFLOW ENEMA AD 133 ML",
-      "descripcion": "ENEMA FOSFATO DE SODIO",
+      "descripcion": "Enema rectal evacuante para preparación intestinal.",
       "saldo": 77,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3227,7 +3227,7 @@
     {
       "codigo": "100G075",
       "nombre": "GLUCONATO CALCIO 10% 10 C",
-      "descripcion": "CALCIO GLUCONATO 10% AMPOLLAS",
+      "descripcion": "Gluconato de calcio 10%, solución inyectable.",
       "saldo": 6,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3237,7 +3237,7 @@
     {
       "codigo": "100G079",
       "nombre": "GLUCOSA 30% 20 CC",
-      "descripcion": "GLUCOSA 30% INYECTABLE",
+      "descripcion": "Glucosa 30%, solución hipertónica para uso parenteral.",
       "saldo": 13,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3247,7 +3247,7 @@
     {
       "codigo": "100G086",
       "nombre": "GLUCOSA 30% 500 CC 20 MAT",
-      "descripcion": "GLUCOSA 30 % 500 CC MATRAZ  INYECTABLE",
+      "descripcion": "Glucosa 30%, solución hipertónica para uso parenteral.",
       "saldo": 14,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3257,7 +3257,7 @@
     {
       "codigo": "100G010",
       "nombre": "GUANTES NITRILO DESECH \"M",
-      "descripcion": "GUANTES DE PROCEDIMIENTO NITRILO TALLA M",
+      "descripcion": "Guantes desechables de nitrilo, talla M.",
       "saldo": 29300,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3267,7 +3267,7 @@
     {
       "codigo": "100G050",
       "nombre": "GUANTES QUIRURG # 7.1/2",
-      "descripcion": "GUANTE ESTERIL QUIRURGICO  # 7,5",
+      "descripcion": "Guantes quirúrgicos estériles, talla 7½.",
       "saldo": 2112,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3277,7 +3277,7 @@
     {
       "codigo": "100G077",
       "nombre": "GUANTES VINILO DESECH \"M\"",
-      "descripcion": "GUANTES DE VINILO TALLA M",
+      "descripcion": "Guantes desechables de vinilo, talla M.",
       "saldo": 19000,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3297,7 +3297,7 @@
     {
       "codigo": "100H015",
       "nombre": "HYDROCLEAN 350 ML",
-      "descripcion": "SOLUCIÓN PARA LIMPIEZA DE HERIDAS",
+      "descripcion": "Solución para irrigación y limpieza de heridas.",
       "saldo": 40,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3317,7 +3317,7 @@
     {
       "codigo": "100J034",
       "nombre": "JERINGA 5 CC",
-      "descripcion": "JERINGA 5 CC LUER LOCK",
+      "descripcion": "Jeringa estéril de 5 mL para administración/aspiración.",
       "saldo": 1000,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3357,7 +3357,7 @@
     {
       "codigo": "100M060",
       "nombre": "MACROGOTEOS C/TOMA AIRE",
-      "descripcion": "MACROGOTEO  O BAJADA PARA INFUSIÓN",
+      "descripcion": "MACROGOTEO O BAJADA PARA INFUSIÓN",
       "saldo": 666,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3367,7 +3367,7 @@
     {
       "codigo": "100M110",
       "nombre": "MASCARILLA KN 95 (CAJA X",
-      "descripcion": "MASCARILLA KN95",
+      "descripcion": "Mascarilla respiratoria KN95 para protección frente a partículas.",
       "saldo": 442,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3428,7 +3428,7 @@
     {
       "codigo": "100M189",
       "nombre": "METRONIDAZOL 500 MG 100 M",
-      "descripcion": "METRONIDAZOL 500 MG/100 ML INY",
+      "descripcion": "Metronidazol 500 mg, comprimidos, vía oral.",
       "saldo": 73,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3438,7 +3438,7 @@
     {
       "codigo": "100N051",
       "nombre": "NOVAMED OIL 20 ML",
-      "descripcion": "ACEITE PROTECTOR",
+      "descripcion": "Aceite protector cutáneo para prevención y manejo de lesiones de la piel.",
       "saldo": 11,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3458,7 +3458,7 @@
     {
       "codigo": "100P212",
       "nombre": "PANAL AD GENERICO 10 UNID",
-      "descripcion": "PAÑAL ADULTO",
+      "descripcion": "Pañal absorbente para adulto, insumo sanitario para incontinencia.",
       "saldo": 2562,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3598,7 +3598,7 @@
     {
       "codigo": "100T086",
       "nombre": "TUBO ENDOT #7 C/CAF PORTE",
-      "descripcion": "TUBO ENDOTRAQUEAL #7 CAF",
+      "descripcion": "Tubo endotraqueal con cuff, calibre interno 7,0 mm.",
       "saldo": 1,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3658,7 +3658,7 @@
     {
       "codigo": "100V166",
       "nombre": "VASELINA LIQ MEDIC 1 LT (",
-      "descripcion": "VASELINA",
+      "descripcion": "Vaselina líquida de uso medicinal, emoliente/protectora, uso tópico.",
       "saldo": 69,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3718,7 +3718,7 @@
     {
       "codigo": "105F203",
       "nombre": "FIBRASOL 200 GRS",
-      "descripcion": "FIBRA",
+      "descripcion": "Fibra soluble, suplemento/regulador intestinal, administración oral.",
       "saldo": 2,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3728,7 +3728,7 @@
     {
       "codigo": "105M098",
       "nombre": "MULCATEL JBE 200 ML (48)",
-      "descripcion": "SUCRALFATO",
+      "descripcion": "Sucralfato 10% suspensión oral, vía oral.",
       "saldo": 13,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3778,7 +3778,7 @@
     {
       "codigo": "131C024",
       "nombre": "CLORURO NA 0,9 % 250 CC 2",
-      "descripcion": "SUERO FISIOLÓGICO 250 ML",
+      "descripcion": "Cloruro de sodio 0,9%, solución inyectable para uso intravenoso.",
       "saldo": 127,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3788,7 +3788,7 @@
     {
       "codigo": "131C023",
       "nombre": "CLORURO NA 0.9 % 500 CC 2",
-      "descripcion": "SUERO FISIOLÓGICO 500 ML",
+      "descripcion": "Cloruro de sodio 0,9%, solución inyectable para uso intravenoso.",
       "saldo": 18,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3798,7 +3798,7 @@
     {
       "codigo": "135A072",
       "nombre": "AGUJA NOVOFINE 32 G 4 MM",
-      "descripcion": "AGUJA 32 G",
+      "descripcion": "Aguja 32 G × 4 mm para pluma de insulina.",
       "saldo": 970,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3818,7 +3818,7 @@
     {
       "codigo": "135I042",
       "nombre": "I INSULATARD HM 100 UI/ML",
-      "descripcion": "INSULINA NPH  100UI/ML",
+      "descripcion": "INSULINA NPH 100UI/ML",
       "saldo": 56,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3878,7 +3878,7 @@
     {
       "codigo": "143U001",
       "nombre": "UROPLUS SOBRE",
-      "descripcion": "FOSFOMICINA 3G",
+      "descripcion": "Fosfomicina trometamol 3 g, granulado para solución oral, vía oral.",
       "saldo": 75,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -3918,7 +3918,7 @@
     {
       "codigo": "145J006",
       "nombre": "JERINGA 10 CC LUERLOCK AG",
-      "descripcion": "JERINGA 10 CC LUERLOCK",
+      "descripcion": "Jeringa estéril de 10 mL con conexión Luer Lock, con aguja.",
       "saldo": 4283,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3928,7 +3928,7 @@
     {
       "codigo": "145J007",
       "nombre": "JERINGA 20 CC SIN AGUJA",
-      "descripcion": "JERINGA 20 CC LUER LOCK",
+      "descripcion": "Jeringa estéril de 20 mL, conexión Luer, sin aguja.",
       "saldo": 135,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3938,7 +3938,7 @@
     {
       "codigo": "145J002",
       "nombre": "JERINGA 3 CC AGUJA 21G X",
-      "descripcion": "JERINGA 3 CC LUER LOCK",
+      "descripcion": "Jeringa estéril de 3 mL con aguja 21 G.",
       "saldo": 171,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3948,7 +3948,7 @@
     {
       "codigo": "145J009",
       "nombre": "JERINGA 60 CC P/SONDA",
-      "descripcion": "JERINGA 60 CC PUNTA CATETER",
+      "descripcion": "Jeringa de 60 mL para alimentación/administración por sonda.",
       "saldo": 292,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3958,7 +3958,7 @@
     {
       "codigo": "145J013",
       "nombre": "JERINGA INS 100 UI AG 30G",
-      "descripcion": "JERINGA INSULINA 100 UI",
+      "descripcion": "Jeringa para insulina de 100 UI con aguja 30 G.",
       "saldo": 4703,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3968,7 +3968,7 @@
     {
       "codigo": "145J004",
       "nombre": "JERINGA TUBERCULINA 26 G",
-      "descripcion": "JERINGA TUBERCULINA",
+      "descripcion": "Jeringa de tuberculina de 1 mL con aguja 26 G.",
       "saldo": 34,
       "nuevo": false,
       "tipo": "INSUMOS",
@@ -3988,7 +3988,7 @@
     {
       "codigo": "146K061",
       "nombre": "KRANBERRY 60 CAPS",
-      "descripcion": "CRANBERRY VO",
+      "descripcion": "Extracto de cranberry (arándano rojo), cápsulas, suplemento para salud urinaria.",
       "saldo": 1500,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
@@ -4008,7 +4008,7 @@
     {
       "codigo": "180H001",
       "nombre": "HYFIBER 946 ML FRASCO",
-      "descripcion": "FIBRA SOLUBLE",
+      "descripcion": "Fibra soluble líquida, suplemento nutricional, administración oral/enteral.",
       "saldo": 1,
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
