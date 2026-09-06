@@ -1,5 +1,5 @@
 {
-  "generado": "06-09-2026 13:04",
+  "generado": "06-09-2026 20:11",
   "productos": [
     {
       "codigo": "1A467",
@@ -79,7 +79,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antigotoso / Inhibidor de xantina oxidasa",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1A129.jpg"
     },
     {
       "codigo": "1A117",
@@ -99,7 +100,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiarrítmico",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1A039.jpg"
     },
     {
       "codigo": "1A332",
@@ -109,7 +111,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihipertensivo / Calcioantagonista",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1A332.jpg"
     },
     {
       "codigo": "1A331",
@@ -119,7 +122,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihipertensivo / Calcioantagonista",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1A331.jpg"
     },
     {
       "codigo": "1A470",
@@ -139,7 +143,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Penicilina",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1A067.jpg"
     },
     {
       "codigo": "1A101",
@@ -149,7 +154,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antipsicótico atípico",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1A101.jpg"
     },
     {
       "codigo": "1A297",
@@ -159,7 +165,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Macrólido",
-      "presentacion": "CAJA"
+      "presentacion": "CAJA",
+      "imagen": "images/1A297.jpg"
     },
     {
       "codigo": "1B236",
@@ -169,7 +176,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiespástico / Relajante muscular",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1B236.jpg"
     },
     {
       "codigo": "1B082",
@@ -199,7 +207,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Betabloqueador / Antihipertensivo",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1B001.jpg"
     },
     {
       "codigo": "1B016",
@@ -209,7 +218,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Betabloqueador / Antihipertensivo",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1B016.jpg"
     },
     {
       "codigo": "1C271",
@@ -219,7 +229,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Corticoide",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1C271.jpg"
     },
     {
       "codigo": "1C402",
@@ -229,7 +240,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihipertensivo / IECA",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1C402.jpg"
     },
     {
       "codigo": "1C017",
@@ -239,7 +251,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiepiléptico",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1C017.jpg"
     },
     {
       "codigo": "1C529",
@@ -249,7 +262,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Betabloqueador / Antihipertensivo",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1C529.jpg"
     },
     {
       "codigo": "1C082",
@@ -259,7 +273,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Cefalosporina",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1C082.jpg"
     },
     {
       "codigo": "1C010",
@@ -269,7 +284,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "AINE / Analgésico-antinflamatorio",
-      "presentacion": "CAPSULAS"
+      "presentacion": "CAPSULAS",
+      "imagen": "images/1C010.jpg"
     },
     {
       "codigo": "1C276",
@@ -279,7 +295,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Relajante muscular",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1C276.jpg"
     },
     {
       "codigo": "1C003",
@@ -300,7 +317,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Fluoroquinolona",
-      "presentacion": "COMPR"
+      "presentacion": "COMPR",
+      "imagen": "images/1C164.jpg"
     },
     {
       "codigo": "1C409",
@@ -330,7 +348,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Benzodiazepina / Ansiolítico",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1C471.jpg"
     },
     {
       "codigo": "1C472",
@@ -340,7 +359,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Benzodiazepina / Ansiolítico",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1C472.jpg"
     },
     {
       "codigo": "1C544",
@@ -350,7 +370,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiagregante plaquetario",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1C544.jpg"
     },
     {
       "codigo": "1C166",
@@ -380,7 +401,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Penicilina",
-      "presentacion": "CAPSULA"
+      "presentacion": "CAPSULA",
+      "imagen": "images/1C054.jpg"
     },
     {
       "codigo": "1C490",
@@ -390,7 +412,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihistamínico / Antialérgico",
-      "presentacion": "FRASCO"
+      "presentacion": "FRASCO",
+      "imagen": "images/1C490.jpg"
     },
     {
       "codigo": "1C319",
@@ -410,7 +433,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Procinético / Antiemético",
-      "presentacion": "AMPOLLA"
+      "presentacion": "AMPOLLA",
+      "imagen": "images/1D105.jpg"
     },
     {
       "codigo": "1D106",
@@ -420,7 +444,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Procinético / Antiemético",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1D106.jpg"
     },
     {
       "codigo": "1D600",
@@ -430,7 +455,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRSN",
-      "presentacion": "CAPSULAS"
+      "presentacion": "CAPSULAS",
+      "imagen": "images/1D600.jpg"
     },
     {
       "codigo": "1D601",
@@ -440,7 +466,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRSN",
-      "presentacion": ""
+      "presentacion": "",
+      "imagen": "images/1D601.jpg"
     },
     {
       "codigo": "1E271",
@@ -460,7 +487,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRS",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1E249.jpg"
     },
     {
       "codigo": "1E261",
@@ -470,7 +498,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Inhibidor de bomba de protones / Antiulceroso",
-      "presentacion": "CAPSULAS"
+      "presentacion": "CAPSULAS",
+      "imagen": "images/1E261.jpg"
     },
     {
       "codigo": "1E262",
@@ -480,7 +509,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Inhibidor de bomba de protones / Antiulceroso",
-      "presentacion": "CAPSULAS"
+      "presentacion": "CAPSULAS",
+      "imagen": "images/1E262.jpg"
     },
     {
       "codigo": "1F250",
@@ -490,7 +520,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Fibra / Laxante",
-      "presentacion": "CAPSULAS"
+      "presentacion": "CAPSULAS",
+      "imagen": "images/1F250.jpg"
     },
     {
       "codigo": "1F252",
@@ -500,7 +531,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antifúngico",
-      "presentacion": "CAPSULA"
+      "presentacion": "CAPSULA",
+      "imagen": "images/1F252.jpg"
     },
     {
       "codigo": "1F041",
@@ -510,7 +542,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRS",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1F041.jpg"
     },
     {
       "codigo": "1G068",
@@ -520,7 +553,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1G068.jpg"
     },
     {
       "codigo": "1H024",
@@ -540,7 +574,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antipsicótico típico",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1H026.jpg"
     },
     {
       "codigo": "1H016",
@@ -560,7 +595,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Corticoide",
-      "presentacion": "FCO/AMP"
+      "presentacion": "FCO/AMP",
+      "imagen": "images/1H028.jpg"
     },
     {
       "codigo": "1H098",
@@ -570,7 +606,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Corticoide",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1H098.jpg"
     },
     {
       "codigo": "1H089",
@@ -600,7 +637,8 @@
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "AINE / Analgésico-antinflamatorio",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/1I005.jpg"
     },
     {
       "codigo": "1I252",
@@ -970,7 +1008,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antigalucomatosos",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/2A002.jpg"
     },
     {
       "codigo": "2A083",
@@ -980,7 +1019,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Aminoglucósido",
-      "presentacion": "AMPOLLA"
+      "presentacion": "AMPOLLA",
+      "imagen": "images/2A083.jpg"
     },
     {
       "codigo": "2A498",
@@ -990,7 +1030,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/2A498.jpg"
     },
     {
       "codigo": "2C021",
@@ -1000,7 +1041,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihistamínico / Antialérgico",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/2C021.jpg"
     },
     {
       "codigo": "2D002",
@@ -1010,7 +1052,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Benzodiazepina / Ansiolítico",
-      "presentacion": "AMPOLLA"
+      "presentacion": "AMPOLLA",
+      "imagen": "images/2D002.jpg"
     },
     {
       "codigo": "2D001",
@@ -1020,7 +1063,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Benzodiazepina / Ansiolítico",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/2D001.jpg"
     },
     {
       "codigo": "2D015",
@@ -1030,7 +1074,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Glucósido cardíaco",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/2D015.jpg"
     },
     {
       "codigo": "2D006",
@@ -1070,7 +1115,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Diurético ahorrador de potasio / Antagonista de aldosterona",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/2E005.jpg"
     },
     {
       "codigo": "2F001",
@@ -1100,7 +1146,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Diurético de asa",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/2F007.jpg"
     },
     {
       "codigo": "2H001",
@@ -1110,7 +1157,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Diurético tiazídico",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/2H001.jpg"
     },
     {
       "codigo": "2L148",
@@ -1250,7 +1298,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Suplemento de vitamina D / Calcio",
-      "presentacion": "CAJA"
+      "presentacion": "CAJA",
+      "imagen": "images/5E270.jpg"
     },
     {
       "codigo": "5E116",
@@ -1320,7 +1369,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "GRAGEA"
+      "presentacion": "GRAGEA",
+      "imagen": "images/6B063.jpg"
     },
     {
       "codigo": "6C666",
@@ -1330,7 +1380,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/6C666.jpg"
     },
     {
       "codigo": "6C398",
@@ -1380,7 +1431,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "AINE / Analgésico-antinflamatorio",
-      "presentacion": "AMPOLLA"
+      "presentacion": "AMPOLLA",
+      "imagen": "images/6L042.jpg"
     },
     {
       "codigo": "6P168",
@@ -1390,7 +1442,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "AINE / Analgésico-antinflamatorio",
-      "presentacion": "CAPSULA"
+      "presentacion": "CAPSULA",
+      "imagen": "images/6P168.jpg"
     },
     {
       "codigo": "6S298",
@@ -1440,7 +1493,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidiabético / Inhibidor SGLT2",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/7J029.jpg"
     },
     {
       "codigo": "8A450",
@@ -1462,7 +1516,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Bisfosfonato / Antirresortivo óseo",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/12A460.jpg"
     },
     {
       "codigo": "12M001",
@@ -1502,7 +1557,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiespástico / Relajante muscular",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/13C496.jpg"
     },
     {
       "codigo": "13C001",
@@ -1552,7 +1608,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antimicrobiano",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/13D002.jpg"
     },
     {
       "codigo": "13M172",
@@ -1622,7 +1679,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihistamínico / Antialérgico",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/15D311.jpg"
     },
     {
       "codigo": "15F054",
@@ -1632,7 +1690,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "COMPRIMIDOS"
+      "presentacion": "COMPRIMIDOS",
+      "imagen": "images/15F054.jpg"
     },
     {
       "codigo": "19G192",
@@ -1672,7 +1731,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "SUPOSITORI"
+      "presentacion": "SUPOSITORI",
+      "imagen": "images/21V003.jpg"
     },
     {
       "codigo": "25I220",
@@ -1702,7 +1762,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Laxante / Regulador intestinal",
-      "presentacion": "FRASCO"
+      "presentacion": "FRASCO",
+      "imagen": "images/30C372.jpg"
     },
     {
       "codigo": "31F172",
@@ -1712,7 +1773,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "AINE / Analgésico-antinflamatorio",
-      "presentacion": "TUBO"
+      "presentacion": "TUBO",
+      "imagen": "images/31F172.jpg"
     },
     {
       "codigo": "31S350",
@@ -1732,7 +1794,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Hipolipemiante / Estatina",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/33A286.jpg"
     },
     {
       "codigo": "33A287",
@@ -1742,7 +1805,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Hipolipemiante / Estatina",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/33A287.jpg"
     },
     {
       "codigo": "33B131",
@@ -1752,7 +1816,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Medicamento tópico / Dermatológico",
-      "presentacion": "POMO"
+      "presentacion": "POMO",
+      "imagen": "images/33B131.jpg"
     },
     {
       "codigo": "33C517",
@@ -1772,7 +1837,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Suplemento de hierro/folato",
-      "presentacion": "CAPSULA"
+      "presentacion": "CAPSULA",
+      "imagen": "images/33F143.jpg"
     },
     {
       "codigo": "33F001",
@@ -1782,7 +1848,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Laxante osmótico",
-      "presentacion": "FRASCO"
+      "presentacion": "FRASCO",
+      "imagen": "images/33F001.jpg"
     },
     {
       "codigo": "33I230",
@@ -1792,7 +1859,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Anticoagulantes",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/33I230.jpg"
     },
     {
       "codigo": "33U010",
@@ -1862,7 +1930,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Corticoide",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/47C371.jpg"
     },
     {
       "codigo": "47D068",
@@ -1882,7 +1951,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/47D309.jpg"
     },
     {
       "codigo": "47E201",
@@ -1892,7 +1962,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/47E201.jpg"
     },
     {
       "codigo": "47G237",
@@ -1922,7 +1993,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Benzodiazepina / Ansiolítico",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/47N153.jpg"
     },
     {
       "codigo": "47P324",
@@ -1952,7 +2024,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Relajante muscular",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/47T116.jpg"
     },
     {
       "codigo": "49A473",
@@ -1962,7 +2035,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "FRASCO"
+      "presentacion": "FRASCO",
+      "imagen": "images/49A473.jpg"
     },
     {
       "codigo": "49E254",
@@ -2012,7 +2086,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "CAJA"
+      "presentacion": "CAJA",
+      "imagen": "images/54P199.jpg"
     },
     {
       "codigo": "54S022",
@@ -2032,7 +2107,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiséptico / Desinfectante",
-      "presentacion": "COMP/MASTI"
+      "presentacion": "COMP/MASTI",
+      "imagen": "images/57A217.jpg"
     },
     {
       "codigo": "57A215",
@@ -2042,7 +2118,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Penicilina",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/57A215.jpg"
     },
     {
       "codigo": "57A212",
@@ -2052,7 +2129,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Anticolinérgico",
-      "presentacion": "FRASCO"
+      "presentacion": "FRASCO",
+      "imagen": "images/57A212.jpg"
     },
     {
       "codigo": "57C480",
@@ -2062,7 +2140,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRS",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/57C480.jpg"
     },
     {
       "codigo": "57C001",
@@ -2072,7 +2151,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRS",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/57C001.jpg"
     },
     {
       "codigo": "57C292",
@@ -2092,7 +2172,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Betabloqueador / Antihipertensivo",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/57D175.jpg"
     },
     {
       "codigo": "57F116",
@@ -2162,7 +2243,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRSN",
-      "presentacion": "CAPSULA"
+      "presentacion": "CAPSULA",
+      "imagen": "images/57R166.jpg"
     },
     {
       "codigo": "57T001",
@@ -2182,7 +2264,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Complejo vitamínico / Neurotrófico",
-      "presentacion": "AMPOLLA"
+      "presentacion": "AMPOLLA",
+      "imagen": "images/57T062.jpg"
     },
     {
       "codigo": "57T064",
@@ -2192,7 +2275,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Complejo vitamínico / Neurotrófico",
-      "presentacion": "CAPSULA"
+      "presentacion": "CAPSULA",
+      "imagen": "images/57T064.jpg"
     },
     {
       "codigo": "57T024",
@@ -2272,7 +2356,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Insumo para curación / Manejo de heridas",
-      "presentacion": "TUBO"
+      "presentacion": "TUBO",
+      "imagen": "images/63S316.jpg"
     },
     {
       "codigo": "64C002",
@@ -2312,7 +2397,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Anticoagulante / Heparina de bajo peso molecular",
-      "presentacion": "JERINGA"
+      "presentacion": "JERINGA",
+      "imagen": "images/69C178.jpg"
     },
     {
       "codigo": "69C198",
@@ -2322,7 +2408,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Anticoagulante / Heparina de bajo peso molecular",
-      "presentacion": "JERINGA"
+      "presentacion": "JERINGA",
+      "imagen": "images/69C198.jpg"
     },
     {
       "codigo": "70I012",
@@ -2342,7 +2429,8 @@
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Cefalosporina",
-      "presentacion": "FCO/AMP"
+      "presentacion": "FCO/AMP",
+      "imagen": "images/74C152.jpg"
     },
     {
       "codigo": "77M001",
@@ -2462,7 +2550,8 @@
       "nuevo": false,
       "tipo": "INYECTABLES",
       "categoria": "Solución parenteral / Aporte de glucosa",
-      "presentacion": "MATRAZ"
+      "presentacion": "MATRAZ",
+      "imagen": "images/78G004.jpg"
     },
     {
       "codigo": "78G008",
@@ -2482,7 +2571,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Carbapenémico",
-      "presentacion": "FRASCO AMP"
+      "presentacion": "FRASCO AMP",
+      "imagen": "images/78I253.jpg"
     },
     {
       "codigo": "78L079",
@@ -2582,7 +2672,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/89B100.jpg"
     },
     {
       "codigo": "89E266",
@@ -2602,7 +2693,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Suplemento de hierro/folato",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/89F127.jpg"
     },
     {
       "codigo": "89M143",
@@ -2632,7 +2724,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "CAPSULA"
+      "presentacion": "CAPSULA",
+      "imagen": "images/89R101.jpg"
     },
     {
       "codigo": "89R102",
@@ -2642,7 +2735,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "CAPSULA"
+      "presentacion": "CAPSULA",
+      "imagen": "images/89R102.jpg"
     },
     {
       "codigo": "89S001",
@@ -2662,7 +2756,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/89T002.jpg"
     },
     {
       "codigo": "89Z080",
@@ -2932,7 +3027,8 @@
       "nuevo": true,
       "tipo": "MEDICAMENTO",
       "categoria": "Antipsicótico atípico",
-      "presentacion": "COMPRIMIDOS"
+      "presentacion": "COMPRIMIDOS",
+      "imagen": "images/100A279.jpg"
     },
     {
       "codigo": "100A016",
@@ -2942,7 +3038,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Anticolinérgico",
-      "presentacion": "AMPOLLA"
+      "presentacion": "AMPOLLA",
+      "imagen": "images/100A016.jpg"
     },
     {
       "codigo": "100B222",
@@ -3032,7 +3129,8 @@
       "nuevo": true,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiagregante plaquetario",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/100C556.jpg"
     },
     {
       "codigo": "100C009",
@@ -3042,7 +3140,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihistamínico / Antialérgico",
-      "presentacion": "AMPOLLA"
+      "presentacion": "AMPOLLA",
+      "imagen": "images/100C009.jpg"
     },
     {
       "codigo": "100C130",
@@ -3052,7 +3151,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiséptico / Desinfectante",
-      "presentacion": "FRASCO"
+      "presentacion": "FRASCO",
+      "imagen": "images/100C130.jpg"
     },
     {
       "codigo": "100C010",
@@ -3142,7 +3242,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRS",
-      "presentacion": "COMPRIMIDOS"
+      "presentacion": "COMPRIMIDOS",
+      "imagen": "images/100E273.jpg"
     },
     {
       "codigo": "100E253",
@@ -3332,7 +3433,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Medicamento oftálmico / Uso ocular",
-      "presentacion": "TUBO"
+      "presentacion": "TUBO",
+      "imagen": "images/100K056.jpg"
     },
     {
       "codigo": "100K052",
@@ -3723,7 +3825,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Laxante / Regulador intestinal",
-      "presentacion": "FRASCO"
+      "presentacion": "FRASCO",
+      "imagen": "images/105F203.jpg"
     },
     {
       "codigo": "105M098",
@@ -3743,7 +3846,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiséptico / Desinfectante",
-      "presentacion": "FRASCO"
+      "presentacion": "FRASCO",
+      "imagen": "images/105O032.jpg"
     },
     {
       "codigo": "129V147",
@@ -3903,7 +4007,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Antipsicótico atípico",
-      "presentacion": "COMPRIMIDO"
+      "presentacion": "COMPRIMIDO",
+      "imagen": "images/144I240.jpg"
     },
     {
       "codigo": "144M001",
@@ -4013,7 +4118,8 @@
       "nuevo": false,
       "tipo": "MEDICAMENTOS",
       "categoria": "Fibra / Laxante",
-      "presentacion": "FRASCO"
+      "presentacion": "FRASCO",
+      "imagen": "images/180H001.jpg"
     },
     {
       "codigo": "194D003",
