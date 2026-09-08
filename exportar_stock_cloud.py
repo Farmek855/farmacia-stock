@@ -53,8 +53,8 @@ RUTA_NOTICIAS_JSON = Path("docs/noticias.json")
 MAX_NOTICIAS = 20
 
 EXTENSIONES_IMAGEN = {".jpg", ".jpeg", ".png", ".webp"}
-EXTENSIONES_DOC = {".pdf", ".txt", ".html", ".htm"}
-EXTENSIONES_DOC_NOTICIA = {".txt", ".html", ".htm", ".docx"}
+EXTENSIONES_DOC = {".pdf", ".txt", ".html", ".htm", ".doc", ".docx"}
+EXTENSIONES_DOC_NOTICIA = {".txt", ".html", ".htm", ".docx", ".doc"}
 
 
 def descargar_de_google_drive(file_id: str, destino: str):
@@ -101,16 +101,16 @@ def leer_productos_con_stock(ruta_excel: str):
     ws = wb["Hoja1"]
 
     productos = []
-    fila = FILA_INICIO
-    while True:
+    filas_vacias = 0
+    total_filas_con_codigo = 0
+
+    for fila in range(FILA_INICIO, ws.max_row + 1):
         codigo = ws[f"{COL_CODIGO}{fila}"].value
         if codigo is None or str(codigo).strip() == "":
-            siguiente = ws[f"{COL_CODIGO}{fila + 1}"].value
-            if siguiente is None or str(siguiente).strip() == "":
-                break
-            fila += 1
+            filas_vacias += 1
             continue
 
+        total_filas_con_codigo += 1
         saldo = ws[f"{COL_SALDO}{fila}"].value
         try:
             saldo = float(saldo) if saldo is not None else 0
@@ -134,9 +134,12 @@ def leer_productos_con_stock(ruta_excel: str):
                 "categoria": valor_texto(ws[f"{COL_CATEGORIA}{fila}"]),
                 "presentacion": valor_texto(ws[f"{COL_PRESENTACION}{fila}"]),
             })
-        fila += 1
 
     wb.close()
+    print(f"  Filas revisadas: {FILA_INICIO} a {ws.max_row}")
+    print(f"  Filas con codigo encontradas: {total_filas_con_codigo}")
+    print(f"  Filas vacias encontradas (toleradas, no cortan la lectura): {filas_vacias}")
+    print(f"  Productos con stock > 0: {len(productos)}")
     return productos
 
 
@@ -242,7 +245,7 @@ def sincronizar_media(folder_id: str, session: AuthorizedSession):
             destino = CARPETA_DOCS / f"{codigo}doc{ext}"
             if descargar_archivo_drive_api(archivo["id"], session, destino):
                 info_doc = {"ruta": f"docs/{codigo}doc{ext}", "titulo": "", "texto": ""}
-                if ext in (".txt", ".html", ".htm", ".docx"):
+                if ext in (".txt", ".html", ".htm", ".docx", ".doc"):
                     titulo, cuerpo = extraer_texto_documento(destino, ext)
                     info_doc["titulo"] = titulo
                     info_doc["texto"] = cuerpo
@@ -258,7 +261,7 @@ def sincronizar_media(folder_id: str, session: AuthorizedSession):
 
 def extraer_texto_documento(ruta: Path, ext: str):
     """
-    Devuelve (titulo, cuerpo) leyendo un .txt, .html o .docx.
+    Devuelve (titulo, cuerpo) leyendo un .txt, .html, .docx o .doc.
     La primera linea/parrafo se usa como titulo.
     """
     lineas = []
@@ -269,6 +272,19 @@ def extraer_texto_documento(ruta: Path, ext: str):
             return "", ""
         d = docx.Document(str(ruta))
         lineas = [p.text.strip() for p in d.paragraphs if p.text.strip()]
+    elif ext == ".doc":
+        import subprocess
+        try:
+            resultado = subprocess.run(
+                ["antiword", str(ruta)], capture_output=True, text=True, timeout=30
+            )
+            if resultado.returncode != 0:
+                print(f"  ADVERTENCIA: antiword no pudo leer {ruta.name}: {resultado.stderr.strip()}")
+                return "", ""
+            lineas = [l.strip() for l in resultado.stdout.splitlines() if l.strip()]
+        except FileNotFoundError:
+            print("  ADVERTENCIA: falta instalar 'antiword' para leer archivos .doc")
+            return "", ""
     elif ext in (".html", ".htm"):
         import re
         contenido = ruta.read_text(encoding="utf-8", errors="ignore")
