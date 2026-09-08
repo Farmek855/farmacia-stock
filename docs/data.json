@@ -1,5 +1,5 @@
 {
-  "generado": "07-09-2026 13:08",
+  "generado": "08-09-2026 02:38",
   "productos": [
     {
       "codigo": "1A467",
@@ -10,8 +10,11 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiagregante plaquetario / AINE",
       "presentacion": "CAPSULAS",
-      "imagen": "images/1A467.jpeg",
-      "documento": "docs/1A467.pdf"
+      "imagenes": [
+        "images/1A467img.jpeg"
+      ],
+      "imagen": "images/1A467img.jpeg",
+      "documento": "docs/1A467doc.pdf"
     },
     {
       "codigo": "1A073",
@@ -22,8 +25,11 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1A073.jpg",
-      "documento": "docs/1A073.pdf"
+      "imagenes": [
+        "images/1A073img.jpg"
+      ],
+      "imagen": "images/1A073img.jpg",
+      "documento": "docs/1A073doc.pdf"
     },
     {
       "codigo": "1A320",
@@ -34,8 +40,11 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiepiléptico / Estabilizador del ánimo",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1A320.jpg",
-      "documento": "docs/1A320.pdf"
+      "imagenes": [
+        "images/1A320img.jpg"
+      ],
+      "imagen": "images/1A320img.jpg",
+      "documento": "docs/1A320doc.pdf"
     },
     {
       "codigo": "1A134",
@@ -46,8 +55,11 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiviral",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1A134.jpg",
-      "documento": "docs/1A134.pdf"
+      "imagenes": [
+        "images/1A134img.jpg"
+      ],
+      "imagen": "images/1A134img.jpg",
+      "documento": "docs/1A134doc.pdf"
     },
     {
       "codigo": "1A131",
@@ -58,7 +70,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiviral",
       "presentacion": "TUBO",
-      "imagen": "images/1A131.jpg"
+      "imagenes": [
+        "images/1A131img.jpg"
+      ],
+      "imagen": "images/1A131img.jpg"
     },
     {
       "codigo": "1A228",
@@ -69,7 +84,11 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1A228.jpeg"
+      "imagenes": [
+        "images/1A228img.jpg",
+        "images/1A228img.jpeg"
+      ],
+      "imagen": "images/1A228img.jpg"
     },
     {
       "codigo": "1A129",
@@ -80,7 +99,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antigotoso / Inhibidor de xantina oxidasa",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1A129.jpg"
+      "imagenes": [
+        "images/1A129img.jpg"
+      ],
+      "imagen": "images/1A129img.jpg"
     },
     {
       "codigo": "1A117",
@@ -101,7 +123,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiarrítmico",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1A039.jpg"
+      "imagenes": [
+        "images/1A039img.jpg"
+      ],
+      "imagen": "images/1A039img.jpg"
     },
     {
       "codigo": "1A332",
@@ -112,7 +137,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihipertensivo / Calcioantagonista",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1A332.jpg"
+      "imagenes": [
+        "images/1A332img.jpg"
+      ],
+      "imagen": "images/1A332img.jpg"
     },
     {
       "codigo": "1A331",
@@ -123,7 +151,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihipertensivo / Calcioantagonista",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1A331.jpg"
+      "imagenes": [
+        "images/1A331img.jpg"
+      ],
+      "imagen": "images/1A331img.jpg"
     },
     {
       "codigo": "1A470",
@@ -144,7 +175,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Penicilina",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1A067.jpg"
+      "imagenes": [
+        "images/1A067img.jpg"
+      ],
+      "imagen": "images/1A067img.jpg"
     },
     {
       "codigo": "1A101",
@@ -155,7 +189,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antipsicótico atípico",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1A101.jpg"
+      "imagenes": [
+        "images/1A101img.jpg"
+      ],
+      "imagen": "images/1A101img.jpg"
     },
     {
       "codigo": "1A297",
@@ -166,7 +203,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Macrólido",
       "presentacion": "CAJA",
-      "imagen": "images/1A297.jpg"
+      "imagenes": [
+        "images/1A297img.jpg"
+      ],
+      "imagen": "images/1A297img.jpg"
     },
     {
       "codigo": "1B236",
@@ -177,7 +217,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiespástico / Relajante muscular",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1B236.jpg"
+      "imagenes": [
+        "images/1B236img.jpg"
+      ],
+      "imagen": "images/1B236img.jpg"
     },
     {
       "codigo": "1B082",
@@ -208,7 +251,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Betabloqueador / Antihipertensivo",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1B001.jpg"
+      "imagenes": [
+        "images/1B001img.jpg"
+      ],
+      "imagen": "images/1B001img.jpg"
     },
     {
       "codigo": "1B016",
@@ -219,7 +265,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Betabloqueador / Antihipertensivo",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1B016.jpg"
+      "imagenes": [
+        "images/1B016img.jpg"
+      ],
+      "imagen": "images/1B016img.jpg"
     },
     {
       "codigo": "1C271",
@@ -230,7 +279,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Corticoide",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1C271.jpg"
+      "imagenes": [
+        "images/1C271img.jpg"
+      ],
+      "imagen": "images/1C271img.jpg"
     },
     {
       "codigo": "1C402",
@@ -241,7 +293,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihipertensivo / IECA",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1C402.jpg"
+      "imagenes": [
+        "images/1C402img.jpg"
+      ],
+      "imagen": "images/1C402img.jpg"
     },
     {
       "codigo": "1C017",
@@ -252,7 +307,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiepiléptico",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1C017.jpg"
+      "imagenes": [
+        "images/1C017img.jpg"
+      ],
+      "imagen": "images/1C017img.jpg"
     },
     {
       "codigo": "1C529",
@@ -263,7 +321,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Betabloqueador / Antihipertensivo",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1C529.jpg"
+      "imagenes": [
+        "images/1C529img.jpg"
+      ],
+      "imagen": "images/1C529img.jpg"
     },
     {
       "codigo": "1C082",
@@ -274,7 +335,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Cefalosporina",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1C082.jpg"
+      "imagenes": [
+        "images/1C082img.jpg"
+      ],
+      "imagen": "images/1C082img.jpg"
     },
     {
       "codigo": "1C010",
@@ -285,7 +349,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "CAPSULAS",
-      "imagen": "images/1C010.jpg"
+      "imagenes": [
+        "images/1C010img.jpg"
+      ],
+      "imagen": "images/1C010img.jpg"
     },
     {
       "codigo": "1C276",
@@ -296,7 +363,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Relajante muscular",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1C276.jpg"
+      "imagenes": [
+        "images/1C276img.jpg"
+      ],
+      "imagen": "images/1C276img.jpg"
     },
     {
       "codigo": "1C003",
@@ -307,7 +377,11 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1C003.jpeg"
+      "imagenes": [
+        "images/1C003img.jpg",
+        "images/1C003img.jpeg"
+      ],
+      "imagen": "images/1C003img.jpg"
     },
     {
       "codigo": "1C164",
@@ -318,7 +392,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Fluoroquinolona",
       "presentacion": "COMPR",
-      "imagen": "images/1C164.jpg"
+      "imagenes": [
+        "images/1C164img.jpg"
+      ],
+      "imagen": "images/1C164img.jpg"
     },
     {
       "codigo": "1C409",
@@ -349,7 +426,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1C471.jpg"
+      "imagenes": [
+        "images/1C471img.jpg"
+      ],
+      "imagen": "images/1C471img.jpg"
     },
     {
       "codigo": "1C472",
@@ -360,7 +440,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1C472.jpg"
+      "imagenes": [
+        "images/1C472img.jpg"
+      ],
+      "imagen": "images/1C472img.jpg"
     },
     {
       "codigo": "1C544",
@@ -371,7 +454,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiagregante plaquetario",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1C544.jpg"
+      "imagenes": [
+        "images/1C544img.jpg"
+      ],
+      "imagen": "images/1C544img.jpg"
     },
     {
       "codigo": "1C166",
@@ -402,7 +488,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Penicilina",
       "presentacion": "CAPSULA",
-      "imagen": "images/1C054.jpg"
+      "imagenes": [
+        "images/1C054img.jpg"
+      ],
+      "imagen": "images/1C054img.jpg"
     },
     {
       "codigo": "1C490",
@@ -413,7 +502,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihistamínico / Antialérgico",
       "presentacion": "FRASCO",
-      "imagen": "images/1C490.jpg"
+      "imagenes": [
+        "images/1C490img.jpg"
+      ],
+      "imagen": "images/1C490img.jpg"
     },
     {
       "codigo": "1C319",
@@ -434,7 +526,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Procinético / Antiemético",
       "presentacion": "AMPOLLA",
-      "imagen": "images/1D105.jpg"
+      "imagenes": [
+        "images/1D105img.jpg"
+      ],
+      "imagen": "images/1D105img.jpg"
     },
     {
       "codigo": "1D106",
@@ -445,7 +540,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Procinético / Antiemético",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1D106.jpg"
+      "imagenes": [
+        "images/1D106img.jpg"
+      ],
+      "imagen": "images/1D106img.jpg"
     },
     {
       "codigo": "1D600",
@@ -456,7 +554,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRSN",
       "presentacion": "CAPSULAS",
-      "imagen": "images/1D600.jpg"
+      "imagenes": [
+        "images/1D600img.jpg"
+      ],
+      "imagen": "images/1D600img.jpg"
     },
     {
       "codigo": "1D601",
@@ -467,7 +568,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRSN",
       "presentacion": "",
-      "imagen": "images/1D601.jpg"
+      "imagenes": [
+        "images/1D601img.jpg"
+      ],
+      "imagen": "images/1D601img.jpg"
     },
     {
       "codigo": "1E271",
@@ -488,7 +592,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRS",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1E249.jpg"
+      "imagenes": [
+        "images/1E249img.jpg"
+      ],
+      "imagen": "images/1E249img.jpg"
     },
     {
       "codigo": "1E261",
@@ -499,7 +606,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Inhibidor de bomba de protones / Antiulceroso",
       "presentacion": "CAPSULAS",
-      "imagen": "images/1E261.jpg"
+      "imagenes": [
+        "images/1E261img.jpg"
+      ],
+      "imagen": "images/1E261img.jpg"
     },
     {
       "codigo": "1E262",
@@ -510,7 +620,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Inhibidor de bomba de protones / Antiulceroso",
       "presentacion": "CAPSULAS",
-      "imagen": "images/1E262.jpg"
+      "imagenes": [
+        "images/1E262img.jpg"
+      ],
+      "imagen": "images/1E262img.jpg"
     },
     {
       "codigo": "1F250",
@@ -521,7 +634,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Fibra / Laxante",
       "presentacion": "CAPSULAS",
-      "imagen": "images/1F250.jpg"
+      "imagenes": [
+        "images/1F250img.jpg"
+      ],
+      "imagen": "images/1F250img.jpg"
     },
     {
       "codigo": "1F252",
@@ -532,7 +648,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antifúngico",
       "presentacion": "CAPSULA",
-      "imagen": "images/1F252.jpg"
+      "imagenes": [
+        "images/1F252img.jpg"
+      ],
+      "imagen": "images/1F252img.jpg"
     },
     {
       "codigo": "1F041",
@@ -543,7 +662,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRS",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1F041.jpg"
+      "imagenes": [
+        "images/1F041img.jpg"
+      ],
+      "imagen": "images/1F041img.jpg"
     },
     {
       "codigo": "1G068",
@@ -554,7 +676,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1G068.jpg"
+      "imagenes": [
+        "images/1G068img.jpg"
+      ],
+      "imagen": "images/1G068img.jpg"
     },
     {
       "codigo": "1H024",
@@ -575,7 +700,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antipsicótico típico",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1H026.jpg"
+      "imagenes": [
+        "images/1H026img.jpg"
+      ],
+      "imagen": "images/1H026img.jpg"
     },
     {
       "codigo": "1H016",
@@ -596,7 +724,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Corticoide",
       "presentacion": "FCO/AMP",
-      "imagen": "images/1H028.jpg"
+      "imagenes": [
+        "images/1H028img.jpg"
+      ],
+      "imagen": "images/1H028img.jpg"
     },
     {
       "codigo": "1H098",
@@ -607,7 +738,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Corticoide",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1H098.jpg"
+      "imagenes": [
+        "images/1H098img.jpg"
+      ],
+      "imagen": "images/1H098img.jpg"
     },
     {
       "codigo": "1H089",
@@ -638,7 +772,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/1I005.jpg"
+      "imagenes": [
+        "images/1I005img.jpg"
+      ],
+      "imagen": "images/1I005img.jpg"
     },
     {
       "codigo": "1I252",
@@ -1009,7 +1146,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antigalucomatosos",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/2A002.jpg"
+      "imagenes": [
+        "images/2A002img.jpg"
+      ],
+      "imagen": "images/2A002img.jpg"
     },
     {
       "codigo": "2A083",
@@ -1020,7 +1160,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Aminoglucósido",
       "presentacion": "AMPOLLA",
-      "imagen": "images/2A083.jpg"
+      "imagenes": [
+        "images/2A083img.jpg"
+      ],
+      "imagen": "images/2A083img.jpg"
     },
     {
       "codigo": "2A498",
@@ -1031,7 +1174,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/2A498.jpg"
+      "imagenes": [
+        "images/2A498img.jpg"
+      ],
+      "imagen": "images/2A498img.jpg"
     },
     {
       "codigo": "2C021",
@@ -1042,7 +1188,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihistamínico / Antialérgico",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/2C021.jpg"
+      "imagenes": [
+        "images/2C021img.jpg"
+      ],
+      "imagen": "images/2C021img.jpg"
     },
     {
       "codigo": "2D002",
@@ -1053,7 +1202,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "AMPOLLA",
-      "imagen": "images/2D002.jpg"
+      "imagenes": [
+        "images/2D002img.jpg"
+      ],
+      "imagen": "images/2D002img.jpg"
     },
     {
       "codigo": "2D001",
@@ -1064,7 +1216,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/2D001.jpg"
+      "imagenes": [
+        "images/2D001img.jpg"
+      ],
+      "imagen": "images/2D001img.jpg"
     },
     {
       "codigo": "2D015",
@@ -1075,7 +1230,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Glucósido cardíaco",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/2D015.jpg"
+      "imagenes": [
+        "images/2D015img.jpg"
+      ],
+      "imagen": "images/2D015img.jpg"
     },
     {
       "codigo": "2D006",
@@ -1116,7 +1274,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Diurético ahorrador de potasio / Antagonista de aldosterona",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/2E005.jpg"
+      "imagenes": [
+        "images/2E005img.jpg"
+      ],
+      "imagen": "images/2E005img.jpg"
     },
     {
       "codigo": "2F001",
@@ -1147,7 +1308,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Diurético de asa",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/2F007.jpg"
+      "imagenes": [
+        "images/2F007img.jpg"
+      ],
+      "imagen": "images/2F007img.jpg"
     },
     {
       "codigo": "2H001",
@@ -1158,7 +1322,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Diurético tiazídico",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/2H001.jpg"
+      "imagenes": [
+        "images/2H001img.jpg"
+      ],
+      "imagen": "images/2H001img.jpg"
     },
     {
       "codigo": "2L148",
@@ -1299,7 +1466,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Suplemento de vitamina D / Calcio",
       "presentacion": "CAJA",
-      "imagen": "images/5E270.jpg"
+      "imagenes": [
+        "images/5E270img.jpg"
+      ],
+      "imagen": "images/5E270img.jpg"
     },
     {
       "codigo": "5E116",
@@ -1370,7 +1540,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "GRAGEA",
-      "imagen": "images/6B063.jpg"
+      "imagenes": [
+        "images/6B063img.jpg"
+      ],
+      "imagen": "images/6B063img.jpg"
     },
     {
       "codigo": "6C666",
@@ -1381,7 +1554,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/6C666.jpg"
+      "imagenes": [
+        "images/6C666img.jpg"
+      ],
+      "imagen": "images/6C666img.jpg"
     },
     {
       "codigo": "6C398",
@@ -1432,7 +1608,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "AMPOLLA",
-      "imagen": "images/6L042.jpg"
+      "imagenes": [
+        "images/6L042img.jpg"
+      ],
+      "imagen": "images/6L042img.jpg"
     },
     {
       "codigo": "6P168",
@@ -1443,7 +1622,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "CAPSULA",
-      "imagen": "images/6P168.jpg"
+      "imagenes": [
+        "images/6P168img.jpg"
+      ],
+      "imagen": "images/6P168img.jpg"
     },
     {
       "codigo": "6S298",
@@ -1494,7 +1676,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidiabético / Inhibidor SGLT2",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/7J029.jpg"
+      "imagenes": [
+        "images/7J029img.jpg"
+      ],
+      "imagen": "images/7J029img.jpg"
     },
     {
       "codigo": "8A450",
@@ -1505,8 +1690,11 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiagregante plaquetario / AINE",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/8A450.jpg",
-      "documento": "docs/8A450.pdf"
+      "imagenes": [
+        "images/8A450img.jpg"
+      ],
+      "imagen": "images/8A450img.jpg",
+      "documento": "docs/8A450doc.pdf"
     },
     {
       "codigo": "12A460",
@@ -1517,7 +1705,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Bisfosfonato / Antirresortivo óseo",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/12A460.jpg"
+      "imagenes": [
+        "images/12A460img.jpg"
+      ],
+      "imagen": "images/12A460img.jpg"
     },
     {
       "codigo": "12M001",
@@ -1558,7 +1749,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiespástico / Relajante muscular",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/13C496.jpg"
+      "imagenes": [
+        "images/13C496img.jpg"
+      ],
+      "imagen": "images/13C496img.jpg"
     },
     {
       "codigo": "13C001",
@@ -1609,7 +1803,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antimicrobiano",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/13D002.jpg"
+      "imagenes": [
+        "images/13D002img.jpg"
+      ],
+      "imagen": "images/13D002img.jpg"
     },
     {
       "codigo": "13M172",
@@ -1680,7 +1877,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihistamínico / Antialérgico",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/15D311.jpg"
+      "imagenes": [
+        "images/15D311img.jpg"
+      ],
+      "imagen": "images/15D311img.jpg"
     },
     {
       "codigo": "15F054",
@@ -1691,7 +1891,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDOS",
-      "imagen": "images/15F054.jpg"
+      "imagenes": [
+        "images/15F054img.jpg"
+      ],
+      "imagen": "images/15F054img.jpg"
     },
     {
       "codigo": "19G192",
@@ -1732,7 +1935,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "SUPOSITORI",
-      "imagen": "images/21V003.jpg"
+      "imagenes": [
+        "images/21V003img.jpg"
+      ],
+      "imagen": "images/21V003img.jpg"
     },
     {
       "codigo": "25I220",
@@ -1763,7 +1969,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Laxante / Regulador intestinal",
       "presentacion": "FRASCO",
-      "imagen": "images/30C372.jpg"
+      "imagenes": [
+        "images/30C372img.jpg"
+      ],
+      "imagen": "images/30C372img.jpg"
     },
     {
       "codigo": "31F172",
@@ -1774,7 +1983,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "AINE / Analgésico-antinflamatorio",
       "presentacion": "TUBO",
-      "imagen": "images/31F172.jpg"
+      "imagenes": [
+        "images/31F172img.jpg"
+      ],
+      "imagen": "images/31F172img.jpg"
     },
     {
       "codigo": "31S350",
@@ -1795,7 +2007,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Hipolipemiante / Estatina",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/33A286.jpg"
+      "imagenes": [
+        "images/33A286img.jpg"
+      ],
+      "imagen": "images/33A286img.jpg"
     },
     {
       "codigo": "33A287",
@@ -1806,7 +2021,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Hipolipemiante / Estatina",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/33A287.jpg"
+      "imagenes": [
+        "images/33A287img.jpg"
+      ],
+      "imagen": "images/33A287img.jpg"
     },
     {
       "codigo": "33B131",
@@ -1817,7 +2035,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Medicamento tópico / Dermatológico",
       "presentacion": "POMO",
-      "imagen": "images/33B131.jpg"
+      "imagenes": [
+        "images/33B131img.jpg"
+      ],
+      "imagen": "images/33B131img.jpg"
     },
     {
       "codigo": "33C517",
@@ -1838,7 +2059,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Suplemento de hierro/folato",
       "presentacion": "CAPSULA",
-      "imagen": "images/33F143.jpg"
+      "imagenes": [
+        "images/33F143img.jpg"
+      ],
+      "imagen": "images/33F143img.jpg"
     },
     {
       "codigo": "33F001",
@@ -1849,7 +2073,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Laxante osmótico",
       "presentacion": "FRASCO",
-      "imagen": "images/33F001.jpg"
+      "imagenes": [
+        "images/33F001img.jpg"
+      ],
+      "imagen": "images/33F001img.jpg"
     },
     {
       "codigo": "33I230",
@@ -1860,7 +2087,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Anticoagulantes",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/33I230.jpg"
+      "imagenes": [
+        "images/33I230img.jpg"
+      ],
+      "imagen": "images/33I230img.jpg"
     },
     {
       "codigo": "33U010",
@@ -1931,7 +2161,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Corticoide",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/47C371.jpg"
+      "imagenes": [
+        "images/47C371img.jpg"
+      ],
+      "imagen": "images/47C371img.jpg"
     },
     {
       "codigo": "47D068",
@@ -1952,7 +2185,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/47D309.jpg"
+      "imagenes": [
+        "images/47D309img.jpg"
+      ],
+      "imagen": "images/47D309img.jpg"
     },
     {
       "codigo": "47E201",
@@ -1963,7 +2199,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/47E201.jpg"
+      "imagenes": [
+        "images/47E201img.jpg"
+      ],
+      "imagen": "images/47E201img.jpg"
     },
     {
       "codigo": "47G237",
@@ -1994,7 +2233,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Benzodiazepina / Ansiolítico",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/47N153.jpg"
+      "imagenes": [
+        "images/47N153img.jpg"
+      ],
+      "imagen": "images/47N153img.jpg"
     },
     {
       "codigo": "47P324",
@@ -2025,7 +2267,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Relajante muscular",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/47T116.jpg"
+      "imagenes": [
+        "images/47T116img.jpg"
+      ],
+      "imagen": "images/47T116img.jpg"
     },
     {
       "codigo": "49A473",
@@ -2036,7 +2281,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "FRASCO",
-      "imagen": "images/49A473.jpg"
+      "imagenes": [
+        "images/49A473img.jpg"
+      ],
+      "imagen": "images/49A473img.jpg"
     },
     {
       "codigo": "49E254",
@@ -2087,7 +2335,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "CAJA",
-      "imagen": "images/54P199.jpg"
+      "imagenes": [
+        "images/54P199img.jpg"
+      ],
+      "imagen": "images/54P199img.jpg"
     },
     {
       "codigo": "54S022",
@@ -2108,7 +2359,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiséptico / Desinfectante",
       "presentacion": "COMP/MASTI",
-      "imagen": "images/57A217.jpg"
+      "imagenes": [
+        "images/57A217img.jpg"
+      ],
+      "imagen": "images/57A217img.jpg"
     },
     {
       "codigo": "57A215",
@@ -2119,7 +2373,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Penicilina",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/57A215.jpg"
+      "imagenes": [
+        "images/57A215img.jpg"
+      ],
+      "imagen": "images/57A215img.jpg"
     },
     {
       "codigo": "57A212",
@@ -2130,7 +2387,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Anticolinérgico",
       "presentacion": "FRASCO",
-      "imagen": "images/57A212.jpg"
+      "imagenes": [
+        "images/57A212img.jpg"
+      ],
+      "imagen": "images/57A212img.jpg"
     },
     {
       "codigo": "57C480",
@@ -2141,7 +2401,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRS",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/57C480.jpg"
+      "imagenes": [
+        "images/57C480img.jpg"
+      ],
+      "imagen": "images/57C480img.jpg"
     },
     {
       "codigo": "57C001",
@@ -2152,7 +2415,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRS",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/57C001.jpg"
+      "imagenes": [
+        "images/57C001img.jpg"
+      ],
+      "imagen": "images/57C001img.jpg"
     },
     {
       "codigo": "57C292",
@@ -2173,7 +2439,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Betabloqueador / Antihipertensivo",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/57D175.jpg"
+      "imagenes": [
+        "images/57D175img.jpg"
+      ],
+      "imagen": "images/57D175img.jpg"
     },
     {
       "codigo": "57F116",
@@ -2244,7 +2513,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRSN",
       "presentacion": "CAPSULA",
-      "imagen": "images/57R166.jpg"
+      "imagenes": [
+        "images/57R166img.jpg"
+      ],
+      "imagen": "images/57R166img.jpg"
     },
     {
       "codigo": "57T001",
@@ -2265,7 +2537,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Complejo vitamínico / Neurotrófico",
       "presentacion": "AMPOLLA",
-      "imagen": "images/57T062.jpg"
+      "imagenes": [
+        "images/57T062img.jpg"
+      ],
+      "imagen": "images/57T062img.jpg"
     },
     {
       "codigo": "57T064",
@@ -2276,7 +2551,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Complejo vitamínico / Neurotrófico",
       "presentacion": "CAPSULA",
-      "imagen": "images/57T064.jpg"
+      "imagenes": [
+        "images/57T064img.jpg"
+      ],
+      "imagen": "images/57T064img.jpg"
     },
     {
       "codigo": "57T024",
@@ -2357,7 +2635,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Insumo para curación / Manejo de heridas",
       "presentacion": "TUBO",
-      "imagen": "images/63S316.jpg"
+      "imagenes": [
+        "images/63S316img.jpg"
+      ],
+      "imagen": "images/63S316img.jpg"
     },
     {
       "codigo": "64C002",
@@ -2398,7 +2679,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Anticoagulante / Heparina de bajo peso molecular",
       "presentacion": "JERINGA",
-      "imagen": "images/69C178.jpg"
+      "imagenes": [
+        "images/69C178img.jpg"
+      ],
+      "imagen": "images/69C178img.jpg"
     },
     {
       "codigo": "69C198",
@@ -2409,7 +2693,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Anticoagulante / Heparina de bajo peso molecular",
       "presentacion": "JERINGA",
-      "imagen": "images/69C198.jpg"
+      "imagenes": [
+        "images/69C198img.jpg"
+      ],
+      "imagen": "images/69C198img.jpg"
     },
     {
       "codigo": "70I012",
@@ -2430,7 +2717,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Cefalosporina",
       "presentacion": "FCO/AMP",
-      "imagen": "images/74C152.jpg"
+      "imagenes": [
+        "images/74C152img.jpg"
+      ],
+      "imagen": "images/74C152img.jpg"
     },
     {
       "codigo": "77M001",
@@ -2551,7 +2841,10 @@
       "tipo": "INYECTABLES",
       "categoria": "Solución parenteral / Aporte de glucosa",
       "presentacion": "MATRAZ",
-      "imagen": "images/78G004.jpg"
+      "imagenes": [
+        "images/78G004img.jpg"
+      ],
+      "imagen": "images/78G004img.jpg"
     },
     {
       "codigo": "78G008",
@@ -2572,7 +2865,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antibacteriano / Carbapenémico",
       "presentacion": "FRASCO AMP",
-      "imagen": "images/78I253.jpg"
+      "imagenes": [
+        "images/78I253img.jpg"
+      ],
+      "imagen": "images/78I253img.jpg"
     },
     {
       "codigo": "78L079",
@@ -2673,7 +2969,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/89B100.jpg"
+      "imagenes": [
+        "images/89B100img.jpg"
+      ],
+      "imagen": "images/89B100img.jpg"
     },
     {
       "codigo": "89E266",
@@ -2694,7 +2993,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Suplemento de hierro/folato",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/89F127.jpg"
+      "imagenes": [
+        "images/89F127img.jpg"
+      ],
+      "imagen": "images/89F127img.jpg"
     },
     {
       "codigo": "89M143",
@@ -2725,7 +3027,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "CAPSULA",
-      "imagen": "images/89R101.jpg"
+      "imagenes": [
+        "images/89R101img.jpg"
+      ],
+      "imagen": "images/89R101img.jpg"
     },
     {
       "codigo": "89R102",
@@ -2736,7 +3041,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "CAPSULA",
-      "imagen": "images/89R102.jpg"
+      "imagenes": [
+        "images/89R102img.jpg"
+      ],
+      "imagen": "images/89R102img.jpg"
     },
     {
       "codigo": "89S001",
@@ -2757,7 +3065,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Pendiente de clasificación",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/89T002.jpg"
+      "imagenes": [
+        "images/89T002img.jpg"
+      ],
+      "imagen": "images/89T002img.jpg"
     },
     {
       "codigo": "89Z080",
@@ -3028,7 +3339,10 @@
       "tipo": "MEDICAMENTO",
       "categoria": "Antipsicótico atípico",
       "presentacion": "COMPRIMIDOS",
-      "imagen": "images/100A279.jpg"
+      "imagenes": [
+        "images/100A279img.jpg"
+      ],
+      "imagen": "images/100A279img.jpg"
     },
     {
       "codigo": "100A016",
@@ -3039,7 +3353,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Anticolinérgico",
       "presentacion": "AMPOLLA",
-      "imagen": "images/100A016.jpg"
+      "imagenes": [
+        "images/100A016img.jpg"
+      ],
+      "imagen": "images/100A016img.jpg"
     },
     {
       "codigo": "100B222",
@@ -3130,7 +3447,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiagregante plaquetario",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/100C556.jpg"
+      "imagenes": [
+        "images/100C556img.jpg"
+      ],
+      "imagen": "images/100C556img.jpg"
     },
     {
       "codigo": "100C009",
@@ -3141,7 +3461,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antihistamínico / Antialérgico",
       "presentacion": "AMPOLLA",
-      "imagen": "images/100C009.jpg"
+      "imagenes": [
+        "images/100C009img.jpg"
+      ],
+      "imagen": "images/100C009img.jpg"
     },
     {
       "codigo": "100C130",
@@ -3152,7 +3475,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiséptico / Desinfectante",
       "presentacion": "FRASCO",
-      "imagen": "images/100C130.jpg"
+      "imagenes": [
+        "images/100C130img.jpg"
+      ],
+      "imagen": "images/100C130img.jpg"
     },
     {
       "codigo": "100C010",
@@ -3243,7 +3569,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antidepresivo / ISRS",
       "presentacion": "COMPRIMIDOS",
-      "imagen": "images/100E273.jpg"
+      "imagenes": [
+        "images/100E273img.jpg"
+      ],
+      "imagen": "images/100E273img.jpg"
     },
     {
       "codigo": "100E253",
@@ -3434,7 +3763,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Medicamento oftálmico / Uso ocular",
       "presentacion": "TUBO",
-      "imagen": "images/100K056.jpg"
+      "imagenes": [
+        "images/100K056img.jpg"
+      ],
+      "imagen": "images/100K056img.jpg"
     },
     {
       "codigo": "100K052",
@@ -3485,7 +3817,10 @@
       "tipo": "INSUMOS",
       "categoria": "Dispositivo médico / Administración de oxígeno",
       "presentacion": "UNIDAD",
-      "imagen": "images/100M227.png"
+      "imagenes": [
+        "images/100M227img.png"
+      ],
+      "imagen": "images/100M227img.png"
     },
     {
       "codigo": "100M116",
@@ -3826,7 +4161,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Laxante / Regulador intestinal",
       "presentacion": "FRASCO",
-      "imagen": "images/105F203.jpg"
+      "imagenes": [
+        "images/105F203img.jpg"
+      ],
+      "imagen": "images/105F203img.jpg"
     },
     {
       "codigo": "105M098",
@@ -3847,7 +4185,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antiséptico / Desinfectante",
       "presentacion": "FRASCO",
-      "imagen": "images/105O032.jpg"
+      "imagenes": [
+        "images/105O032img.jpg"
+      ],
+      "imagen": "images/105O032img.jpg"
     },
     {
       "codigo": "129V147",
@@ -4008,7 +4349,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Antipsicótico atípico",
       "presentacion": "COMPRIMIDO",
-      "imagen": "images/144I240.jpg"
+      "imagenes": [
+        "images/144I240img.jpg"
+      ],
+      "imagen": "images/144I240img.jpg"
     },
     {
       "codigo": "144M001",
@@ -4119,7 +4463,10 @@
       "tipo": "MEDICAMENTOS",
       "categoria": "Fibra / Laxante",
       "presentacion": "FRASCO",
-      "imagen": "images/180H001.jpg"
+      "imagenes": [
+        "images/180H001img.jpg"
+      ],
+      "imagen": "images/180H001img.jpg"
     },
     {
       "codigo": "194D003",
