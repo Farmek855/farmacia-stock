@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ficha del producto · Farmacia Limache</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#F5F6F2;
+    --paper:#FFFFFF;
+    --ink:#1C2321;
+    --ink-soft:#5B655F;
+    --ink-faint:#8B948D;
+    --rule:#DCDFD7;
+    --green:#1F6F4A;
+    --green-soft:#E3F0E8;
+    --green-line:#BFDACB;
+    --clay:#9A5A32;
+    --clay-soft:#F3E7DC;
+    --clay-line:#E3C7AE;
+    --focus:#1F6F4A;
+    --radius:3px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'Inter',system-ui,sans-serif;
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;}
+
+  .topbar{
+    background:var(--paper);
+    border-bottom:1px solid var(--rule);
+  }
+  .topbar-inner{
+    max-width:900px;
+    margin:0 auto;
+    padding:16px 24px;
+  }
+  .volver{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    font-size:0.9rem;
+    font-weight:600;
+    color:var(--green);
+    text-decoration:none;
+  }
+
+  main{
+    max-width:900px;
+    margin:0 auto;
+    padding:24px 24px 60px;
+  }
+
+  .ficha-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:14px;
+    flex-wrap:wrap;
+    margin-bottom:4px;
+  }
+  .codigo{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.82rem;
+    font-weight:600;
+    color:var(--ink-faint);
+  }
+  .tipo-chip{
+    font-size:0.74rem;
+    font-weight:600;
+    padding:3px 10px;
+    border-radius:999px;
+    white-space:nowrap;
+  }
+  .tipo-chip.medicamento{background:var(--green-soft); color:var(--green); border:1px solid var(--green-line);}
+  .tipo-chip.insumo{background:var(--clay-soft); color:var(--clay); border:1px solid var(--clay-line);}
+
+  h1.nombre{
+    font-family:'Source Serif 4', Georgia, serif;
+    font-size:1.7rem;
+    font-weight:700;
+    margin:6px 0 2px;
+    line-height:1.25;
+  }
+  .descriptor{
+    font-size:1rem;
+    color:var(--ink-soft);
+    margin:0 0 18px;
+  }
+
+  .galeria{
+    margin:18px 0;
+  }
+  .galeria-principal{
+    width:100%;
+    max-height:420px;
+    background:var(--paper);
+    border:1px solid var(--rule);
+    border-radius:var(--radius);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    overflow:hidden;
+  }
+  .galeria-principal img{
+    max-width:100%;
+    max-height:420px;
+    object-fit:contain;
+    display:block;
+  }
+  .galeria-miniaturas{
+    display:flex;
+    gap:8px;
+    margin-top:8px;
+    overflow-x:auto;
+  }
+  .galeria-miniaturas img{
+    width:64px;
+    height:64px;
+    object-fit:cover;
+    border-radius:var(--radius);
+    border:2px solid transparent;
+    cursor:pointer;
+    background:var(--bg);
+  }
+  .galeria-miniaturas img.activa{
+    border-color:var(--green);
+  }
+  .sin-foto{
+    padding:50px 20px;
+    text-align:center;
+    color:var(--ink-faint);
+    font-size:0.9rem;
+  }
+
+  .stock-badge{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.85rem;
+    font-weight:600;
+    color:var(--green);
+    background:var(--green-soft);
+    border:1px solid var(--green-line);
+    padding:6px 12px;
+    border-radius:var(--radius);
+    display:inline-block;
+    margin:16px 0 0;
+  }
+
+  .datos-tabla{
+    margin-top:22px;
+    border-top:1px solid var(--rule);
+    padding-top:16px;
+    display:grid;
+    grid-template-columns:auto 1fr;
+    gap:8px 16px;
+    font-size:0.9rem;
+  }
+  .datos-tabla dt{
+    color:var(--ink-faint);
+    font-weight:600;
+  }
+  .datos-tabla dd{
+    margin:0;
+  }
+
+  .info-relevante{
+    margin-top:24px;
+    background:var(--paper);
+    border:1px solid var(--rule);
+    border-radius:var(--radius);
+    padding:18px 20px;
+  }
+  .info-relevante h2{
+    font-family:'Source Serif 4', serif;
+    font-size:1.1rem;
+    margin:0 0 6px;
+  }
+  .info-relevante .info-subtitulo{
+    font-weight:600;
+    margin:0 0 6px;
+  }
+  .info-relevante .info-texto{
+    white-space:pre-line;
+    font-size:0.92rem;
+    color:var(--ink-soft);
+    line-height:1.55;
+  }
+  .info-relevante .sin-info{
+    color:var(--ink-faint);
+    font-style:italic;
+    font-size:0.88rem;
+  }
+
+  .doc-link{
+    display:inline-block;
+    margin-top:14px;
+    font-size:0.85rem;
+    color:var(--green);
+    text-decoration:underline;
+    font-weight:600;
+  }
+
+  .estado{
+    max-width:900px;
+    margin:60px auto;
+    padding:0 24px;
+    text-align:center;
+    color:var(--ink-faint);
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-inner">
+    <a class="volver" href="index.html">&larr; Volver al listado</a>
+  </div>
+</div>
+
+<main id="contenido"></main>
+<div class="estado" id="estado" hidden></div>
+
+<script>
+function normaliza(s){
+  return (s || '').toString().toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+}
+function tipoClase(tipo){
+  return normaliza(tipo).includes('insumo') ? 'insumo' : 'medicamento';
+}
+function tipoEtiqueta(tipo){
+  const t = normaliza(tipo);
+  if (t.includes('insumo')) return 'Insumo';
+  if (t.includes('inyect')) return 'Inyectable';
+  return 'Medicamento';
+}
+function unidadLegible(presentacion){
+  const p = normaliza(presentacion);
+  const mapa = {
+    'comprimido':'comprimidos', 'capsula':'cápsulas', 'capsulas':'cápsulas',
+    'ampolla':'ampollas', 'frasco':'frascos', 'tubo':'tubos',
+    'unidad':'unidades', 'paquete':'paquetes', 'caja':'cajas',
+    'rollo':'rollos', 'matraz':'frascos', 'ovulo/vag':'óvulos',
+    'sobre':'sobres', 'tarro':'tarros'
+  };
+  return mapa[p] || (presentacion ? presentacion.toLowerCase() : 'unidades');
+}
+function escapar(s){
+  return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function mostrarGaleria(imagenes){
+  if (!imagenes || imagenes.length === 0){
+    return '<div class="sin-foto">Sin fotos disponibles para este producto.</div>';
+  }
+  const miniaturas = imagenes.map((src, i) =>
+    `<img src="${src}" alt="" class="${i===0 ? 'activa' : ''}" onclick="cambiarFoto(this, '${src}')" data-src="${src}">`
+  ).join('');
+  return `
+    <div class="galeria-principal"><img id="foto-principal" src="${imagenes[0]}" alt=""></div>
+    ${imagenes.length > 1 ? `<div class="galeria-miniaturas">${miniaturas}</div>` : ''}
+  `;
+}
+
+function cambiarFoto(el, src){
+  document.getElementById('foto-principal').src = src;
+  document.querySelectorAll('.galeria-miniaturas img').forEach(img => img.classList.remove('activa'));
+  el.classList.add('activa');
+}
+
+(async function init(){
+  const params = new URLSearchParams(window.location.search);
+  const codigo = params.get('codigo');
+  const contenido = document.getElementById('contenido');
+  const estado = document.getElementById('estado');
+
+  if (!codigo){
+    estado.hidden = false;
+    estado.textContent = 'No se indico un producto (falta el codigo en el enlace).';
+    return;
+  }
+
+  let payload;
+  try{
+    const res = await fetch('data.json', {cache:'no-store'});
+    payload = await res.json();
+  }catch(e){
+    estado.hidden = false;
+    estado.textContent = 'No se pudo cargar la informacion de productos.';
+    return;
+  }
+
+  const productos = payload.productos || [];
+  const p = productos.find(x => x.codigo === codigo);
+
+  if (!p){
+    estado.hidden = false;
+    estado.textContent = `No se encontro el producto con codigo "${codigo}" (puede que ya no tenga stock).`;
+    return;
+  }
+
+  const stockTexto = (p.saldo !== undefined && p.saldo !== null)
+    ? `${p.saldo} ${unidadLegible(p.presentacion)}`
+    : '';
+
+  document.title = `${p.nombre || p.codigo} · Farmacia Limache`;
+
+  contenido.innerHTML = `
+    <div class="ficha-top">
+      <span class="codigo">${escapar(p.codigo)}</span>
+      <span class="tipo-chip ${tipoClase(p.tipo)}">${tipoEtiqueta(p.tipo)}</span>
+    </div>
+    <h1 class="nombre">${escapar(p.nombre || p.descripcion || 'Sin nombre')}</h1>
+    ${p.descripcion ? `<p class="descriptor">${escapar(p.descripcion)}</p>` : ''}
+
+    <div class="galeria">${mostrarGaleria(p.imagenes)}</div>
+
+    ${stockTexto ? `<span class="stock-badge">${stockTexto}</span>` : ''}
+
+    <dl class="datos-tabla">
+      ${p.presentacion ? `<dt>Presentación</dt><dd>${escapar(p.presentacion)}</dd>` : ''}
+      ${p.categoria ? `<dt>Categoría</dt><dd>${escapar(p.categoria)}</dd>` : ''}
+    </dl>
+
+    <div class="info-relevante">
+      <h2>Información del producto</h2>
+      ${p.informacion_titulo ? `<p class="info-subtitulo">${escapar(p.informacion_titulo)}</p>` : ''}
+      ${p.informacion
+        ? `<div class="info-texto">${escapar(p.informacion)}</div>`
+        : `<p class="sin-info">Todavía no se ha agregado información adicional para este producto.</p>`}
+      ${p.documento ? `<div><a class="doc-link" href="${p.documento}" target="_blank" rel="noopener">Ver documento adjunto</a></div>` : ''}
+    </div>
+  `;
+})();
+</script>
+
+</body>
+</html>
