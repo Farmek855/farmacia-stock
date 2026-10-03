@@ -10,8 +10,6 @@ on:
   # 13:00 UTC = 10:00 Chile en horario de VERANO (sept-abril aprox).
   # 14:00 UTC = 10:00 Chile en horario de INVIERNO (abril-sept aprox).
   # Cambia el numero abajo cuando cambie el horario en Chile si quieres que sea exacto.
-  schedule:
-    - cron: '0 13 * * *'
 
 permissions:
   contents: write
